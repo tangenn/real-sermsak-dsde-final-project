@@ -1,0 +1,17 @@
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Raw data
+rawData/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
