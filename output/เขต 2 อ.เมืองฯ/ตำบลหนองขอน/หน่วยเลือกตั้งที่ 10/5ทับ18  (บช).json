@@ -1,0 +1,318 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "เขต 2 อ.เมืองฯ",
+    "tambon": "ตำบลหนองขอน",
+    "unit": 10,
+    "form_type": "party_list",
+    "source": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหนองขอน\\หน่วยเลือกตั้งที่ 10\\5ทับ18  (บช).pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "party_list",
+  "summary": {
+    "eligible_voters": 312,
+    "turnout": 310,
+    "ballots_allocated": 500,
+    "ballots_used": 270,
+    "valid_ballots": 270,
+    "spoiled_ballots": 8,
+    "abstain_ballots": 24,
+    "ballots_remaining": 410
+  },
+  "results": [
+    {
+      "number": 11,
+      "party": "เศรษฐกิจ",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 12,
+      "party": "เสรีรวมไทย",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 13,
+      "party": "รวมพลังประชาชน",
+      "votes": 0,
+      "votes_th": "อนันต์"
+    },
+    {
+      "number": 14,
+      "party": "พ้องไทย",
+      "votes": 0,
+      "votes_th": "อนันต์"
+    },
+    {
+      "number": 15,
+      "party": "อนาคตใหม่",
+      "votes": 0,
+      "votes_th": "อนันต์"
+    },
+    {
+      "number": 16,
+      "party": "พลังเพื่อไทย",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 17,
+      "party": "ไททานา",
+      "votes": 0,
+      "votes_th": "อนันต์"
+    },
+    {
+      "number": 18,
+      "party": "พลังสังคมไทย",
+      "votes": 0,
+      "votes_th": "อนันต์"
+    },
+    {
+      "number": 19,
+      "party": "สังคมประชาธิปัตย์ไทย",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 20,
+      "party": "ชาวชน",
+      "votes": 0,
+      "votes_th": "อนันต์"
+    },
+    {
+      "number": 21,
+      "party": "โภชนาพทิง",
+      "votes": 13,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 22,
+      "party": "กำนันศร",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 23,
+      "party": "บางคล้าไทย",
+      "votes": 0,
+      "votes_th": "อนันต์"
+    },
+    {
+      "number": 24,
+      "party": "วิชาชีพ",
+      "votes": 0,
+      "votes_th": "อนันต์"
+    },
+    {
+      "number": 25,
+      "party": "เสียงไทย",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 26,
+      "party": "คอมมิวนิสต์",
+      "votes": 0,
+      "votes_th": "อนันต์"
+    },
+    {
+      "number": 27,
+      "party": "การชาร์ทวิล",
+      "votes": 12,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 28,
+      "party": "ไมตรีไทย",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 29,
+      "party": "โปรกติก",
+      "votes": 0,
+      "votes_th": "อนันต์"
+    },
+    {
+      "number": 30,
+      "party": "ธรรมนูญ ชาติ",
+      "votes": 0,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 31,
+      "party": "ธรรมชาติ",
+      "votes": 0,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 32,
+      "party": "ราษฎรพัฒนา",
+      "votes": 0,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 33,
+      "party": "ราษฎรพัฒนา",
+      "votes": 0,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 34,
+      "party": "ราษฎรพัฒนา",
+      "votes": 0,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 35,
+      "party": "ราษฎรพัฒนา",
+      "votes": 0,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 35,
+      "party": "รักชาติ",
+      "votes": 0,
+      "votes_th": "ศันย์"
+    },
+    {
+      "number": 36,
+      "party": "ไทยพร้อม",
+      "votes": 0,
+      "votes_th": "ศันย์"
+    },
+    {
+      "number": 37,
+      "party": "ภูมิใจไทย",
+      "votes": 52,
+      "votes_th": "ทับธิมาก"
+    },
+    {
+      "number": 38,
+      "party": "พลังธรรมใหม่",
+      "votes": 0,
+      "votes_th": "คุณพ์"
+    },
+    {
+      "number": 39,
+      "party": "ทริน",
+      "votes": 0,
+      "votes_th": "ศันย์"
+    },
+    {
+      "number": 40,
+      "party": "ไทยธรรม",
+      "votes": 0,
+      "votes_th": "ศันย์"
+    },
+    {
+      "number": 41,
+      "party": "แลนด์คาร์ม",
+      "votes": 0,
+      "votes_th": "ศันย์"
+    },
+    {
+      "number": 42,
+      "party": "กล้าธรรม",
+      "votes": 17,
+      "votes_th": "สินเชื้อ"
+    },
+    {
+      "number": 43,
+      "party": "พลังงานชาวไร่",
+      "votes": 0,
+      "votes_th": "มนย์"
+    },
+    {
+      "number": 44,
+      "party": "โอกาสใหม่",
+      "votes": 0,
+      "votes_th": "ศันย์"
+    },
+    {
+      "number": 45,
+      "party": "เป็นธรรม",
+      "votes": 0,
+      "votes_th": "ศันย์"
+    },
+    {
+      "number": 46,
+      "party": "ประชาชน",
+      "votes": 10,
+      "votes_th": "เก้าสิบ"
+    },
+    {
+      "number": 47,
+      "party": "ประชาไทย",
+      "votes": 0,
+      "votes_th": "ศันย์"
+    },
+    {
+      "number": 48,
+      "party": "ไทยเสรีไทย",
+      "votes": 2,
+      "votes_th": "ทอง"
+    },
+    {
+      "number": 49,
+      "party": "ไทยสร้างไทย",
+      "votes": 0,
+      "votes_th": "ศันย์"
+    },
+    {
+      "number": 50,
+      "party": "ประชาราษฎร์",
+      "votes": 0,
+      "votes_th": "สำลี"
+    },
+    {
+      "number": 51,
+      "party": "พร้อม",
+      "votes": 2,
+      "votes_th": "ไอดา"
+    },
+    {
+      "number": 52,
+      "party": "เสรีภาพ ผู้แทนราษฎร",
+      "votes": 0,
+      "votes_th": "ชนธ์"
+    },
+    {
+      "number": 53,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 0,
+      "votes_th": "ศันย์"
+    },
+    {
+      "number": 54,
+      "party": "ธรรมโชติ",
+      "votes": 0,
+      "votes_th": "ศันย์"
+    },
+    {
+      "number": 55,
+      "party": "ประชาไทย",
+      "votes": 1,
+      "votes_th": "ไอดา"
+    },
+    {
+      "number": 56,
+      "party": "สิทธิพล",
+      "votes": 0,
+      "votes_th": "ชนธ์"
+    },
+    {
+      "number": 57,
+      "party": "พลังประวัติศาสตร์",
+      "votes": 0,
+      "votes_th": "ศันย์"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 116,
+    "status": "PASS"
+  }
+}

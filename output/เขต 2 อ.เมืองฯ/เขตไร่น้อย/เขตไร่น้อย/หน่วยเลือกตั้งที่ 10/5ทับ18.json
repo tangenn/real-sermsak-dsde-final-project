@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "เขตไร่น้อย",
+    "tambon": "เขตไร่น้อย",
+    "unit": 10,
+    "form_type": "constituency",
+    "source": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 10\\5ทับ18.pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 0,
+    "turnout": 0,
+    "ballots_allocated": 0,
+    "ballots_used": 0,
+    "valid_ballots": 0,
+    "spoiled_ballots": 0,
+    "abstain_ballots": 0,
+    "ballots_remaining": 0
+  },
+  "results": [],
+  "_validation": {
+    "total_votes_in_table": 0,
+    "status": "EMPTY"
+  }
+}

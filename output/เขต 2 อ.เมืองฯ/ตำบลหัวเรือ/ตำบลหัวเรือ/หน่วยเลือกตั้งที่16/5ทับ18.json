@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "ตำบลหัวเรือ",
+    "tambon": "ตำบลหัวเรือ",
+    "unit": 16,
+    "form_type": "constituency",
+    "source": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหัวเรือ\\ตำบลหัวเรือ\\หน่วยเลือกตั้งที่16\\5ทับ18.pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 351,
+    "turnout": 302,
+    "ballots_allocated": 360,
+    "ballots_used": 302,
+    "valid_ballots": 293,
+    "spoiled_ballots": 5,
+    "abstain_ballots": 4,
+    "ballots_remaining": 58
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "กล้าธรรม",
+      "votes": 137,
+      "votes_th": "หนึ่งร้อยสามสิบเจ็ด"
+    },
+    {
+      "number": 2,
+      "party": "ภูมิใจไทย",
+      "votes": 2,
+      "votes_th": "สี่"
+    },
+    {
+      "number": 3,
+      "party": "เพื่อไทย",
+      "votes": 5,
+      "votes_th": "ห้า"
+    },
+    {
+      "number": 4,
+      "party": "ประชาชน",
+      "votes": 25,
+      "votes_th": "ยี่สิบห้า"
+    },
+    {
+      "number": 5,
+      "party": "ไทรวมพลัง",
+      "votes": 119,
+      "votes_th": "หนึ่งร้อยสิบเก้า"
+    },
+    {
+      "number": 6,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 7,
+      "party": "พลังประชารัฐ",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปัตย์",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 9,
+      "party": "เศรษฐกิจ",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 10,
+      "party": "ไทยก้าวใหม่",
+      "votes": 2,
+      "votes_th": "หนึ่ง"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 292,
+    "status": "PASS"
+  }
+}

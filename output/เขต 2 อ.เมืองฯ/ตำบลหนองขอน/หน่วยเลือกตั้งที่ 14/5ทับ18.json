@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "เขต 2 อ.เมืองฯ",
+    "tambon": "ตำบลหนองขอน",
+    "unit": 14,
+    "form_type": "constituency",
+    "source": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหนองขอน\\หน่วยเลือกตั้งที่ 14\\5ทับ18.pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 300,
+    "turnout": 297,
+    "ballots_allocated": 900,
+    "ballots_used": 237,
+    "valid_ballots": 213,
+    "spoiled_ballots": 6,
+    "abstain_ballots": 18,
+    "ballots_remaining": 63
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "กล้าธรรม",
+      "votes": 84,
+      "votes_th": "แปดสิบสี่"
+    },
+    {
+      "number": 2,
+      "party": "ภูมิใจไทย",
+      "votes": 12,
+      "votes_th": "สิบสอง"
+    },
+    {
+      "number": 3,
+      "party": "เพื่อไทย",
+      "votes": 21,
+      "votes_th": "ยี่สิบเอ็ด"
+    },
+    {
+      "number": 4,
+      "party": "ประชาชน",
+      "votes": 29,
+      "votes_th": "สี่สิบเก้า"
+    },
+    {
+      "number": 5,
+      "party": "ไทรวมพลัง",
+      "votes": 59,
+      "votes_th": "ห้าสิบเก้า"
+    },
+    {
+      "number": 6,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 7,
+      "party": "พลังประชารัฐ",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปัตย์",
+      "votes": 3,
+      "votes_th": "สาม"
+    },
+    {
+      "number": 9,
+      "party": "เศรษฐกิจ",
+      "votes": 3,
+      "votes_th": "สาม"
+    },
+    {
+      "number": 10,
+      "party": "ไทยก้าวใหม่",
+      "votes": 2,
+      "votes_th": "สอง"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 213,
+    "status": "PASS"
+  }
+}

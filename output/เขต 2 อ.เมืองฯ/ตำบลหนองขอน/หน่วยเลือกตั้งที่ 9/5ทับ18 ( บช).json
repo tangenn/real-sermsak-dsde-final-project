@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "เขต 2 อ.เมืองฯ",
+    "tambon": "ตำบลหนองขอน",
+    "unit": 9,
+    "form_type": "party_list",
+    "source": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหนองขอน\\หน่วยเลือกตั้งที่ 9\\5ทับ18 ( บช).pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "party_list",
+  "summary": {
+    "eligible_voters": 598,
+    "turnout": 598,
+    "ballots_allocated": 598,
+    "ballots_used": 598,
+    "valid_ballots": 577,
+    "spoiled_ballots": 21,
+    "abstain_ballots": 0,
+    "ballots_remaining": 196
+  },
+  "results": [
+    {
+      "number": 11,
+      "party": "เศรษฐกิจ",
+      "votes": 11,
+      "votes_th": "สิบเอ็ด"
+    },
+    {
+      "number": 12,
+      "party": "เสรีรวมไทย",
+      "votes": 3,
+      "votes_th": "สาม"
+    },
+    {
+      "number": 13,
+      "party": "รวมพลังประชาชน",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 14,
+      "party": "ท้องถิ่นไทย",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 15,
+      "party": "อนาคตไทย",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 16,
+      "party": "พลังเพื่อไทย",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 17,
+      "party": "ไทยชนะ",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 18,
+      "party": "พลังงานใหม่",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 19,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 20,
+      "party": "พิทักษ์",
+      "votes": 47,
+      "votes_th": "สี่สิบเจ็ด"
+    },
+    {
+      "number": 21,
+      "party": "ไททานิค",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 22,
+      "party": "ก้าวไกล",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 23,
+      "party": "บางจาก",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 24,
+      "party": "ไทยรับใหม่",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 25,
+      "party": "เพื่อชาติไทย",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 26,
+      "party": "กองทัพรา",
+      "votes": 11,
+      "votes_th": "สิบเอ็ด"
+    },
+    {
+      "number": 27,
+      "party": "ประชาธิปัตย์",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 28,
+      "party": "ไทยคำหนึ่ง",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 29,
+      "party": "ไทยรักไทย",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 30,
+      "party": "ประชาธิปัตย์",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 31,
+      "party": "ไทยรักไทย",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 77,
+    "status": "PASS"
+  }
+}

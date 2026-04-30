@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "เขตไร่น้อย",
+    "tambon": "เขตไร่น้อย",
+    "unit": 38,
+    "form_type": "party_list",
+    "source": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 38\\5ทับ18(บช).pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "party_list",
+  "summary": {
+    "eligible_voters": 684,
+    "turnout": 493,
+    "ballots_allocated": 680,
+    "ballots_used": 493,
+    "valid_ballots": 439,
+    "spoiled_ballots": 24,
+    "abstain_ballots": 30,
+    "ballots_remaining": 187
+  },
+  "results": [
+    {
+      "number": 35,
+      "party": "รักชาติ",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 36,
+      "party": "ไทยพร้อม",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 37,
+      "party": "ภูมิใจไทย",
+      "votes": 48,
+      "votes_th": "สี่สิบแปด"
+    },
+    {
+      "number": 38,
+      "party": "พลังธรรมใหม่",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 39,
+      "party": "กรีน",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 40,
+      "party": "ไทยธรรม",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 41,
+      "party": "แผ่นดินธรรม",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 42,
+      "party": "กล้าธรรม",
+      "votes": 3,
+      "votes_th": "สาม"
+    },
+    {
+      "number": 43,
+      "party": "พลังประชารัฐ",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 44,
+      "party": "โอกาสใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 45,
+      "party": "เป็นธรรม",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 46,
+      "party": "ประชาชน",
+      "votes": 116,
+      "votes_th": "หนึ่งร้อยสิบหก"
+    },
+    {
+      "number": 47,
+      "party": "ประชาไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 48,
+      "party": "ไทยสร้างไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 49,
+      "party": "ไทยก้าวใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 50,
+      "party": "ประชาอาสาชาติ",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 51,
+      "party": "พร้อม",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 52,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 53,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 54,
+      "party": "ความหวังใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 55,
+      "party": "ไทยรวมไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 56,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 472,
+      "votes_th": "สี่ร้อยสี่สิบสอง"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 646,
+    "status": "PASS"
+  }
+}

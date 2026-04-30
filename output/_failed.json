@@ -1,0 +1,30 @@
+[
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลขี้เหล็ก\\ตำบลขี้เหล็ก\\หน่วยเลือกตั้งที่ 1\\5ทับ18(บช).pdf",
+    "error": "Image size (211621888 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack."
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลปะอาว\\ตำบลปะอาว\\หน่วยเลือกตั้งที่ 4\\5ทับ18(บช).pdf",
+    "error": "Image size (226144584 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack."
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลปะอาว\\ตำบลปะอาว\\หน่วยเลือกตั้งที่ 5\\5ทับ18(บช).pdf",
+    "error": "Image size (202198416 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack."
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหนองขอน\\หน่วยเลือกตั้งที่ 7\\5ทับ 18( บช).pdf",
+    "error": "timeout after 3 min"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 12\\5ทับ18(บช).pdf",
+    "error": "timeout after 3 min"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 15\\5ทับ18(บช).pdf",
+    "error": "Image size (222359100 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack."
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 15\\5ทับ18.pdf",
+    "error": "Image size (222359100 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack."
+  }
+]

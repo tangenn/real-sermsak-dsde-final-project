@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "ตำบลปะอาว",
+    "tambon": "ตำบลปะอาว",
+    "unit": 9,
+    "form_type": "party_list",
+    "source": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลปะอาว\\ตำบลปะอาว\\หน่วยเลือกตั้งที่ 9\\5ทับ18(บช).pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "party_list",
+  "summary": {
+    "eligible_voters": 425,
+    "turnout": 269,
+    "ballots_allocated": 420,
+    "ballots_used": 239,
+    "valid_ballots": 256,
+    "spoiled_ballots": 10,
+    "abstain_ballots": 5,
+    "ballots_remaining": 151
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 2,
+      "party": "เพื่อชาติไทย",
+      "votes": 3,
+      "votes_th": "สาม"
+    },
+    {
+      "number": 3,
+      "party": "ใหม่",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 4,
+      "party": "มิติใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 5,
+      "party": "รวมใจไทย",
+      "votes": 4,
+      "votes_th": "สี่"
+    },
+    {
+      "number": 6,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 6,
+      "votes_th": "หก"
+    },
+    {
+      "number": 7,
+      "party": "พลวัต",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 9,
+      "party": "เพื่อไทย",
+      "votes": 39,
+      "votes_th": "สามรับเก้า"
+    },
+    {
+      "number": 10,
+      "party": "ทางเลือกใหม่",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 11,
+      "party": "เศรษฐกิจ",
+      "votes": 30,
+      "votes_th": "สามสิบ"
+    },
+    {
+      "number": 12,
+      "party": "เสรีรวมไทย",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 13,
+      "party": "รวมพลังประชาชน",
+      "votes": 3,
+      "votes_th": "สาม"
+    },
+    {
+      "number": 14,
+      "party": "ท้องที่ไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 15,
+      "party": "อนาคตไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 16,
+      "party": "พลังเพื่อไทย",
+      "votes": 6,
+      "votes_th": "สาม"
+    },
+    {
+      "number": 17,
+      "party": "ไทยชนะ",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 18,
+      "party": "พลังสังคมใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 19,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 20,
+      "party": "ฟิวชัน",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 21,
+      "party": "ไทรวมพลัง",
+      "votes": 61,
+      "votes_th": "หกล้มเอบ ๆ"
+    },
+    {
+      "number": 22,
+      "party": "ก้าวอิสระ",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 23,
+      "party": "ปวงชนไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 24,
+      "party": "วิชชั่นใหม่",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 25,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 26,
+      "party": "คลองไทย",
+      "votes": 8,
+      "votes_th": "แปด"
+    },
+    {
+      "number": 27,
+      "party": "ประชาธิปัตย์",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 28,
+      "party": "ไทยก้าวหน้า",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 29,
+      "party": "ไทยภักดี",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 30,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 31,
+      "party": "ประชากรไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 32,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 33,
+      "party": "ประชาชาติ",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 34,
+      "party": "สร้างอนาคตไทย",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 35,
+      "party": "รักชาติ",
+      "votes": 240,
+      "votes_th": "ศูนย์ เกษม"
+    },
+    {
+      "number": 36,
+      "party": "ไทยพร้อม",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 37,
+      "party": "ภูมิใจไทย",
+      "votes": 33,
+      "votes_th": "สามสิบสาม"
+    },
+    {
+      "number": 38,
+      "party": "พลังธรรมใหม่",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 39,
+      "party": "กรีน",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 40,
+      "party": "ไทยธรรม",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 41,
+      "party": "แผ่นดินธรรม",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 42,
+      "party": "กล้าธรรม",
+      "votes": 28,
+      "votes_th": "มีสิมทป 9"
+    },
+    {
+      "number": 43,
+      "party": "พลังประชารัฐ",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 44,
+      "party": "โอกาสใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 45,
+      "party": "เป็นธรรม",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 46,
+      "party": "ประชาชน",
+      "votes": 39,
+      "votes_th": "สามสิบเก้า"
+    },
+    {
+      "number": 47,
+      "party": "ประชาไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 48,
+      "party": "ไทยสร้างไทย",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 49,
+      "party": "ไทยก้าวใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 50,
+      "party": "ประชาอาสาชาติ",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 51,
+      "party": "พร้อม",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 52,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 53,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 54,
+      "party": "ความหวังใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 55,
+      "party": "ไทยรวมไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 56,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 519,
+    "status": "PASS"
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "ตำบลหัวเรือ",
+    "tambon": "ตำบลหัวเรือ",
+    "unit": 9,
+    "form_type": "party_list",
+    "source": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหัวเรือ\\ตำบลหัวเรือ\\หน่วยเลือกตั้งที่9\\5ทับ18(บช).pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "party_list",
+  "summary": {
+    "eligible_voters": 347,
+    "turnout": 347,
+    "ballots_allocated": 340,
+    "ballots_used": 285,
+    "valid_ballots": 234,
+    "spoiled_ballots": 13,
+    "abstain_ballots": 14,
+    "ballots_remaining": 95
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 4,
+      "votes_th": "สี่"
+    },
+    {
+      "number": 2,
+      "party": "เพื่อชาติไทย",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 3,
+      "party": "ใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 4,
+      "party": "มิติใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 5,
+      "party": "รวมใจไทย",
+      "votes": 7,
+      "votes_th": "เจ็ด"
+    },
+    {
+      "number": 6,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 7,
+      "votes_th": "เจ็ด"
+    },
+    {
+      "number": 7,
+      "party": "พลวัต",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 9,
+      "party": "เพื่อไทย",
+      "votes": 36,
+      "votes_th": "สามสิบหก"
+    },
+    {
+      "number": 10,
+      "party": "",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 11,
+      "party": "เศรษฐกิจ",
+      "votes": 9,
+      "votes_th": "เก้า"
+    },
+    {
+      "number": 12,
+      "party": "เสรีรวมไทย",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 13,
+      "party": "รวมพลังประชาชน",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 14,
+      "party": "ท้องที่ไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 15,
+      "party": "อนาคตไทย",
+      "votes": 4,
+      "votes_th": "สี่"
+    },
+    {
+      "number": 16,
+      "party": "พลังเพื่อไทย",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 17,
+      "party": "ไทยชนะ",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 18,
+      "party": "พลังสังคมใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 19,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 20,
+      "party": "ฟิวชัน",
+      "votes": 52,
+      "votes_th": "ห้าสิบสอง"
+    },
+    {
+      "number": 21,
+      "party": "ไทรวมพลัง",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 22,
+      "party": "ก้าวอิสระ",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 23,
+      "party": "ปวงชนไทย",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 24,
+      "party": "วิชชั่นใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 25,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 26,
+      "party": "คลองไทย",
+      "votes": 4,
+      "votes_th": "สี่"
+    },
+    {
+      "number": 27,
+      "party": "ประชาธิปัตย์",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 28,
+      "party": "ไทยก้าวหน้า",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 29,
+      "party": "ไทยภักดี",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 30,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 31,
+      "party": "ประชากรไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 32,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 33,
+      "party": "ประชาชาติ",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 34,
+      "party": "สร้างอนาคตไทย",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 136,
+    "status": "PASS"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "เขตไร่น้อย",
+    "tambon": "เขตไร่น้อย",
+    "unit": 43,
+    "form_type": "constituency",
+    "source": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 43\\5ทับ18.pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 627,
+    "turnout": 446,
+    "ballots_allocated": 620,
+    "ballots_used": 446,
+    "valid_ballots": 40,
+    "spoiled_ballots": 7,
+    "abstain_ballots": 38,
+    "ballots_remaining": 174
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "กล้าธรรม",
+      "votes": 92,
+      "votes_th": "เก้าสิบสอง"
+    },
+    {
+      "number": 2,
+      "party": "ภูมิใจไทย",
+      "votes": 40,
+      "votes_th": "สี่สิบ"
+    },
+    {
+      "number": 3,
+      "party": "เพื่อไทย",
+      "votes": 38,
+      "votes_th": "สามสิบแปด"
+    },
+    {
+      "number": 4,
+      "party": "ประชาชน",
+      "votes": 117,
+      "votes_th": "หนึ่งร้อยสิบแปด"
+    },
+    {
+      "number": 5,
+      "party": "ไทรวมพลัง",
+      "votes": 91,
+      "votes_th": "เก้าสิบเอ็ด"
+    },
+    {
+      "number": 6,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 3,
+      "votes_th": "สาม"
+    },
+    {
+      "number": 7,
+      "party": "พลังประชารัฐ",
+      "votes": 4,
+      "votes_th": "สี่"
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปัตย์",
+      "votes": 5,
+      "votes_th": "ห้า"
+    },
+    {
+      "number": 9,
+      "party": "เศรษฐกิจ",
+      "votes": 8,
+      "votes_th": "แปด"
+    },
+    {
+      "number": 10,
+      "party": "ไทยก้าวใหม่",
+      "votes": 3,
+      "votes_th": "สาม"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 401,
+    "status": "PASS"
+  }
+}
