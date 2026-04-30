@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลหนองเหล่า",
+    "unit": 1,
+    "form_type": "constituency",
+    "source": "rawData\\อำเภอเขื่องใน\\ตำบลหนองเหล่า\\หน่วยเลือกตั้งที่ 1\\5ทับ18.pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 471,
+    "turnout": 335,
+    "ballots_allocated": 460,
+    "ballots_used": 335,
+    "valid_ballots": 320,
+    "spoiled_ballots": 9,
+    "abstain_ballots": 6,
+    "ballots_remaining": 125
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "กล้าธรรม",
+      "votes": 212,
+      "votes_th": "สองร้อยสิบสอง"
+    },
+    {
+      "number": 2,
+      "party": "ภูมิใจไทย",
+      "votes": 22,
+      "votes_th": "ยุทธ สอง"
+    },
+    {
+      "number": 3,
+      "party": "เพื่อไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 4,
+      "party": "ประชาชน",
+      "votes": 15,
+      "votes_th": "ศิลป์"
+    },
+    {
+      "number": 5,
+      "party": "ไทรวมพลัง",
+      "votes": 84,
+      "votes_th": "แพร่สิบสี่"
+    },
+    {
+      "number": 6,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 7,
+      "party": "พลังประชารัฐ",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปัตย์",
+      "votes": 4,
+      "votes_th": "สี่"
+    },
+    {
+      "number": 9,
+      "party": "เศรษฐกิจ",
+      "votes": 3,
+      "votes_th": "สาม"
+    },
+    {
+      "number": 10,
+      "party": "ไทยก้าวใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 340,
+    "status": "PASS"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลสหธาตุ",
+    "unit": 1,
+    "form_type": "constituency",
+    "source": "rawData\\อำเภอเขื่องใน\\ตำบลสหธาตุ\\หน่วยเลือกตั้งที่ 1\\5ทับ18.pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 324,
+    "turnout": 204,
+    "ballots_allocated": 320,
+    "ballots_used": 204,
+    "valid_ballots": 93,
+    "spoiled_ballots": 193,
+    "abstain_ballots": 3,
+    "ballots_remaining": 8
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "กล้าธรรม",
+      "votes": 87,
+      "votes_th": "แปดสิบเจ็ด"
+    },
+    {
+      "number": 2,
+      "party": "ภูมิใจไทย",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 3,
+      "party": "เพื่อไทย",
+      "votes": 10,
+      "votes_th": "สิบ"
+    },
+    {
+      "number": 4,
+      "party": "ประชาชน",
+      "votes": 19,
+      "votes_th": "สิบเก้า"
+    },
+    {
+      "number": 5,
+      "party": "ไทรวมพลัง",
+      "votes": 92,
+      "votes_th": "เจ็ดสิบสอง"
+    },
+    {
+      "number": 6,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 9,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 7,
+      "party": "พลังประชารัฐ",
+      "votes": 0,
+      "votes_th": "ไม่มี"
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปัตย์",
+      "votes": 0,
+      "votes_th": "ไม่มี"
+    },
+    {
+      "number": 9,
+      "party": "เศรษฐกิจ",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 10,
+      "party": "ไทยก้าวใหม่",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 221,
+    "status": "PASS"
+  }
+}

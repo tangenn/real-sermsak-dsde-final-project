@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลหัวดอน",
+    "unit": 11,
+    "form_type": "constituency",
+    "source": "rawData\\อำเภอเขื่องใน\\ตำบลหัวดอน\\หน่วยเลือกตั้งที่ 11\\5ทับ18.pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 478,
+    "turnout": 0,
+    "ballots_allocated": 460,
+    "ballots_used": 550,
+    "valid_ballots": 334,
+    "spoiled_ballots": 6,
+    "abstain_ballots": 10,
+    "ballots_remaining": 110
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "กล้าธรรม",
+      "votes": 169,
+      "votes_th": "หนึ่งร้อยหกสิบเก้าคะแนน"
+    },
+    {
+      "number": 2,
+      "party": "ภูมิใจไทย",
+      "votes": 1,
+      "votes_th": "หนึ่งคะแนน"
+    },
+    {
+      "number": 3,
+      "party": "เพื่อไทย",
+      "votes": 4,
+      "votes_th": "สี่คะแนน"
+    },
+    {
+      "number": 4,
+      "party": "ประชาชน",
+      "votes": 27,
+      "votes_th": "ยี่สิบเจ็ดคะแนน"
+    },
+    {
+      "number": 5,
+      "party": "ไทรวมพลัง",
+      "votes": 120,
+      "votes_th": "หนึ่งร้อยสิบสองคะแนน"
+    },
+    {
+      "number": 6,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1,
+      "votes_th": "หนึ่งคะแนน"
+    },
+    {
+      "number": 7,
+      "party": "พลังประชารัฐ",
+      "votes": 1,
+      "votes_th": "หนึ่งคะแนน"
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปัตย์",
+      "votes": 5,
+      "votes_th": "ห้าคะแนน"
+    },
+    {
+      "number": 9,
+      "party": "เศรษฐกิจ",
+      "votes": 6,
+      "votes_th": "หกคะแนน"
+    },
+    {
+      "number": 10,
+      "party": "ไทยก้าวใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์คะแนน"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 334,
+    "status": "PASS"
+  }
+}

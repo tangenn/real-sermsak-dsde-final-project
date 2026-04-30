@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลศรีสุข",
+    "unit": 4,
+    "form_type": "constituency",
+    "source": "rawData\\อำเภอเขื่องใน\\ตำบลศรีสุข\\หน่วยเลือกตั้งที่ 4\\5ทับ18.pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 638,
+    "turnout": 404,
+    "ballots_allocated": 620,
+    "ballots_used": 404,
+    "valid_ballots": 323,
+    "spoiled_ballots": 15,
+    "abstain_ballots": 6,
+    "ballots_remaining": 216
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "กล้าธรรม",
+      "votes": 129,
+      "votes_th": "หนึ่งร้อยยี่สิบเก้า"
+    },
+    {
+      "number": 2,
+      "party": "ภูมิใจไทย",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 3,
+      "party": "เพื่อไทย",
+      "votes": 2,
+      "votes_th": "สองคะแนน"
+    },
+    {
+      "number": 4,
+      "party": "ประชาชน",
+      "votes": 13,
+      "votes_th": "สิบสามคะแนน"
+    },
+    {
+      "number": 5,
+      "party": "ไทรวมพลัง",
+      "votes": 238,
+      "votes_th": "สองร้อยสามสิบแปด"
+    },
+    {
+      "number": 6,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 7,
+      "party": "พลังประชารัฐ",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปัตย์",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 9,
+      "party": "เศรษฐกิจ",
+      "votes": 1,
+      "votes_th": "หนึ่งคะแนน"
+    },
+    {
+      "number": 10,
+      "party": "ไทยก้าวใหม่",
+      "votes": 0,
+      "votes_th": "-"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 383,
+    "status": "PASS"
+  }
+}

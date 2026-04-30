@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลสร้างถ่อ",
+    "unit": 2,
+    "form_type": "party_list",
+    "source": "rawData\\อำเภอเขื่องใน\\ตำบลสร้างถ่อ\\หน่วยเลือกตั้งที่ 2\\5ทับ18(บช).pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "party_list",
+  "summary": {
+    "eligible_voters": 11,
+    "turnout": 1,
+    "ballots_allocated": 20,
+    "ballots_used": 10,
+    "valid_ballots": 9,
+    "spoiled_ballots": 1,
+    "abstain_ballots": 1,
+    "ballots_remaining": 10
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 19,
+      "votes_th": "สิบเก้า"
+    },
+    {
+      "number": 2,
+      "party": "เพื่อชาติไทย",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 3,
+      "party": "ใหม่",
+      "votes": 5,
+      "votes_th": "ห้า"
+    },
+    {
+      "number": 4,
+      "party": "มิติใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 5,
+      "party": "รวมใจไทย",
+      "votes": 11,
+      "votes_th": "สิบเอ็ด"
+    },
+    {
+      "number": 6,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 7,
+      "party": "พอวัด",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 5,
+      "votes_th": "ห้า"
+    },
+    {
+      "number": 9,
+      "party": "เพื่อไทย",
+      "votes": 10,
+      "votes_th": "สิบ"
+    },
+    {
+      "number": 10,
+      "party": "ทางเลือกใหม่",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 55,
+    "status": "PASS"
+  }
+}

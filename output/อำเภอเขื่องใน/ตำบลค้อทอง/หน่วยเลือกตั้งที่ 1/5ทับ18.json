@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลค้อทอง",
+    "unit": 1,
+    "form_type": "constituency",
+    "source": "rawData\\อำเภอเขื่องใน\\ตำบลค้อทอง\\หน่วยเลือกตั้งที่ 1\\5ทับ18.pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 410,
+    "turnout": 271,
+    "ballots_allocated": 400,
+    "ballots_used": 271,
+    "valid_ballots": 256,
+    "spoiled_ballots": 15,
+    "abstain_ballots": 15,
+    "ballots_remaining": 129
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "กล้าธรรม",
+      "votes": 102,
+      "votes_th": "หนึ่งร้อยสอง"
+    },
+    {
+      "number": 2,
+      "party": "ภูมิใจไทย",
+      "votes": 25,
+      "votes_th": "สองห้า"
+    },
+    {
+      "number": 3,
+      "party": "เพื่อไทย",
+      "votes": 7,
+      "votes_th": "สองเจ็ด"
+    },
+    {
+      "number": 4,
+      "party": "ประชาชน",
+      "votes": 421,
+      "votes_th": "สี่ร้อยยี่สิบเอ็ด"
+    },
+    {
+      "number": 5,
+      "party": "ไทรวมพลัง",
+      "votes": 119,
+      "votes_th": "หนึ่งร้อยสิบเก้า"
+    },
+    {
+      "number": 6,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 7,
+      "party": "พลังประชารัฐ",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปัตย์",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 9,
+      "party": "เศรษฐกิจ",
+      "votes": 255,
+      "votes_th": "สองร้อยห้าสิบห้า"
+    },
+    {
+      "number": 10,
+      "party": "ไทยก้าวใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 929,
+    "status": "PASS"
+  }
+}

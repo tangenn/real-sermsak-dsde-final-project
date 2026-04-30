@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลท่าไห",
+    "unit": 6,
+    "form_type": "constituency",
+    "source": "rawData\\อำเภอเขื่องใน\\ตำบลท่าไห\\หน่วยเลือกตั้งที่ 6\\5ทับ18.pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 600,
+    "turnout": 392,
+    "ballots_allocated": 600,
+    "ballots_used": 292,
+    "valid_ballots": 291,
+    "spoiled_ballots": 1,
+    "abstain_ballots": 1,
+    "ballots_remaining": 907
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "กล้าธรรม",
+      "votes": 114,
+      "votes_th": "หนึ่งร้อยสิบสี่"
+    },
+    {
+      "number": 2,
+      "party": "ภูมิใจไทย",
+      "votes": 179,
+      "votes_th": "หนึ่งร้อยเจ็ดสิบเก้า"
+    },
+    {
+      "number": 3,
+      "party": "เพื่อไทย",
+      "votes": 331,
+      "votes_th": "สามร้อยสามสิบเอ็ด"
+    },
+    {
+      "number": 4,
+      "party": "ประชาชน",
+      "votes": 568,
+      "votes_th": "ห้าร้อยหกสิบแปด"
+    },
+    {
+      "number": 5,
+      "party": "ไทรวมพลัง",
+      "votes": 176,
+      "votes_th": "หนึ่งร้อยเจ็ดสิบหก"
+    },
+    {
+      "number": 6,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 131,
+      "votes_th": "หนึ่งร้อยสามสิบเอ็ด"
+    },
+    {
+      "number": 7,
+      "party": "พลังประชารัฐ",
+      "votes": 137,
+      "votes_th": "หนึ่งร้อยสามสิบเจ็ด"
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปัตย์",
+      "votes": 137,
+      "votes_th": "หนึ่งร้อยสามสิบเจ็ด"
+    },
+    {
+      "number": 9,
+      "party": "เศรษฐกิจ",
+      "votes": 135,
+      "votes_th": "หนึ่งร้อยสามสิบห้า"
+    },
+    {
+      "number": 10,
+      "party": "ไทยก้าวใหม่",
+      "votes": 138,
+      "votes_th": "หนึ่งร้อยสามสิบแปด"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 2046,
+    "status": "PASS"
+  }
+}

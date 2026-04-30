@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลนาคำใหญ่",
+    "unit": 8,
+    "form_type": "constituency",
+    "source": "rawData\\อำเภอเขื่องใน\\ตำบลนาคำใหญ่\\หน่วยเลือกตั้งที่ 8\\5ทับ18.pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 504,
+    "turnout": 296,
+    "ballots_allocated": 500,
+    "ballots_used": 296,
+    "valid_ballots": 280,
+    "spoiled_ballots": 9,
+    "abstain_ballots": 7,
+    "ballots_remaining": 204
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "กล้าธรรม",
+      "votes": 83,
+      "votes_th": "แปดสิบสาม"
+    },
+    {
+      "number": 2,
+      "party": "ภูมิใจไทย",
+      "votes": 3,
+      "votes_th": "สาม"
+    },
+    {
+      "number": 3,
+      "party": "เพื่อไทย",
+      "votes": 20,
+      "votes_th": "ยี่สิบ"
+    },
+    {
+      "number": 4,
+      "party": "ประชาชน",
+      "votes": 43,
+      "votes_th": "สี่สิบสาม"
+    },
+    {
+      "number": 5,
+      "party": "ไทรวมพลัง",
+      "votes": 121,
+      "votes_th": "หนึ่งร้อยยี่สิบเอ็ด"
+    },
+    {
+      "number": 6,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 7,
+      "party": "พลังประชารัฐ",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปัตย์",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 9,
+      "party": "เศรษฐกิจ",
+      "votes": 8,
+      "votes_th": "แปด"
+    },
+    {
+      "number": 10,
+      "party": "ไทยก้าวใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 280,
+    "status": "PASS"
+  }
+}

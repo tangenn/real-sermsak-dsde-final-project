@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลสร้างถ่อ",
+    "unit": 3,
+    "form_type": "party_list",
+    "source": "rawData\\อำเภอเขื่องใน\\ตำบลสร้างถ่อ\\หน่วยเลือกตั้งที่ 3\\5ทับ18(บช).pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "party_list",
+  "summary": {},
+  "results": [],
+  "_validation": {
+    "total_votes_in_table": 0,
+    "status": "FAILED"
+  }
+}

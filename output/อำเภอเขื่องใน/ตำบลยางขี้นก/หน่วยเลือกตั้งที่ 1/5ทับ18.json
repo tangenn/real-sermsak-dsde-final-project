@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลยางขี้นก",
+    "unit": 1,
+    "form_type": "constituency",
+    "source": "rawData\\อำเภอเขื่องใน\\ตำบลยางขี้นก\\หน่วยเลือกตั้งที่ 1\\5ทับ18.pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 140,
+    "turnout": 140,
+    "ballots_allocated": 140,
+    "ballots_used": 140,
+    "valid_ballots": 140,
+    "spoiled_ballots": 140,
+    "abstain_ballots": 140,
+    "ballots_remaining": 140
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "กล้าธรรม",
+      "votes": 9,
+      "votes_th": "เก้า"
+    },
+    {
+      "number": 2,
+      "party": "ภูมิใจไทย",
+      "votes": 3,
+      "votes_th": "สาม"
+    },
+    {
+      "number": 3,
+      "party": "เพื่อไทย",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 4,
+      "party": "ประชาชน",
+      "votes": 29,
+      "votes_th": "ยี่สิบเก้า"
+    },
+    {
+      "number": 5,
+      "party": "ไทรวมพลัง",
+      "votes": 105,
+      "votes_th": "หนึ่งร้อยห้า"
+    },
+    {
+      "number": 6,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 7,
+      "party": "พลังประชารัฐ",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปัตย์",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 9,
+      "party": "เศรษฐกิจ",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 10,
+      "party": "ไทยก้าวใหม่",
+      "votes": 0,
+      "votes_th": ""
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 148,
+    "status": "PASS"
+  }
+}

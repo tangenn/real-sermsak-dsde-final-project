@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "ตำบลขี้เหล็ก",
+    "tambon": "ตำบลขี้เหล็ก",
+    "unit": 5,
+    "form_type": "constituency",
+    "source": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลขี้เหล็ก\\ตำบลขี้เหล็ก\\หน่วยเลือกตั้งที่ 5\\5ทับ18.pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 590,
+    "turnout": 482,
+    "ballots_allocated": 580,
+    "ballots_used": 482,
+    "valid_ballots": 438,
+    "spoiled_ballots": 18,
+    "abstain_ballots": 26,
+    "ballots_remaining": 78
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "กล้าธรรม",
+      "votes": 210,
+      "votes_th": "สองร้อยสิบ"
+    },
+    {
+      "number": 2,
+      "party": "ภูมิใจไทย",
+      "votes": 13,
+      "votes_th": "สิบสาม"
+    },
+    {
+      "number": 3,
+      "party": "เพื่อไทย",
+      "votes": 19,
+      "votes_th": "สิบเก้า"
+    },
+    {
+      "number": 4,
+      "party": "ประชาชน",
+      "votes": 68,
+      "votes_th": "หกสิบแปด"
+    },
+    {
+      "number": 5,
+      "party": "ไทรวมพลัง",
+      "votes": 115,
+      "votes_th": "หนึ่งร้อยสิบห้า"
+    },
+    {
+      "number": 6,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 3,
+      "votes_th": "สาม"
+    },
+    {
+      "number": 7,
+      "party": "พลังประชารัฐ",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปัตย์",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 9,
+      "party": "เศรษฐกิจ",
+      "votes": 7,
+      "votes_th": "เจ็ด"
+    },
+    {
+      "number": 10,
+      "party": "ไทยก้าวใหม่",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 438,
+    "status": "PASS"
+  }
+}

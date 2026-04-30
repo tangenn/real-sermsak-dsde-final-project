@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "ตำบลปะอาว",
+    "tambon": "ตำบลปะอาว",
+    "unit": 3,
+    "form_type": "constituency",
+    "source": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลปะอาว\\ตำบลปะอาว\\หน่วยเลือกตั้งที่ 3\\5ทับ18.pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 632,
+    "turnout": 404,
+    "ballots_allocated": 620,
+    "ballots_used": 404,
+    "valid_ballots": 368,
+    "spoiled_ballots": 17,
+    "abstain_ballots": 19,
+    "ballots_remaining": 216
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "กล้าธรรม",
+      "votes": 92,
+      "votes_th": "เก้าสิบสอง"
+    },
+    {
+      "number": 2,
+      "party": "ภูมิใจไทย",
+      "votes": 11,
+      "votes_th": "สิบเอ็ด"
+    },
+    {
+      "number": 3,
+      "party": "เพื่อไทย",
+      "votes": 55,
+      "votes_th": "ห้าสิบห้า"
+    },
+    {
+      "number": 4,
+      "party": "ประชาชน",
+      "votes": 67,
+      "votes_th": "หกสิบเจ็ด"
+    },
+    {
+      "number": 5,
+      "party": "ไทรวมพลัง",
+      "votes": 122,
+      "votes_th": "หนึ่งร้อยยี่สิบสอง"
+    },
+    {
+      "number": 6,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 4,
+      "votes_th": "สี่"
+    },
+    {
+      "number": 7,
+      "party": "พลังประชารัฐ",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปัตย์",
+      "votes": 7,
+      "votes_th": "เจ็ด"
+    },
+    {
+      "number": 9,
+      "party": "เศรษฐกิจ",
+      "votes": 10,
+      "votes_th": "สิบ"
+    },
+    {
+      "number": 10,
+      "party": "ไทยก้าวใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 368,
+    "status": "PASS"
+  }
+}

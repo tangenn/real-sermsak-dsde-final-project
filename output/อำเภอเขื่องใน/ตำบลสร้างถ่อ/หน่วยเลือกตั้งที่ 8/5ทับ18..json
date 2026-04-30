@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลสร้างถ่อ",
+    "unit": 8,
+    "form_type": "constituency",
+    "source": "rawData\\อำเภอเขื่องใน\\ตำบลสร้างถ่อ\\หน่วยเลือกตั้งที่ 8\\5ทับ18..pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 168,
+    "turnout": 168,
+    "ballots_allocated": 168,
+    "ballots_used": 161,
+    "valid_ballots": 161,
+    "spoiled_ballots": 3,
+    "abstain_ballots": 0,
+    "ballots_remaining": 4
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "กล้าธรรม",
+      "votes": 80,
+      "votes_th": "แปดสิบ"
+    },
+    {
+      "number": 2,
+      "party": "ภูมิใจไทย",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 3,
+      "party": "เพื่อไทย",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 4,
+      "party": "ประชาชน",
+      "votes": 5,
+      "votes_th": "ห้า"
+    },
+    {
+      "number": 5,
+      "party": "ไทรวมพลัง",
+      "votes": 72,
+      "votes_th": "เจ็ดสิบสอง"
+    },
+    {
+      "number": 6,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 7,
+      "party": "พลังประชารัฐ",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปัตย์",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 9,
+      "party": "เศรษฐกิจ",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 10,
+      "party": "ไทยก้าวใหม่",
+      "votes": 0,
+      "votes_th": "-"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 161,
+    "status": "PASS"
+  }
+}

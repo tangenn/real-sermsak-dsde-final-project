@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลท่าไห",
+    "unit": 6,
+    "form_type": "party_list",
+    "source": "rawData\\อำเภอเขื่องใน\\ตำบลท่าไห\\หน่วยเลือกตั้งที่ 6\\5ทับ18(บช).pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "party_list",
+  "summary": {
+    "eligible_voters": 644,
+    "turnout": 292,
+    "ballots_allocated": 600,
+    "ballots_used": 249,
+    "valid_ballots": 152,
+    "spoiled_ballots": 970,
+    "abstain_ballots": 5,
+    "ballots_remaining": 368
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 8,
+      "votes_th": "หกสิบ"
+    },
+    {
+      "number": 2,
+      "party": "เพื่อชาติไทย",
+      "votes": 6,
+      "votes_th": "หกบาท"
+    },
+    {
+      "number": 3,
+      "party": "ใหม่",
+      "votes": 2,
+      "votes_th": "สองบาท"
+    },
+    {
+      "number": 4,
+      "party": "มิติใหม่",
+      "votes": 1,
+      "votes_th": "หนึ่งบาท"
+    },
+    {
+      "number": 5,
+      "party": "รวมใจไทย",
+      "votes": 10,
+      "votes_th": "สิบบาท"
+    },
+    {
+      "number": 6,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 7,
+      "votes_th": "เจ็ดบาท"
+    },
+    {
+      "number": 7,
+      "party": "พลวัต",
+      "votes": 0,
+      "votes_th": "บาทถ้วน"
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 0,
+      "votes_th": "บาทถ้วน"
+    },
+    {
+      "number": 9,
+      "party": "เพื่อไทย",
+      "votes": 53,
+      "votes_th": "ห้าสิบสามบาทถ้วน"
+    },
+    {
+      "number": 10,
+      "party": "ทางเลือกใหม่",
+      "votes": 2,
+      "votes_th": "สองบาท"
+    },
+    {
+      "number": 11,
+      "party": "เศรษฐกิจ เสรีรวมไทย",
+      "votes": 5,
+      "votes_th": "ห้าบาท"
+    },
+    {
+      "number": 12,
+      "party": "รวมพลังประชาชน",
+      "votes": 1,
+      "votes_th": "หนึ่งบาท"
+    },
+    {
+      "number": 13,
+      "party": "ท้องที่ไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์บาท"
+    },
+    {
+      "number": 14,
+      "party": "อนาคตไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์บาท"
+    },
+    {
+      "number": 15,
+      "party": "พลังเพื่อไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์บาท"
+    },
+    {
+      "number": 16,
+      "party": "ไทยชนะ",
+      "votes": 0,
+      "votes_th": "ศูนย์บาท"
+    },
+    {
+      "number": 17,
+      "party": "พลังสังคมใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์บาท"
+    },
+    {
+      "number": 18,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์บาท"
+    },
+    {
+      "number": 19,
+      "party": "ฟิวชัน",
+      "votes": 0,
+      "votes_th": "ศูนย์บาท"
+    },
+    {
+      "number": 20,
+      "party": "ไทรวมพลัง",
+      "votes": 0,
+      "votes_th": "ศูนย์บาท"
+    },
+    {
+      "number": 21,
+      "party": "ก้าวไกล",
+      "votes": 0,
+      "votes_th": "ศูนย์บาท"
+    },
+    {
+      "number": 22,
+      "party": "ปวงชนไทย",
+      "votes": 1,
+      "votes_th": "หนึ่งบาท"
+    },
+    {
+      "number": 23,
+      "party": "วิชชั่นใหม่",
+      "votes": 1,
+      "votes_th": "หนึ่งบาท"
+    },
+    {
+      "number": 24,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 1,
+      "votes_th": "หนึ่งบาท"
+    },
+    {
+      "number": 25,
+      "party": "คลองไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์บาท"
+    },
+    {
+      "number": 26,
+      "party": "ประชาธิปัตย์",
+      "votes": 0,
+      "votes_th": "ศูนย์บาท"
+    },
+    {
+      "number": 27,
+      "party": "ไทยก้าวหน้า",
+      "votes": 0,
+      "votes_th": "ศูนย์บาท"
+    },
+    {
+      "number": 28,
+      "party": "ไทยภักดี",
+      "votes": 1,
+      "votes_th": "หนึ่งบาท"
+    },
+    {
+      "number": 29,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 1,
+      "votes_th": "หนึ่งบาท"
+    },
+    {
+      "number": 30,
+      "party": "ประชากรไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์บาท"
+    },
+    {
+      "number": 31,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 0,
+      "votes_th": "ศูนย์บาท"
+    },
+    {
+      "number": 32,
+      "party": "ประชาชาติ",
+      "votes": 0,
+      "votes_th": "ศูนย์บาท"
+    },
+    {
+      "number": 33,
+      "party": "สร้างอนาคตไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์บาท"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 100,
+    "status": "PASS"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลสร้างถ่อ",
+    "unit": 12,
+    "form_type": "party_list",
+    "source": "rawData\\อำเภอเขื่องใน\\ตำบลสร้างถ่อ\\หน่วยเลือกตั้งที่ 12\\5ทับ18(บช).pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "party_list",
+  "summary": {
+    "eligible_voters": 561,
+    "turnout": 399,
+    "ballots_allocated": 560,
+    "ballots_used": 399,
+    "valid_ballots": 375,
+    "spoiled_ballots": 15,
+    "abstain_ballots": 9,
+    "ballots_remaining": 161
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 4,
+      "votes_th": "สี่"
+    },
+    {
+      "number": 2,
+      "party": "เพื่อชาติไทย",
+      "votes": 3,
+      "votes_th": "สาม"
+    },
+    {
+      "number": 3,
+      "party": "ใหม่",
+      "votes": 3,
+      "votes_th": "สาม"
+    },
+    {
+      "number": 4,
+      "party": "มิติใหม่",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 5,
+      "party": "รวมใจไทย",
+      "votes": 10,
+      "votes_th": "สิบ"
+    },
+    {
+      "number": 6,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 4,
+      "votes_th": "สี่"
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 46,
+      "votes_th": "สี่สิบหก"
+    },
+    {
+      "number": 9,
+      "party": "เพื่อไทย",
+      "votes": 5,
+      "votes_th": "ห้า"
+    },
+    {
+      "number": 10,
+      "party": "ทางเลือกใหม่",
+      "votes": 3,
+      "votes_th": "สาม"
+    },
+    {
+      "number": 11,
+      "party": "เศรษฐกิจ",
+      "votes": 16,
+      "votes_th": "สิบหก"
+    },
+    {
+      "number": 12,
+      "party": "เสรีรวมไทย",
+      "votes": 4,
+      "votes_th": "สี่"
+    },
+    {
+      "number": 13,
+      "party": "รวมพลังประชาชน",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 16,
+      "party": "พลังเพื่อไทย",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 21,
+      "party": "ไทรวมพลัง",
+      "votes": 141,
+      "votes_th": "หนึ่งร้อยสี่สิบเอ็ด"
+    },
+    {
+      "number": 24,
+      "party": "วิชชั่นใหม่",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 27,
+      "party": "ประชาธิปัตย์",
+      "votes": 17,
+      "votes_th": "สิบเจ็ด"
+    },
+    {
+      "number": 28,
+      "party": "ไทยก้าวหน้า",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 29,
+      "party": "ไทยภักดี",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 30,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 3,
+      "votes_th": "สาม"
+    },
+    {
+      "number": 33,
+      "party": "ประชาชาติ",
+      "votes": 21,
+      "votes_th": "ยี่สิบเอ็ด"
+    },
+    {
+      "number": 34,
+      "party": "สร้างอนาคตไทย",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 37,
+      "party": "ภูมิใจไทย",
+      "votes": 17,
+      "votes_th": "สิบเจ็ด"
+    },
+    {
+      "number": 42,
+      "party": "กล้าธรรม",
+      "votes": 42,
+      "votes_th": "สี่สิบสอง"
+    },
+    {
+      "number": 46,
+      "party": "ประชาชน",
+      "votes": 44,
+      "votes_th": "สี่สิบสี่"
+    },
+    {
+      "number": 48,
+      "party": "ไทยสร้างไทย",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 50,
+      "party": "ประชาอาสาชาติ",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 395,
+    "status": "PASS"
+  }
+}

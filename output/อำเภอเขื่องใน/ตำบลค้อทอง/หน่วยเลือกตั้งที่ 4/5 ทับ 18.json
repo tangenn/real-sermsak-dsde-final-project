@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลค้อทอง",
+    "unit": 4,
+    "form_type": "constituency",
+    "source": "rawData\\อำเภอเขื่องใน\\ตำบลค้อทอง\\หน่วยเลือกตั้งที่ 4\\5 ทับ 18.pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "party_list",
+  "summary": {
+    "eligible_voters": 560,
+    "turnout": 340,
+    "ballots_allocated": 560,
+    "ballots_used": 340,
+    "valid_ballots": 309,
+    "spoiled_ballots": 24,
+    "abstain_ballots": 8,
+    "ballots_remaining": 220
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 13,
+      "votes_th": "สิบสามคะแนน"
+    },
+    {
+      "number": 2,
+      "party": "เพื่อชาติไทย",
+      "votes": 7,
+      "votes_th": "เจ็ดคะแนน"
+    },
+    {
+      "number": 3,
+      "party": "ใหม่",
+      "votes": 1,
+      "votes_th": "หนึ่งคะแนน"
+    },
+    {
+      "number": 4,
+      "party": "มิติใหม่",
+      "votes": 16,
+      "votes_th": "สิบหกคะแนน"
+    },
+    {
+      "number": 5,
+      "party": "รวมใจไทย",
+      "votes": 16,
+      "votes_th": "สิบหกคะแนน"
+    },
+    {
+      "number": 6,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 28,
+      "votes_th": "สองสิบแปดคะแนน"
+    },
+    {
+      "number": 7,
+      "party": "พลวัต",
+      "votes": 0,
+      "votes_th": "ศูนย์คะแนน"
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปัตย์",
+      "votes": 2,
+      "votes_th": "สองคะแนน"
+    },
+    {
+      "number": 9,
+      "party": "เพื่อไทย",
+      "votes": 17,
+      "votes_th": "สิบเจ็ดคะแนน"
+    },
+    {
+      "number": 10,
+      "party": "ทางเลือกใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์คะแนน"
+    },
+    {
+      "number": 11,
+      "party": "เศรษฐกิจ",
+      "votes": 9,
+      "votes_th": "เก้าคะแนน"
+    },
+    {
+      "number": 12,
+      "party": "เสรีรวมไทย",
+      "votes": 1,
+      "votes_th": "หนึ่งคะแนน"
+    },
+    {
+      "number": 13,
+      "party": "รวมพลังประชาชน",
+      "votes": 3,
+      "votes_th": "สามคะแนน"
+    },
+    {
+      "number": 14,
+      "party": "ท้องที่ไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์คะแนน"
+    },
+    {
+      "number": 15,
+      "party": "อนาคตไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์คะแนน"
+    },
+    {
+      "number": 16,
+      "party": "พลังเพื่อไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์คะแนน"
+    },
+    {
+      "number": 17,
+      "party": "ไทยชนะ",
+      "votes": 2,
+      "votes_th": "สองคะแนน"
+    },
+    {
+      "number": 18,
+      "party": "พลังสังคมใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์คะแนน"
+    },
+    {
+      "number": 19,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์คะแนน"
+    },
+    {
+      "number": 20,
+      "party": "ฟิวชัน",
+      "votes": 0,
+      "votes_th": "ศูนย์คะแนน"
+    },
+    {
+      "number": 21,
+      "party": "ไทรวมพลัง",
+      "votes": 55,
+      "votes_th": "ห้าสิบห้าคะแนน"
+    },
+    {
+      "number": 22,
+      "party": "ก้าวอิสระ",
+      "votes": 3,
+      "votes_th": "สามคะแนน"
+    },
+    {
+      "number": 23,
+      "party": "ปวงชนไทย",
+      "votes": 1,
+      "votes_th": "หนึ่งคะแนน"
+    },
+    {
+      "number": 24,
+      "party": "วิชชั่นใหม่",
+      "votes": 3,
+      "votes_th": "สามคะแนน"
+    },
+    {
+      "number": 25,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 1,
+      "votes_th": "หนึ่งคะแนน"
+    },
+    {
+      "number": 26,
+      "party": "คลองไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์คะแนน"
+    },
+    {
+      "number": 27,
+      "party": "ประชาธิปัตย์",
+      "votes": 19,
+      "votes_th": "สิบเก้าคะแนน"
+    },
+    {
+      "number": 28,
+      "party": "ไทยก้าวหน้า",
+      "votes": 0,
+      "votes_th": "ศูนย์คะแนน"
+    },
+    {
+      "number": 29,
+      "party": "ไทยภักดี",
+      "votes": 0,
+      "votes_th": "ศูนย์คะแนน"
+    },
+    {
+      "number": 30,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 1,
+      "votes_th": "หนึ่งคะแนน"
+    },
+    {
+      "number": 31,
+      "party": "ประชากรไทย",
+      "votes": 1,
+      "votes_th": "หนึ่งคะแนน"
+    },
+    {
+      "number": 32,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 0,
+      "votes_th": "ศูนย์คะแนน"
+    },
+    {
+      "number": 33,
+      "party": "ประชาชาติ",
+      "votes": 1,
+      "votes_th": "หนึ่งคะแนน"
+    },
+    {
+      "number": 34,
+      "party": "สร้างอนาคตไทย",
+      "votes": 0,
+      "votes_th": "ศูนย์คะแนน"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 200,
+    "status": "PASS"
+  }
+}

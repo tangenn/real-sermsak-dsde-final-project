@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลธาตุน้อย",
+    "unit": 5,
+    "form_type": "constituency",
+    "source": "rawData\\อำเภอเขื่องใน\\ตำบลธาตุน้อย\\หน่วยเลือกตั้งที่ 5\\5ทับ18.pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 402,
+    "turnout": 273,
+    "ballots_allocated": 400,
+    "ballots_used": 273,
+    "valid_ballots": 273,
+    "spoiled_ballots": 44,
+    "abstain_ballots": 39,
+    "ballots_remaining": 127
+  },
+  "results": [
+    {
+      "number": 0,
+      "party": "กล้าธรรม",
+      "votes": 127,
+      "votes_th": "หนึ่งร้อยยี่สิบเจ็ด"
+    },
+    {
+      "number": 0,
+      "party": "ภูมิใจไทย",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 0,
+      "party": "เพื่อไทย",
+      "votes": 4,
+      "votes_th": "สี่"
+    },
+    {
+      "number": 0,
+      "party": "ประชาชน",
+      "votes": 14,
+      "votes_th": "สิบสี่"
+    },
+    {
+      "number": 0,
+      "party": "ไทรวมพลัง",
+      "votes": 115,
+      "votes_th": "หนึ่งร้อยสิบห้า"
+    },
+    {
+      "number": 0,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 0,
+      "party": "พลังประชารัฐ",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 0,
+      "party": "ประชาธิปัตย์",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    },
+    {
+      "number": 0,
+      "party": "เศรษฐกิจ",
+      "votes": 4,
+      "votes_th": "สี่"
+    },
+    {
+      "number": 0,
+      "party": "ไทยก้าวใหม่",
+      "votes": 0,
+      "votes_th": "ศูนย์"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 266,
+    "status": "PASS"
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลก่อเอ้",
+    "unit": 8,
+    "form_type": "party_list",
+    "source": "rawData\\อำเภอเขื่องใน\\ตำบลก่อเอ้\\หน่วยเลือกตั้งที่ 8\\5 ทับ 18 (บช).pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "party_list",
+  "summary": {
+    "eligible_voters": 465,
+    "turnout": 0,
+    "ballots_allocated": 460,
+    "ballots_used": 322,
+    "valid_ballots": 296,
+    "spoiled_ballots": 16,
+    "abstain_ballots": 10,
+    "ballots_remaining": 138
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 2,
+      "party": "เพื่อชาติไทย",
+      "votes": 5,
+      "votes_th": "ห้า"
+    },
+    {
+      "number": 3,
+      "party": "ใหม่",
+      "votes": 3,
+      "votes_th": "สาม"
+    },
+    {
+      "number": 4,
+      "party": "มิติใหม่",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 5,
+      "party": "รวมใจไทย",
+      "votes": 10,
+      "votes_th": "สิบ"
+    },
+    {
+      "number": 6,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 7,
+      "party": "พลวัต",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 3,
+      "votes_th": "สาม"
+    },
+    {
+      "number": 9,
+      "party": "เพื่อไทย",
+      "votes": 26,
+      "votes_th": "สิบหก"
+    },
+    {
+      "number": 10,
+      "party": "ทางเลือกใหม่",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 11,
+      "party": "เศรษฐกิจ",
+      "votes": 16,
+      "votes_th": "สิงหา"
+    },
+    {
+      "number": 12,
+      "party": "เสรีรวมไทย",
+      "votes": 1,
+      "votes_th": "หมื่ว"
+    },
+    {
+      "number": 13,
+      "party": "รวมพลังประชาชน",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 14,
+      "party": "ท้องที่ไทย",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 15,
+      "party": "อนาคตไทย",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 16,
+      "party": "พลังเพื่อไทย",
+      "votes": 1,
+      "votes_th": "หมื่ว"
+    },
+    {
+      "number": 17,
+      "party": "ไทยชนะ",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 18,
+      "party": "พลังสังคมใหม่",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 19,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 20,
+      "party": "ฟิวชัน",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 21,
+      "party": "ไทรวมพลัง",
+      "votes": 65,
+      "votes_th": "นารินทร์"
+    },
+    {
+      "number": 22,
+      "party": "ก้าวอิสระ",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 23,
+      "party": "ปวงชนไทย",
+      "votes": 1,
+      "votes_th": "หมื่ว"
+    },
+    {
+      "number": 24,
+      "party": "วิชชั่นใหม่",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 25,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 26,
+      "party": "คลองไทย",
+      "votes": 12,
+      "votes_th": "สิงหงาย"
+    },
+    {
+      "number": 27,
+      "party": "ประชาธิปัตย์",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 28,
+      "party": "ไทยก้าวหน้า",
+      "votes": 2,
+      "votes_th": "สมัย"
+    },
+    {
+      "number": 29,
+      "party": "ไทยภักดี",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 30,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 31,
+      "party": "ประชากรไทย",
+      "votes": 1,
+      "votes_th": "หมื่ว"
+    },
+    {
+      "number": 32,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 33,
+      "party": "ประชาชาติ",
+      "votes": 2,
+      "votes_th": "สมัย"
+    },
+    {
+      "number": 34,
+      "party": "สร้างอนาคตไทย",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 35,
+      "party": "รักชาติ",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 36,
+      "party": "ไทยพร้อม",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 37,
+      "party": "ภูมิใจไทย",
+      "votes": 24,
+      "votes_th": "ธ สิน ส์"
+    },
+    {
+      "number": 38,
+      "party": "พลังธรรมใหม่",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 39,
+      "party": "กรีน",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 40,
+      "party": "ไทยธรรม",
+      "votes": 1,
+      "votes_th": "หน้า"
+    },
+    {
+      "number": 41,
+      "party": "แผ่นดินธรรม",
+      "votes": 1,
+      "votes_th": "หน้า"
+    },
+    {
+      "number": 42,
+      "party": "กล้าธรรม",
+      "votes": 56,
+      "votes_th": "หา สิม หก"
+    },
+    {
+      "number": 43,
+      "party": "พลังประชารัฐ",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 44,
+      "party": "โอกาสใหม่",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 45,
+      "party": "เป็นธรรม",
+      "votes": 48,
+      "votes_th": "ส สิม แปด"
+    },
+    {
+      "number": 46,
+      "party": "ประชาชน",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 47,
+      "party": "ประชาไทย",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 48,
+      "party": "ไทยสร้างไทย",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 49,
+      "party": "ไทยก้าวใหม่",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 50,
+      "party": "ประชาอาสาชาติ",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 51,
+      "party": "พร้อม",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 52,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 53,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 54,
+      "party": "ความหวังใหม่",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 55,
+      "party": "ไทยรวมไทย",
+      "votes": 0,
+      "votes_th": ""
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 286,
+    "status": "PASS"
+  }
+}

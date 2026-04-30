@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลแดงหม้อ",
+    "unit": 5,
+    "form_type": "constituency",
+    "source": "rawData\\อำเภอเขื่องใน\\ตำบลแดงหม้อ\\หน่วยเลือกตั้งที่ 5\\5ทับ18.pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 106,
+    "turnout": 224,
+    "ballots_allocated": 100,
+    "ballots_used": 224,
+    "valid_ballots": 221,
+    "spoiled_ballots": 1,
+    "abstain_ballots": 2,
+    "ballots_remaining": 156
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "กล้าธรรม",
+      "votes": 100,
+      "votes_th": "หนึ่งร้อย"
+    },
+    {
+      "number": 2,
+      "party": "ภูมิใจไทย",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 3,
+      "party": "เพื่อไทย",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 4,
+      "party": "ประชาชน",
+      "votes": 18,
+      "votes_th": "สิบแปด"
+    },
+    {
+      "number": 5,
+      "party": "ไทรวมพลัง",
+      "votes": 116,
+      "votes_th": "หนึ่งร้อยสิบหก"
+    },
+    {
+      "number": 6,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 7,
+      "party": "พลังประชารัฐ",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปัตย์",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 9,
+      "party": "เศรษฐกิจ",
+      "votes": 4,
+      "votes_th": "สี่"
+    },
+    {
+      "number": 10,
+      "party": "ไทยก้าวใหม่",
+      "votes": 0,
+      "votes_th": "-"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 241,
+    "status": "PASS"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลกลางใหญ่",
+    "unit": 10,
+    "form_type": "constituency",
+    "source": "rawData\\อำเภอเขื่องใน\\ตำบลกลางใหญ่\\หน่วยเลือกตั้งที่ 10\\5ทับ18.pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 353,
+    "turnout": 130,
+    "ballots_allocated": 340,
+    "ballots_used": 130,
+    "valid_ballots": 129,
+    "spoiled_ballots": 1,
+    "abstain_ballots": 2,
+    "ballots_remaining": 210
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "กล้าธรรม",
+      "votes": 73,
+      "votes_th": "เจ็ดสิบสาม"
+    },
+    {
+      "number": 2,
+      "party": "ภูมิใจไทย",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 3,
+      "party": "เพื่อไทย",
+      "votes": 7,
+      "votes_th": "เจ็ด"
+    },
+    {
+      "number": 4,
+      "party": "ประชาชน",
+      "votes": 11,
+      "votes_th": "สิบเอ็ด"
+    },
+    {
+      "number": 5,
+      "party": "ไทรวมพลัง",
+      "votes": 32,
+      "votes_th": "สามสิบสอง"
+    },
+    {
+      "number": 6,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 7,
+      "party": "พลังประชารัฐ",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปัตย์",
+      "votes": 4,
+      "votes_th": "สี่"
+    },
+    {
+      "number": 9,
+      "party": "เศรษฐกิจ",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 10,
+      "party": "ไทยก้าวใหม่",
+      "votes": 0,
+      "votes_th": ""
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 127,
+    "status": "PASS"
+  }
+}

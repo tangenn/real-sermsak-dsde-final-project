@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลก่อเอ้",
+    "unit": 12,
+    "form_type": "constituency",
+    "source": "rawData\\อำเภอเขื่องใน\\ตำบลก่อเอ้\\หน่วยเลือกตั้งที่ 12\\5 ทับ 18.pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 537,
+    "turnout": 429,
+    "ballots_allocated": 620,
+    "ballots_used": 489,
+    "valid_ballots": 399,
+    "spoiled_ballots": 12,
+    "abstain_ballots": 18,
+    "ballots_remaining": 91
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "กล้าธรรม",
+      "votes": 137,
+      "votes_th": "หนึ่งร้อยสามสิบเจ็ด"
+    },
+    {
+      "number": 2,
+      "party": "ภูมิใจไทย",
+      "votes": 5,
+      "votes_th": "ห้า"
+    },
+    {
+      "number": 3,
+      "party": "เพื่อไทย",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 4,
+      "party": "ประชาชน",
+      "votes": 16,
+      "votes_th": "สิบหก"
+    },
+    {
+      "number": 5,
+      "party": "ไทรวมพลัง",
+      "votes": 233,
+      "votes_th": "สองร้อยสามสิบสาม"
+    },
+    {
+      "number": 6,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 7,
+      "party": "พลังประชารัฐ",
+      "votes": 0,
+      "votes_th": ""
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปัตย์",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 9,
+      "party": "เศรษฐกิจ",
+      "votes": 4,
+      "votes_th": "สี่"
+    },
+    {
+      "number": 10,
+      "party": "ไทยก้าวใหม่",
+      "votes": 399,
+      "votes_th": "สามร้อยเก้าสิบเก้า"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 798,
+    "status": "PASS"
+  }
+}

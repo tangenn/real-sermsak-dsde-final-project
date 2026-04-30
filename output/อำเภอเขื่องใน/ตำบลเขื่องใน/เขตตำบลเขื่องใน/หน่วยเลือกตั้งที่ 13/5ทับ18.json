@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "ตำบลเขื่องใน",
+    "tambon": "เขตตำบลเขื่องใน",
+    "unit": 13,
+    "form_type": "constituency",
+    "source": "rawData\\อำเภอเขื่องใน\\ตำบลเขื่องใน\\เขตตำบลเขื่องใน\\หน่วยเลือกตั้งที่ 13\\5ทับ18.pdf",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 539,
+    "turnout": 369,
+    "ballots_allocated": 520,
+    "ballots_used": 329,
+    "valid_ballots": 312,
+    "spoiled_ballots": 15,
+    "abstain_ballots": 2,
+    "ballots_remaining": 191
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "กล้าธรรม",
+      "votes": 167,
+      "votes_th": "หนึ่งร้อยสิบหกสิบเจ็ด"
+    },
+    {
+      "number": 2,
+      "party": "ภูมิใจไทย",
+      "votes": 1,
+      "votes_th": "หนึ่ง"
+    },
+    {
+      "number": 3,
+      "party": "เพื่อไทย",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 4,
+      "party": "ประชาชน",
+      "votes": 13,
+      "votes_th": "สิบสาม"
+    },
+    {
+      "number": 5,
+      "party": "ไทรวมพลัง",
+      "votes": 125,
+      "votes_th": "หนึ่งร้อยยี่สิบห้า"
+    },
+    {
+      "number": 6,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 8,
+      "votes_th": "แปด"
+    },
+    {
+      "number": 7,
+      "party": "พลังประชารัฐ",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปัตย์",
+      "votes": 0,
+      "votes_th": "-"
+    },
+    {
+      "number": 9,
+      "party": "เศรษฐกิจ",
+      "votes": 2,
+      "votes_th": "สอง"
+    },
+    {
+      "number": 10,
+      "party": "ไทยก้าวใหม่",
+      "votes": 0,
+      "votes_th": "-"
+    }
+  ],
+  "_validation": {
+    "total_votes_in_table": 318,
+    "status": "PASS"
+  }
+}
