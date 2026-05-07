@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลหัวดอน",
+    "unit": 7,
+    "form_type": "constituency",
+    "source": "rawData/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 7/5ทับ18.pdf",
+    "ocr_text": "ocr_texts/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 7/5ทับ18_ocr.txt",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 546,
+    "turnout": 292,
+    "ballots_allocated": 540,
+    "ballots_used": 292,
+    "valid_ballots": 263,
+    "spoiled_ballots": 16,
+    "abstain_ballots": 13,
+    "ballots_remaining": 299
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายวุฒิพงษ์ นามบุตร",
+      "party_raw": "กล้าธรรม",
+      "party": "กล้าธรรม",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 130,
+      "votes_th": "หนึ่งร้อยสามสิบ",
+      "votes_th_value": 130,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 2,
+      "name": "นายประเสริฐ เผ่าพันธ์",
+      "party_raw": "ภูมิใจไทย",
+      "party": "ภูมิใจไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 9,
+      "votes_th": "เก้า",
+      "votes_th_value": 9,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 3,
+      "name": "นายประสพ สารสมัคร",
+      "party_raw": "เพื่อไทย",
+      "party": "เพื่อไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 29,
+      "votes_th": "สี่สิบเก้า",
+      "votes_th_value": 49,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 4,
+      "name": "นายปรีชญา ฉ่ำมณี",
+      "party_raw": "ประชาชน",
+      "party": "ประชาชน",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 32,
+      "votes_th": "สามสิบสอง",
+      "votes_th_value": 32,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 5,
+      "name": "นายณรงค์ชัย วีระกุล",
+      "party_raw": "ไทรวมพลัง",
+      "party": "ไทรวมพลัง",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 52,
+      "votes_th": "ห้าสิบสอง",
+      "votes_th_value": 52,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 6,
+      "name": "นายวิทยา ครองยุติ",
+      "party_raw": "ประชาธิปไตยใหม่",
+      "party": "ประชาธิปไตยใหม่",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 1,
+      "votes_th": "หนึ่ง",
+      "votes_th_value": 1,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 7,
+      "name": "เรืออากาศตรีประจวบ ทรัพย์สะอาด",
+      "party_raw": "พลังประชารัฐ",
+      "party": "พลังประชารัฐ",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 2,
+      "votes_th": "สอง",
+      "votes_th_value": 2,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 8,
+      "name": "นางสาวณฐพร บุญประสิทธิ์",
+      "party_raw": "ประชาธิปัตย์",
+      "party": "ประชาธิปัตย์",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 1,
+      "votes_th": "หนึ่ง",
+      "votes_th_value": 1,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 9,
+      "name": "นายเจริญชัย คำแฝง",
+      "party_raw": "เศรษฐกิจ",
+      "party": "เศรษฐกิจ",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 8,
+      "votes_th": "แปด",
+      "votes_th_value": 8,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 10,
+      "name": "นายธัชชัย คมขำ",
+      "party_raw": "ไทยก้าวใหม่",
+      "party": "ไทยก้าวใหม่",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 1,
+      "votes_th": "หนึ่ง",
+      "votes_th_value": 1,
+      "vote_confidence": "high",
+      "vote_flags": []
+    }
+  ],
+  "_validation": {
+    "status": "WARNING",
+    "error_type": "small_vote_mismatch_warning",
+    "total_votes_in_table": 265,
+    "effective_vote_sum": 265,
+    "valid_ballots": 263,
+    "vote_diff": 2,
+    "error_ratio": 0.007605,
+    "ballot_balance_diff": 0,
+    "excluded_vote_rows": [],
+    "low_confidence_vote_count": 1,
+    "very_low_confidence_vote_count": 0,
+    "party_issue_count": 0,
+    "unmatched_party_count": 0,
+    "low_confidence_party_count": 0,
+    "auto_matched_party_count": 10,
+    "exact_party_count": 0,
+    "errors": [],
+    "warnings": [
+      "numeric/Thai vote mismatch for number 3: numeric=29, thai=49, text=สี่สิบเก้า",
+      "small vote mismatch: effective_sum=265, valid_ballots=263",
+      "allocated mismatch: used+remaining=591, allocated=540"
+    ],
+    "suggestions": [
+      {
+        "type": "thai_text_vote_correction",
+        "number": 3,
+        "party": "เพื่อไทย",
+        "party_raw": "เพื่อไทย",
+        "current_votes": 29,
+        "suggested_votes": 49,
+        "confidence": "high",
+        "reason": "Numeric vote 29 conflicts with Thai text value 49."
+      },
+      {
+        "type": "targeted_sum_adjustment",
+        "number": 3,
+        "party": "เพื่อไทย",
+        "party_raw": "เพื่อไทย",
+        "current_votes": 29,
+        "suggested_votes": 27,
+        "vote_diff": -2,
+        "confidence": "low",
+        "reason": "Only a few low-confidence rows exist; changing this row would fix the effective total."
+      }
+    ],
+    "suspicious_rows": [
+      {
+        "number": 3,
+        "party": "เพื่อไทย",
+        "party_raw": "เพื่อไทย",
+        "votes": 29,
+        "votes_th": "สี่สิบเก้า",
+        "votes_th_value": 49,
+        "confidence": "low",
+        "flags": [
+          "numeric_thai_text_mismatch"
+        ],
+        "reason": "low-confidence vote field"
+      }
+    ],
+    "retry_recommended": false,
+    "retry_count": 0,
+    "used_fast_parser": true,
+    "used_llm": false
+  }
+}

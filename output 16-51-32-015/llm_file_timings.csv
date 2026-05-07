@@ -1,0 +1,567 @@
+﻿effective_vote_sum,error,error_ratio,error_type,file,retry_count,rows,status,total_seconds,total_votes,used_fast_parser,used_llm,valid_ballots,vote_diff
+254,,0.118056,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 1/5ทับ18(บช).pdf,0,57,REVIEW,20.871,522,True,True,288,34
+253,,0.038023,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 1/5ทับ18.pdf,0,10,REVIEW,0.013,253,True,False,263,10
+125,,,clean,rawData/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 10/5ทับ18(บช).pdf,0,15,PASS,0.02,125,True,False,,
+127,,0.015504,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 10/5ทับ18.pdf,0,5,WARNING,0.006,127,True,False,129,2
+144,,0.172414,moderate_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 11/5ทับ18(บช).pdf,0,57,REVIEW,17.055,144,True,True,174,30
+181,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 11/5ทับ18.pdf,0,5,WARNING,0.007,181,True,False,,
+151,,0.0,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 2/5ทับ18(บช).pdf,0,57,REVIEW,19.66,302,True,True,151,0
+153,,0.012903,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 2/5ทับ18.pdf,0,6,WARNING,0.008,153,True,False,155,2
+192,,0.098592,moderate_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 3/5ทับ18(บช).pdf,0,57,REVIEW,19.018,192,True,True,213,21
+357,,0.608108,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 3/5ทับ18.pdf,0,10,REVIEW,5.784,357,True,True,222,135
+176,,0.005714,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 4/5ทับ18(บช).pdf,0,57,WARNING,0.08,176,True,False,175,1
+179,,,clean,rawData/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 4/5ทับ18.pdf,0,10,PASS,0.012,179,True,False,,
+41,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 5/5ทับ18(บช).pdf,0,24,WARNING,0.028,41,True,False,,
+194,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 5/5ทับ18.pdf,0,10,WARNING,0.011,194,True,False,,
+185,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 6/5ทับ18(บช).pdf,0,18,PASS,0.021,185,True,False,185,0
+188,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 6/5ทับ18.pdf,0,10,WARNING,0.011,188,True,False,188,0
+214,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 7/5ทับ18(บช).pdf,0,47,WARNING,0.049,214,True,False,,
+212,,0.57037,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 7/5ทับ18.pdf,0,10,REVIEW,4.95,212,True,True,135,77
+195,,0.005155,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 8/5ทับ18(บช).pdf,0,57,REVIEW,20.784,389,True,True,194,1
+206,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 8/5ทับ18.pdf,0,10,WARNING,0.014,206,True,False,206,0
+199,,0.111607,moderate_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 9/5ทับ18(บช).pdf,0,57,REVIEW,17.573,199,True,True,224,25
+243,,0.039526,likely_llm_extraction_error,rawData/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 9/5ทับ18.pdf,0,10,REVIEW,4.741,243,True,True,253,10
+346,,0.0,party_name_warning,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 1/5 ทับ 18 (บช).pdf,0,57,WARNING,19.355,346,True,True,346,0
+356,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 1/5 ทับ 18.pdf,0,7,PASS,0.011,356,True,False,356,0
+328,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 10/5 ทับ 18 (บช).pdf,0,57,WARNING,0.064,328,True,False,,
+474,,1.008475,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 10/5 ทับ 18.pdf,0,10,REVIEW,4.606,474,True,True,236,238
+588,,0.008432,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 11/5 ทับ 18 (บช).pdf,0,57,REVIEW,16.355,588,True,True,593,5
+474,,1.008475,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 11/5 ทับ 18.pdf,0,10,REVIEW,5.673,474,True,True,236,238
+349,,0.088773,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 12/5 ทับ 18 (บช).pdf,0,57,REVIEW,17.661,732,True,True,383,34
+399,,0.0,summary_ballot_inconsistency,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 12/5 ทับ 18.pdf,0,7,REVIEW,0.01,399,True,False,399,0
+191,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 2/5 ทับ 18 (บช).pdf,0,57,WARNING,17.335,191,True,True,191,0
+197,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 2/5 ทับ 18.pdf,0,7,WARNING,0.01,197,True,False,197,0
+271,,0.231818,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 3/5 ทับ 18 (บช).pdf,0,57,REVIEW,20.464,491,True,True,220,51
+214,,0.077586,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 3/5 ทับ 18.pdf,0,10,REVIEW,0.014,214,True,False,232,18
+161,,,likely_llm_extraction_error,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 4/5 ทับ 18 (บช).pdf,0,23,REVIEW,6.809,161,True,True,,
+352,,0.032967,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 4/5 ทับ 18.pdf,0,10,REVIEW,5.495,352,True,True,364,12
+590,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 5/5 ทับ 18 (บช).pdf,0,24,WARNING,0.041,590,True,False,,
+307,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 5/5 ทับ 18.pdf,0,5,WARNING,0.007,307,True,False,307,0
+588,,0.008432,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 6/5 ทับ 18 (บช).pdf,0,57,REVIEW,19.649,588,True,True,593,5
+605,,0.006656,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 6/5 ทับ 18.pdf,0,7,REVIEW,0.01,605,True,False,601,4
+399,,0.007463,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 7/5 ทับ 18 (บช).pdf,0,55,REVIEW,16.988,399,True,True,402,3
+421,,0.746888,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 7/5 ทับ18.pdf,0,10,REVIEW,4.775,421,True,True,241,180
+185,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 8/5 ทับ 18 (บช).pdf,0,14,WARNING,0.027,185,True,False,,
+614,,1.0,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 8/5 ทับ 18.pdf,0,10,REVIEW,5.611,614,True,True,307,307
+455,,0.0,party_name_warning,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 9/5 ทับ 18 (บช).pdf,0,57,WARNING,15.759,455,True,True,455,0
+535,,0.089613,moderate_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลก่อเอ้/หน่วยเลือกตั้งที่ 9/5 ทับ 18.pdf,0,7,REVIEW,0.009,535,True,False,491,44
+348,,0.392,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลค้อทอง/หน่วยเลือกตั้งที่ 1/5ทับ18(บช).pdf,0,57,REVIEW,20.819,348,True,True,250,98
+927,,,clean,rawData/อำเภอเขื่องใน/ตำบลค้อทอง/หน่วยเลือกตั้งที่ 1/5ทับ18.pdf,0,10,PASS,0.014,927,True,False,,
+362,,0.0,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลค้อทอง/หน่วยเลือกตั้งที่ 10/5 ทับ 18 (บช).pdf,0,57,REVIEW,18.561,724,True,True,362,0
+373,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลค้อทอง/หน่วยเลือกตั้งที่ 10/5 ทับ 18.pdf,0,10,PASS,0.014,373,True,False,373,0
+207,,0.009756,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลค้อทอง/หน่วยเลือกตั้งที่ 11/5 ทับ 18 (บช).pdf,0,57,REVIEW,19.408,412,True,True,205,2
+826,,2.952153,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลค้อทอง/หน่วยเลือกตั้งที่ 11/5 ทับ 18.pdf,0,10,REVIEW,4.673,826,True,True,209,617
+445,,0.126582,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลค้อทอง/หน่วยเลือกตั้งที่ 2/5ทับ18(บช).pdf,0,57,REVIEW,21.342,820,True,True,395,50
+363,,0.057143,moderate_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลค้อทอง/หน่วยเลือกตั้งที่ 2/5ทับ18.pdf,0,10,REVIEW,0.014,363,True,False,385,22
+346,,0.002899,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลค้อทอง/หน่วยเลือกตั้งที่ 3/5 ทับ 18 (บช).pdf,0,57,REVIEW,17.832,691,True,True,345,1
+350,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลค้อทอง/หน่วยเลือกตั้งที่ 3/5 ทับ 18.pdf,0,10,PASS,0.013,350,True,False,350,0
+344,,0.113269,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลค้อทอง/หน่วยเลือกตั้งที่ 4/5 ทับ 18 (บช).pdf,0,57,REVIEW,20.569,652,True,True,309,35
+200,,0.352751,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลค้อทอง/หน่วยเลือกตั้งที่ 4/5 ทับ 18.pdf,0,34,REVIEW,11.313,200,True,True,309,109
+432,,0.642586,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลค้อทอง/หน่วยเลือกตั้งที่ 5/5 ทับ 18 (บช).pdf,0,57,REVIEW,19.883,432,True,True,263,169
+210,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลค้อทอง/หน่วยเลือกตั้งที่ 5/5 ทับ 18.pdf,0,10,WARNING,0.013,210,True,False,210,0
+282,,0.107595,moderate_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลค้อทอง/หน่วยเลือกตั้งที่ 6/5 ทับ 18 (บช).pdf,0,57,REVIEW,19.382,282,True,True,316,34
+314,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลค้อทอง/หน่วยเลือกตั้งที่ 6/5 ทับ 18.pdf,0,10,WARNING,0.014,314,True,False,314,0
+146,,0.106061,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลค้อทอง/หน่วยเลือกตั้งที่ 7/5 ทับ 18 (บช).pdf,0,57,REVIEW,18.623,146,True,True,132,14
+137,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลค้อทอง/หน่วยเลือกตั้งที่ 7/5 ทับ 18.pdf,0,10,WARNING,0.013,137,True,False,137,0
+210,,0.0,party_name_warning,rawData/อำเภอเขื่องใน/ตำบลค้อทอง/หน่วยเลือกตั้งที่ 8/5 ทับ 18 (บช).pdf,0,57,WARNING,19.195,210,True,True,210,0
+214,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลค้อทอง/หน่วยเลือกตั้งที่ 8/5 ทับ 18.pdf,0,10,WARNING,0.014,214,True,False,214,0
+278,,0.070234,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลค้อทอง/หน่วยเลือกตั้งที่ 9/5 ทับ 18 (บช).pdf,0,57,REVIEW,19.138,566,True,True,299,21
+316,,0.360324,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลค้อทอง/หน่วยเลือกตั้งที่ 9/5 ทับ 18.pdf,0,10,REVIEW,4.063,316,True,True,494,178
+211,,0.0,summary_ballot_inconsistency,rawData/อำเภอเขื่องใน/ตำบลชีทวน/หน่วยเลือกตั้งที่ 1/5ทับ18(บช).pdf,0,58,REVIEW,16.016,211,True,True,211,0
+229,,0.0,summary_ballot_inconsistency,rawData/อำเภอเขื่องใน/ตำบลชีทวน/หน่วยเลือกตั้งที่ 1/5ทับ18.pdf,0,5,REVIEW,0.007,229,True,False,229,0
+164,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลชีทวน/หน่วยเลือกตั้งที่ 10/5ทับ18(บช).pdf,0,34,WARNING,0.042,164,True,False,,
+1045,,64.3125,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลชีทวน/หน่วยเลือกตั้งที่ 10/5ทับ18.pdf,0,10,REVIEW,4.722,1045,True,True,16,1029
+312,,0.090379,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลชีทวน/หน่วยเลือกตั้งที่ 11/5ทับ18(บช).pdf,0,57,REVIEW,20.104,655,True,True,343,31
+359,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลชีทวน/หน่วยเลือกตั้งที่ 11/5ทับ18.pdf,0,10,WARNING,5.388,359,True,True,359,0
+115,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลชีทวน/หน่วยเลือกตั้งที่ 2/5ทับ18(บช).pdf,0,33,WARNING,0.05,115,True,False,,
+265,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลชีทวน/หน่วยเลือกตั้งที่ 2/5ทับ18.pdf,0,10,WARNING,0.013,265,True,False,265,0
+1034,,0.466667,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลชีทวน/หน่วยเลือกตั้งที่ 3/5ทับ18(บช).pdf,0,57,REVIEW,22.846,1034,True,True,705,329
+527,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลชีทวน/หน่วยเลือกตั้งที่ 3/5ทับ18.pdf,0,10,PASS,0.014,527,True,False,527,0
+19,,,clean,rawData/อำเภอเขื่องใน/ตำบลชีทวน/หน่วยเลือกตั้งที่ 4/5ทับ18(บช).pdf,0,4,PASS,0.01,19,True,False,,
+412,,0.024876,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลชีทวน/หน่วยเลือกตั้งที่ 4/5ทับ18.pdf,0,10,REVIEW,0.012,412,True,False,402,10
+199,,0.0,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลชีทวน/หน่วยเลือกตั้งที่ 5/5ทับ18(บช).pdf,0,57,REVIEW,23.704,398,True,True,199,0
+212,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลชีทวน/หน่วยเลือกตั้งที่ 5/5ทับ18.pdf,0,10,PASS,0.014,212,True,False,212,0
+91,,,clean,rawData/อำเภอเขื่องใน/ตำบลชีทวน/หน่วยเลือกตั้งที่ 6/5ทับ18(บช).pdf,0,24,PASS,0.03,91,True,False,,
+301,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลชีทวน/หน่วยเลือกตั้งที่ 6/5ทับ18.pdf,0,10,WARNING,0.011,301,True,False,,
+138,,0.0,party_name_warning,rawData/อำเภอเขื่องใน/ตำบลชีทวน/หน่วยเลือกตั้งที่ 7/5ทับ18(บช).pdf,0,57,WARNING,22.968,138,True,True,138,0
+156,,0.0,summary_ballot_inconsistency,rawData/อำเภอเขื่องใน/ตำบลชีทวน/หน่วยเลือกตั้งที่ 7/5ทับ18.pdf,0,10,REVIEW,0.014,156,True,False,156,0
+182,,0.080808,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลชีทวน/หน่วยเลือกตั้งที่ 8/5ทับ18(บช).pdf,0,57,REVIEW,19.912,380,True,True,198,16
+201,,0.009852,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลชีทวน/หน่วยเลือกตั้งที่ 8/5ทับ18.pdf,0,10,WARNING,0.014,201,True,False,203,2
+35,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลชีทวน/หน่วยเลือกตั้งที่ 9/5ทับ18(บช).pdf,0,10,WARNING,0.016,35,True,False,,
+162,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลชีทวน/หน่วยเลือกตั้งที่ 9/5ทับ18.pdf,0,10,PASS,0.012,162,True,False,162,0
+186,,0.47619,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 1/50ทับ18.pdf,0,10,REVIEW,5.185,186,True,True,126,60
+185,,0.057143,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 1/5ทับ18(บช).pdf,0,57,REVIEW,16.407,185,True,True,175,10
+305,,0.13806,moderate_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 10/5ทับ18(บช).pdf,0,57,REVIEW,22.542,305,True,True,268,37
+280,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 10/5ทับ18.pdf,0,10,PASS,0.014,280,True,False,280,0
+239,,0.17301,moderate_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 11/5ทับ18(บช).pdf,0,57,REVIEW,17.532,239,True,True,289,50
+248,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 11/5ทับ18.pdf,0,10,PASS,0.014,248,True,False,248,0
+236,,0.058296,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 12/5 ทับ 18 (บช).pdf,0,57,REVIEW,22.79,236,True,True,223,13
+237,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 12/5 ทับ 18.pdf,0,10,PASS,0.015,237,True,False,237,0
+408,,0.897674,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 13/5 ทับ 18 (บช).pdf,0,57,REVIEW,20.665,408,True,True,215,193
+228,,0.0,summary_ballot_inconsistency,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 13/5 ทับ 18.pdf,0,7,REVIEW,0.011,228,True,False,228,0
+129,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 2/5ทับ18(บช).pdf,0,57,WARNING,20.062,129,True,True,129,0
+124,,0.0,summary_ballot_inconsistency,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 2/5ทับ18.pdf,0,5,REVIEW,0.007,124,True,False,124,0
+168,,0.180488,moderate_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 3/5ทับ18(บช).pdf,0,57,REVIEW,18.659,168,True,True,205,37
+209,,0.741656,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 3/5ทับ18.pdf,0,10,REVIEW,5.46,209,True,True,809,600
+167,,0.193237,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 4/5ทับ18(บช).pdf,0,57,REVIEW,21.642,376,True,True,207,40
+217,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 4/5ทับ18.pdf,0,6,WARNING,0.009,217,True,False,217,0
+177,,0.383275,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 5/5ทับ18(บช).pdf,0,57,REVIEW,20.408,177,True,True,287,110
+309,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 5/5ทับ18.pdf,0,6,PASS,0.009,309,True,False,309,0
+418,,,clean,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 6/5ทับ18(บช).pdf,0,24,PASS,0.031,418,True,False,,
+11413502352,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 6/5ทับ18.pdf,0,10,WARNING,0.011,11413502352,True,False,,
+28482,,132.71831,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 7/5ทับ18(บช).pdf,0,57,REVIEW,17.319,28482,True,True,213,28269
+214,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 7/5ทับ18.pdf,0,5,WARNING,0.007,214,True,False,214,0
+611,,1.050336,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 8/5ทับ18(บช).pdf,0,57,REVIEW,20.475,611,True,True,298,313
+447,,0.557491,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 8/5ทับ18.pdf,0,10,REVIEW,5.493,447,True,True,287,160
+199,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 9/5ทับ18(บช).pdf,0,57,PASS,19.566,199,True,True,199,0
+201,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 9/5ทับ18.pdf,0,10,WARNING,0.014,201,True,False,201,0
+270,,0.0,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลธาตุน้อย/หน่วยเลือกตั้งที่ 1/5ทับ18(บช).pdf,0,57,REVIEW,19.45,540,True,True,270,0
+1382,,4.118519,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลธาตุน้อย/หน่วยเลือกตั้งที่ 1/5ทับ18.pdf,0,10,REVIEW,5.307,1382,True,True,270,1112
+376,,0.002667,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลธาตุน้อย/หน่วยเลือกตั้งที่ 10/5ทับ18(บช).pdf,0,57,REVIEW,14.779,376,True,True,375,1
+388,,0.0,summary_ballot_inconsistency,rawData/อำเภอเขื่องใน/ตำบลธาตุน้อย/หน่วยเลือกตั้งที่ 10/5ทับ18.pdf,0,5,REVIEW,0.007,388,True,False,388,0
+262,,0.007576,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลธาตุน้อย/หน่วยเลือกตั้งที่ 2/5ทับ18(บช).pdf,0,57,WARNING,22.119,262,True,True,264,2
+1050,,2.888889,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลธาตุน้อย/หน่วยเลือกตั้งที่ 2/5ทับ18.pdf,0,10,REVIEW,5.898,1050,True,True,270,780
+413,,0.01432,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลธาตุน้อย/หน่วยเลือกตั้งที่ 3/5ทับ18(บช).pdf,0,57,REVIEW,21.179,819,True,True,419,6
+444,,0.004525,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลธาตุน้อย/หน่วยเลือกตั้งที่ 3/5ทับ18.pdf,0,9,WARNING,0.013,444,True,False,442,2
+111,,0.310559,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลธาตุน้อย/หน่วยเลือกตั้งที่ 4/5ทับ18(บช).pdf,0,57,REVIEW,21.547,272,True,True,161,50
+169,,0.0,summary_ballot_inconsistency,rawData/อำเภอเขื่องใน/ตำบลธาตุน้อย/หน่วยเลือกตั้งที่ 4/5ทับ18.pdf,0,10,REVIEW,0.014,169,True,False,169,0
+302,,0.188976,moderate_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลธาตุน้อย/หน่วยเลือกตั้งที่ 5/5ทับ18(บช).pdf,0,57,REVIEW,19.643,302,True,True,254,48
+266,,0.403587,likely_llm_extraction_error,rawData/อำเภอเขื่องใน/ตำบลธาตุน้อย/หน่วยเลือกตั้งที่ 5/5ทับ18.pdf,0,10,REVIEW,5.4,266,True,True,446,180
+137,,0.179641,moderate_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลธาตุน้อย/หน่วยเลือกตั้งที่ 6/5ทับ18(บช).pdf,0,57,REVIEW,19.383,137,True,True,167,30
+179,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลธาตุน้อย/หน่วยเลือกตั้งที่ 6/5ทับ18.pdf,0,10,WARNING,0.014,179,True,False,179,0
+2402,,11.575916,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลธาตุน้อย/หน่วยเลือกตั้งที่ 7/5ทับ18(บช).pdf,0,57,REVIEW,16.79,2601,True,True,191,2211
+195,,0.020101,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลธาตุน้อย/หน่วยเลือกตั้งที่ 7/5ทับ18.pdf,0,10,REVIEW,4.255,195,True,True,199,4
+380,,0.007958,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลธาตุน้อย/หน่วยเลือกตั้งที่ 8/5ทับ18(บช).pdf,0,57,REVIEW,17.114,757,True,True,377,3
+386,,0.005155,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลธาตุน้อย/หน่วยเลือกตั้งที่ 8/5ทับ18.pdf,0,10,WARNING,0.014,386,True,False,388,2
+365,,0.173633,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลธาตุน้อย/หน่วยเลือกตั้งที่ 9/5ทับ18(บช).pdf,0,57,REVIEW,20.113,365,True,True,311,54
+323,,0.012232,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลธาตุน้อย/หน่วยเลือกตั้งที่ 9/5ทับ18.pdf,0,10,REVIEW,0.015,323,True,False,327,4
+1236,,3.944,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลนาคำใหญ่/หน่วยเลือกตั้งที่ 1/5 ทับ 18 (บช).pdf,0,57,REVIEW,18.42,1498,True,True,250,986
+255,,0.011628,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลนาคำใหญ่/หน่วยเลือกตั้งที่ 1/5 ทับ 18.pdf,0,10,REVIEW,0.014,255,True,False,258,3
+192,,0.0,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลนาคำใหญ่/หน่วยเลือกตั้งที่ 2/5 ทับ 18 (บช).pdf,0,57,REVIEW,18.18,384,True,True,192,0
+194,,0.0,likely_llm_extraction_error,rawData/อำเภอเขื่องใน/ตำบลนาคำใหญ่/หน่วยเลือกตั้งที่ 2/5 ทับ 18.pdf,0,10,REVIEW,5.272,194,True,True,194,0
+66,,0.057143,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลนาคำใหญ่/หน่วยเลือกตั้งที่ 3/5ทับ18(บช).pdf,0,57,REVIEW,19.033,66,True,True,70,4
+72,,0.0,summary_ballot_inconsistency,rawData/อำเภอเขื่องใน/ตำบลนาคำใหญ่/หน่วยเลือกตั้งที่ 3/5ทับ18.pdf,0,10,REVIEW,0.013,72,True,False,72,0
+838,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลนาคำใหญ่/หน่วยเลือกตั้งที่ 4/5ทับ18(บช).pdf,0,15,WARNING,0.02,838,True,False,,
+197,,0.503817,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลนาคำใหญ่/หน่วยเลือกตั้งที่ 4/5ทับ18.pdf,0,10,REVIEW,5.217,197,True,True,131,66
+127,,0.141892,moderate_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลนาคำใหญ่/หน่วยเลือกตั้งที่ 5/5ทับ18(บช).pdf,0,57,REVIEW,18.067,127,True,True,148,21
+152,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลนาคำใหญ่/หน่วยเลือกตั้งที่ 5/5ทับ18.pdf,0,10,WARNING,0.014,152,True,False,152,0
+348,,0.054545,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลนาคำใหญ่/หน่วยเลือกตั้งที่ 6/5ทับ18(บช).pdf,0,57,REVIEW,16.404,678,True,True,330,18
+339,,0.17301,moderate_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลนาคำใหญ่/หน่วยเลือกตั้งที่ 6/5ทับ18.pdf,0,10,REVIEW,5.143,339,True,True,289,50
+472,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลนาคำใหญ่/หน่วยเลือกตั้งที่ 7/5ทับ18(บช).pdf,0,15,WARNING,0.032,472,True,False,,
+294,,0.02,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลนาคำใหญ่/หน่วยเลือกตั้งที่ 7/5ทับ18.pdf,0,6,REVIEW,0.009,294,True,False,300,6
+260,,0.04,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลนาคำใหญ่/หน่วยเลือกตั้งที่ 8/5ทับ18(บช).pdf,0,57,REVIEW,0.064,260,True,False,250,10
+280,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลนาคำใหญ่/หน่วยเลือกตั้งที่ 8/5ทับ18.pdf,0,10,WARNING,0.011,280,True,False,280,0
+584,,0.112381,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลบ้านกอก/หน่วยเลือกตั้งที่ 1/5ทับ18(บช).pdf,0,57,REVIEW,16.853,1109,True,True,525,59
+528,,0.00189,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลบ้านกอก/หน่วยเลือกตั้งที่ 1/5ทับ18.pdf,0,6,WARNING,0.009,528,True,False,529,1
+443,,0.10142,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลบ้านกอก/หน่วยเลือกตั้งที่ 2/5ทับ18(บช).pdf,0,57,REVIEW,18.846,936,True,True,493,50
+516,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลบ้านกอก/หน่วยเลือกตั้งที่ 2/5ทับ18.pdf,0,10,PASS,0.014,516,True,False,516,0
+161,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลบ้านกอก/หน่วยเลือกตั้งที่ 3/5ทับ18(บช).pdf,0,57,PASS,19.018,161,True,True,161,0
+,Missing OCR text: ocr_texts/อำเภอเขื่องใน/ตำบลบ้านกอก/หน่วยเลือกตั้งที่ 3/5ทับ18_ocr.txt,,,rawData/อำเภอเขื่องใน/ตำบลบ้านกอก/หน่วยเลือกตั้งที่ 3/5ทับ18.pdf,,0,FAIL,0.0,,,,,
+694,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลบ้านกอก/หน่วยเลือกตั้งที่ 4/5ทับ18(บช).pdf,0,24,WARNING,0.032,694,True,False,,
+389,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลบ้านกอก/หน่วยเลือกตั้งที่ 4/5ทับ18.pdf,0,8,PASS,0.009,389,True,False,389,0
+313,,0.045732,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลบ้านกอก/หน่วยเลือกตั้งที่ 5/5ทับ18(บช).pdf,0,57,REVIEW,18.254,313,True,True,328,15
+299,,0.091185,moderate_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลบ้านกอก/หน่วยเลือกตั้งที่ 5/5ทับ18.pdf,0,10,REVIEW,0.014,299,True,False,329,30
+141,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลบ้านกอก/หน่วยเลือกตั้งที่ 6/5ทับ18(บช).pdf,0,34,WARNING,0.039,141,True,False,,
+262,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลบ้านกอก/หน่วยเลือกตั้งที่ 6/5ทับ18.pdf,0,10,WARNING,0.011,262,True,False,,
+18,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 1/5ทับ18(บช).pdf,0,24,WARNING,0.027,18,True,False,,
+72,,0.492958,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 1/5ทับ18.pdf,0,10,REVIEW,4.481,72,True,True,142,70
+370,,0.897436,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 10/5ทับ18(บช).pdf,0,57,REVIEW,19.8,555,True,True,195,175
+184,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 10/5ทับ18.pdf,0,10,WARNING,0.014,184,True,False,,
+497,,1.62963,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 11/5ทับ18(บช).pdf,0,57,REVIEW,21.94,686,True,True,189,308
+191,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 11/5ทับ18.pdf,0,10,PASS,0.014,191,True,False,191,0
+171,,0.055556,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 12/5ทับ18(บช).pdf,0,57,REVIEW,0.062,171,True,False,162,9
+168,,0.012048,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 12/5ทับ18.pdf,0,10,REVIEW,0.011,168,True,False,166,2
+623,,1.924883,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 2/5 ทับ18.pdf,0,10,REVIEW,4.645,623,True,True,213,410
+155,,0.179894,moderate_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 2/5ทับ18(บช).pdf,0,57,REVIEW,0.079,155,True,False,189,34
+353,,0.017291,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 3/5ทับ18(บช).pdf,0,57,REVIEW,18.333,353,True,True,347,6
+362,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 3/5ทับ18.pdf,0,10,WARNING,0.013,362,True,False,362,0
+365,,0.033994,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 4/5ทับ18(บช).pdf,0,57,REVIEW,0.063,365,True,False,353,12
+363,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 4/5ทับ18.pdf,0,10,PASS,0.011,363,True,False,363,0
+157,,0.039735,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 5/5ทับ18(บช).pdf,0,57,REVIEW,22.942,157,True,True,151,6
+157,,0.026144,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 5/5ทับ18.pdf,0,10,REVIEW,4.129,157,True,True,153,4
+658,,2.163462,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 6/5ทับ18(บช).pdf,0,57,REVIEW,15.71,658,True,True,208,450
+208,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 6/5ทับ18.pdf,0,4,PASS,0.006,208,True,False,208,0
+241,,0.142349,moderate_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 7/5ทับ18(บช).pdf,0,55,REVIEW,18.317,241,True,True,281,40
+289,,0.0,summary_ballot_inconsistency,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 7/5ทับ18.pdf,0,8,REVIEW,0.012,289,True,False,289,0
+298,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 8/5ทับ18(บช).pdf,0,32,WARNING,0.038,298,True,False,298,0
+318,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 8/5ทับ18.pdf,0,8,PASS,0.009,318,True,False,318,0
+556,,0.293023,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 9/5ทับ18(บช).pdf,0,57,REVIEW,19.844,556,True,True,430,126
+454,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 9/5ทับ18.pdf,0,10,WARNING,0.014,454,True,False,454,0
+66,,0.67,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลยางขี้นก/หน่วยเลือกตั้งที่ 1/5ทับ18(บช).pdf,0,34,REVIEW,12.629,66,True,True,200,134
+148,,0.408,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลยางขี้นก/หน่วยเลือกตั้งที่ 1/5ทับ18.pdf,0,10,REVIEW,4.484,148,True,True,250,102
+259,,0.301508,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลยางขี้นก/หน่วยเลือกตั้งที่ 10/5ทับ18(บช).pdf,0,57,REVIEW,21.028,259,True,True,199,60
+192,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลยางขี้นก/หน่วยเลือกตั้งที่ 10/5ทับ18.pdf,0,10,WARNING,0.013,192,True,False,192,0
+79,,0.496815,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลยางขี้นก/หน่วยเลือกตั้งที่ 2/5ทับ18(บช).pdf,0,56,REVIEW,17.418,79,True,True,157,78
+164,,0.661157,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลยางขี้นก/หน่วยเลือกตั้งที่ 2/5ทับ18.pdf,0,10,REVIEW,4.345,164,True,True,484,320
+397,,0.144092,moderate_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลยางขี้นก/หน่วยเลือกตั้งที่ 3/5ทับ18(บช).pdf,0,57,REVIEW,18.821,397,True,True,347,50
+415,,0.0,summary_ballot_inconsistency,rawData/อำเภอเขื่องใน/ตำบลยางขี้นก/หน่วยเลือกตั้งที่ 3/5ทับ18.pdf,0,10,REVIEW,0.014,415,True,False,415,0
+337,,0.0,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลยางขี้นก/หน่วยเลือกตั้งที่ 4/5ทับ18(บช).pdf,0,57,REVIEW,20.655,674,True,True,337,0
+123,,0.635015,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลยางขี้นก/หน่วยเลือกตั้งที่ 4/5ทับ18.pdf,0,10,REVIEW,3.317,123,True,True,337,214
+202,,0.004975,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลยางขี้นก/หน่วยเลือกตั้งที่ 5/5ทับ18(บช).pdf,0,57,WARNING,18.036,202,True,True,201,1
+211,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลยางขี้นก/หน่วยเลือกตั้งที่ 5/5ทับ18.pdf,0,10,WARNING,0.014,211,True,False,211,0
+738,,0.94723,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลยางขี้นก/หน่วยเลือกตั้งที่ 6/5ทับ18(บช).pdf,0,57,REVIEW,18.85,738,True,True,379,359
+348,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลยางขี้นก/หน่วยเลือกตั้งที่ 6/5ทับ18.pdf,0,5,PASS,0.008,348,True,False,348,0
+318,,0.37069,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลยางขี้นก/หน่วยเลือกตั้งที่ 7/5ทับ18(บช).pdf,0,57,REVIEW,16.989,318,True,True,232,86
+193,,0.063107,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลยางขี้นก/หน่วยเลือกตั้งที่ 7/5ทับ18.pdf,0,10,REVIEW,3.751,193,True,True,206,13
+198,,0.28,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลยางขี้นก/หน่วยเลือกตั้งที่ 8/5ทับ18(บช).pdf,0,57,REVIEW,17.821,198,True,True,275,77
+296,,0.203252,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลยางขี้นก/หน่วยเลือกตั้งที่ 8/5ทับ18.pdf,0,10,REVIEW,3.993,296,True,True,246,50
+66,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลยางขี้นก/หน่วยเลือกตั้งที่ 9/5ทับ18 (บช).pdf,0,23,WARNING,0.041,66,True,False,,
+177,,0.011173,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลยางขี้นก/หน่วยเลือกตั้งที่ 9/5ทับ18.pdf,0,10,WARNING,0.013,177,True,False,179,2
+246,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลศรีสุข/หน่วยเลือกตั้งที่ 1/5ทับ18(บช).pdf,0,15,WARNING,0.02,246,True,False,,
+276,,0.067568,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลศรีสุข/หน่วยเลือกตั้งที่ 1/5ทับ18.pdf,0,5,REVIEW,0.006,276,True,False,296,20
+290,,0.074074,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลศรีสุข/หน่วยเลือกตั้งที่ 2/5ทับ18(บช).pdf,0,57,REVIEW,17.26,290,True,True,270,20
+309,,0.006431,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลศรีสุข/หน่วยเลือกตั้งที่ 2/5ทับ18.pdf,0,5,WARNING,0.008,309,True,False,311,2
+343,,0.0,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลศรีสุข/หน่วยเลือกตั้งที่ 3/5ทับ18(บช).pdf,0,57,REVIEW,19.593,686,True,True,343,0
+352,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลศรีสุข/หน่วยเลือกตั้งที่ 3/5ทับ18.pdf,0,10,PASS,0.013,352,True,False,352,0
+371,,0.002703,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลศรีสุข/หน่วยเลือกตั้งที่ 4/5ทับ18(บช).pdf,0,57,REVIEW,23.329,741,True,True,370,1
+383,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลศรีสุข/หน่วยเลือกตั้งที่ 4/5ทับ18.pdf,0,5,PASS,0.007,383,True,False,383,0
+225,,0.0,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลศรีสุข/หน่วยเลือกตั้งที่ 5/5ทับ18(บช).pdf,0,57,REVIEW,27.13,450,True,True,225,0
+230,,0.0,summary_ballot_inconsistency,rawData/อำเภอเขื่องใน/ตำบลศรีสุข/หน่วยเลือกตั้งที่ 5/5ทับ18.pdf,0,10,REVIEW,0.015,230,True,False,230,0
+335,,0.006006,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลศรีสุข/หน่วยเลือกตั้งที่ 6/5ทับ18(บช).pdf,0,57,REVIEW,23.192,668,True,True,333,2
+350,,0.038462,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลศรีสุข/หน่วยเลือกตั้งที่ 6/5ทับ18.pdf,0,10,REVIEW,0.015,350,True,False,364,14
+285,,0.096154,moderate_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลศรีสุข/หน่วยเลือกตั้งที่ 7/5ทับ18(บช).pdf,0,57,REVIEW,19.336,285,True,True,260,25
+266,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลศรีสุข/หน่วยเลือกตั้งที่ 7/5ทับ18.pdf,0,7,WARNING,0.01,266,True,False,266,0
+390,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลศรีสุข/หน่วยเลือกตั้งที่ 8/5 ทับ18.pdf,0,10,WARNING,0.013,390,True,False,390,0
+392,,0.050938,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลศรีสุข/หน่วยเลือกตั้งที่ 8/5ทับ18(บช).pdf,0,57,REVIEW,19.022,392,True,True,373,19
+5722,,20.114391,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 1/5ทับ18(บช).pdf,0,57,REVIEW,22.367,5993,True,True,271,5451
+284,,0.0,summary_ballot_inconsistency,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 1/5ทับ18.pdf,0,10,REVIEW,0.014,284,True,False,284,0
+158,,0.018634,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 10/5ทับ18(บช).pdf,0,50,REVIEW,19.543,158,True,True,161,3
+161,,0.041667,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 10/5ทับ18.pdf,0,6,REVIEW,0.008,161,True,False,168,7
+137,,0.449799,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 11/5ทับ18(บช).pdf,0,33,REVIEW,11.555,137,True,True,249,112
+261,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 11/5ทับ18.pdf,0,10,WARNING,0.021,261,True,False,261,0
+376,,0.002667,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 12/5ทับ18(บช).pdf,0,57,WARNING,22.171,376,True,True,375,1
+782,,,party_name_warning,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 12/5ทับ18.pdf,0,8,WARNING,0.011,782,True,False,,
+221,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 13/5ทับ18(บช).pdf,0,34,WARNING,0.04,221,True,False,,
+371,,0.016438,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 13/5ทับ18.pdf,0,10,REVIEW,0.011,371,True,False,365,6
+65,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 14/5ทับ18(บช).pdf,0,10,WARNING,0.014,65,True,False,,
+344,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 14/5ทับ18.pdf,0,5,WARNING,0.006,344,True,False,344,0
+270,,0.0,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 15/5ทับ18(บช).pdf,0,57,REVIEW,19.924,540,True,True,270,0
+292,,0.003436,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 15/5ทับ18.pdf,0,7,REVIEW,0.011,292,True,False,291,1
+236,,0.0,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 16/5ทับ18(บช).pdf,0,57,REVIEW,21.083,497,True,True,236,0
+249,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 16/5ทับ18.pdf,0,10,WARNING,0.014,249,True,False,249,0
+271,,0.014545,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 17/5ทับ18(บช).pdf,0,56,REVIEW,0.061,546,True,False,275,4
+278,,,clean,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 17/5ทับ18.pdf,0,10,PASS,0.011,278,True,False,,
+4770645,,,party_name_warning,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 2/5ทับ18(บช).pdf,0,32,WARNING,0.035,4770645,True,False,,
+426,,0.004717,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 2/5ทับ18.pdf,0,8,REVIEW,0.009,426,True,False,424,2
+364,,0.008174,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 3/5ทับ18(บช).pdf,0,57,REVIEW,0.058,364,True,False,367,3
+388,,0.015707,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 3/5ทับ18.pdf,0,10,REVIEW,0.011,388,True,False,382,6
+167,,0.257778,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 4/5ทับ18(บช).pdf,0,34,REVIEW,12.119,167,True,True,225,58
+232,,0.008547,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 4/5ทับ18.pdf,0,10,WARNING,0.017,232,True,False,234,2
+241,,0.171821,moderate_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 5/5ทับ18(บช).pdf,0,57,REVIEW,16.509,241,True,True,291,50
+250,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 5/5ทับ18.pdf,0,4,WARNING,0.007,250,True,False,250,0
+324,,0.0,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 6/5ทับ18(บช).pdf,0,57,REVIEW,23.475,648,True,True,324,0
+690,,1.0,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 6/5ทับ18.pdf,0,10,REVIEW,5.96,690,True,True,345,345
+158,,0.018634,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 7/5ทับ18(บช).pdf,0,50,REVIEW,20.708,158,True,True,161,3
+161,,0.0,summary_ballot_inconsistency,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 7/5ทับ18.pdf,0,10,REVIEW,6.224,161,True,True,161,0
+264,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 8/5ทับ18(บช).pdf,0,24,WARNING,0.03,264,True,False,,
+161,,1.0125,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 8/5ทับ18..pdf,0,10,REVIEW,7.139,161,True,True,80,81
+217,,0.00463,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 9/5ทับ18(บช).pdf,0,57,WARNING,23.536,217,True,True,216,1
+227,,0.004386,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 9/5ทับ18.pdf,0,5,WARNING,0.006,227,True,False,228,1
+155,,0.666667,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลสหธาตุ/หน่วยเลือกตั้งที่ 1/5ทับ18(บช).pdf,0,57,REVIEW,21.656,348,True,True,93,62
+221,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลสหธาตุ/หน่วยเลือกตั้งที่ 1/5ทับ18.pdf,0,10,WARNING,0.014,221,True,False,,
+206,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลสหธาตุ/หน่วยเลือกตั้งที่ 2/5ทับ18(บช).pdf,0,25,PASS,0.033,206,True,False,206,0
+222,,0.0,summary_ballot_inconsistency,rawData/อำเภอเขื่องใน/ตำบลสหธาตุ/หน่วยเลือกตั้งที่ 2/5ทับ18.pdf,0,10,REVIEW,5.135,222,True,True,222,0
+267,,0.003759,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลสหธาตุ/หน่วยเลือกตั้งที่ 3/5ทับ18(บช).pdf,0,57,REVIEW,21.126,533,True,True,266,1
+277,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลสหธาตุ/หน่วยเลือกตั้งที่ 3/5ทับ18.pdf,0,10,WARNING,0.012,277,True,False,277,0
+293,,0.07571,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลสหธาตุ/หน่วยเลือกตั้งที่ 4/5ทับ18(บช).pdf,0,57,REVIEW,21.122,610,True,True,317,24
+320,,0.053254,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลสหธาตุ/หน่วยเลือกตั้งที่ 4/5ทับ18.pdf,0,10,REVIEW,0.015,320,True,False,338,18
+236,,0.0,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลสหธาตุ/หน่วยเลือกตั้งที่ 5/5ทับ18(บช).pdf,0,57,REVIEW,20.993,497,True,True,236,0
+266,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลสหธาตุ/หน่วยเลือกตั้งที่ 5/5ทับ18.pdf,0,10,PASS,0.015,266,True,False,266,0
+163,,0.035503,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลสหธาตุ/หน่วยเลือกตั้งที่ 6/5ทับ18(บช).pdf,0,57,REVIEW,20.238,332,True,True,169,6
+167,,0.034682,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลสหธาตุ/หน่วยเลือกตั้งที่ 6/5ทับ18.pdf,0,10,REVIEW,5.171,167,True,True,173,6
+86,,0.289256,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลสหธาตุ/หน่วยเลือกตั้งที่ 7/5ทับ18(บช).pdf,0,34,REVIEW,12.776,86,True,True,121,35
+126,,0.136986,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลสหธาตุ/หน่วยเลือกตั้งที่ 7/5ทับ18.pdf,0,10,REVIEW,0.016,126,True,False,146,20
+278,,0.123028,moderate_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลหนองเหล่า/หน่วยเลือกตั้งที่ 1/5ทับ18(บช).pdf,0,57,REVIEW,24.343,278,True,True,317,39
+340,,0.0625,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลหนองเหล่า/หน่วยเลือกตั้งที่ 1/5ทับ18.pdf,0,10,REVIEW,0.014,340,True,False,320,20
+324,,0.191176,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลหนองเหล่า/หน่วยเลือกตั้งที่ 10/5ทับ18(บช).pdf,0,57,REVIEW,21.402,324,True,True,272,52
+276,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลหนองเหล่า/หน่วยเลือกตั้งที่ 10/5ทับ18.pdf,0,5,WARNING,0.008,276,True,False,276,0
+605,,0.138177,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลหนองเหล่า/หน่วยเลือกตั้งที่ 11/5ทับ18(บช).pdf,0,57,REVIEW,21.319,605,True,True,702,97
+309,,0.019802,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลหนองเหล่า/หน่วยเลือกตั้งที่ 11/5ทับ18.pdf,0,10,REVIEW,0.015,309,True,False,303,6
+392,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลหนองเหล่า/หน่วยเลือกตั้งที่ 2/5ทับ18(บช).pdf,0,57,WARNING,0.065,392,True,False,392,0
+406,,30.230769,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลหนองเหล่า/หน่วยเลือกตั้งที่ 2/5ทับ18.pdf,0,10,REVIEW,5.152,406,True,True,13,393
+360,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลหนองเหล่า/หน่วยเลือกตั้งที่ 3/5ทับ18(บช).pdf,0,57,WARNING,0.08,360,True,False,,
+374,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลหนองเหล่า/หน่วยเลือกตั้งที่ 3/5ทับ18.pdf,0,10,WARNING,0.012,374,True,False,,
+280,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลหนองเหล่า/หน่วยเลือกตั้งที่ 4/5ทับ18(บช).pdf,0,57,PASS,22.975,280,True,True,280,0
+286,,0.010381,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลหนองเหล่า/หน่วยเลือกตั้งที่ 4/5ทับ18.pdf,0,10,REVIEW,0.014,286,True,False,289,3
+212,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลหนองเหล่า/หน่วยเลือกตั้งที่ 5/5ทับ18(บช).pdf,0,57,WARNING,0.062,212,True,False,212,0
+231,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลหนองเหล่า/หน่วยเลือกตั้งที่ 5/5ทับ18.pdf,0,10,WARNING,0.011,231,True,False,231,0
+234,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลหนองเหล่า/หน่วยเลือกตั้งที่ 6/5ทับ18(บช).pdf,0,56,PASS,0.057,234,True,False,234,0
+254,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลหนองเหล่า/หน่วยเลือกตั้งที่ 6/5ทับ18.pdf,0,10,PASS,0.04,254,True,False,254,0
+948,,93.8,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลหนองเหล่า/หน่วยเลือกตั้งที่ 7/5ทับ18(บช).pdf,0,57,REVIEW,0.059,983,True,False,10,938
+202,,0.01,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลหนองเหล่า/หน่วยเลือกตั้งที่ 7/5ทับ18.pdf,0,10,REVIEW,0.011,202,True,False,200,2
+367,,0.525226,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลหนองเหล่า/หน่วยเลือกตั้งที่ 8/5ทับ18(บช).pdf,0,57,REVIEW,21.993,367,True,True,773,406
+173,,0.423333,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลหนองเหล่า/หน่วยเลือกตั้งที่ 8/5ทับ18.pdf,0,10,REVIEW,6.165,173,True,True,300,127
+4000180,,14545.109091,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลหนองเหล่า/หน่วยเลือกตั้งที่ 9/5ทับ18(บช).pdf,0,57,REVIEW,25.17,4000180,True,True,275,3999905
+374,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลหนองเหล่า/หน่วยเลือกตั้งที่ 9/5ทับ8.pdf,0,10,WARNING,0.014,374,True,False,,
+189,,,clean,rawData/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 1/5 ทับ 18 (บช).pdf,0,47,PASS,0.055,189,True,False,,
+239,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 1/5 ทับ 18.pdf,0,10,WARNING,0.011,239,True,False,,
+346,,0.064865,moderate_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 10/5ทับ18(บช).pdf,0,57,REVIEW,21.752,346,True,True,370,24
+368,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 10/5ทับ18.pdf,0,10,PASS,0.015,368,True,False,368,0
+324,,0.015198,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 11/5ทับ18(บช).pdf,0,57,REVIEW,25.772,324,True,True,329,5
+334,,0.0,summary_ballot_inconsistency,rawData/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 11/5ทับ18.pdf,0,10,REVIEW,0.015,334,True,False,334,0
+92,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 2/5 ทับ 18 (บช).pdf,0,24,WARNING,0.031,92,True,False,,
+231,,0.064516,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 2/5 ทับ 18.pdf,0,10,REVIEW,0.012,231,True,False,217,14
+97,,0.631179,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 3/5 ทับ 18 (บช).pdf,0,33,REVIEW,13.743,97,True,True,263,166
+275,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 3/5 ทับ 18.pdf,0,10,WARNING,0.016,275,True,False,275,0
+421,,0.066519,moderate_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 4/5 ทับ 18 (บช).pdf,0,57,REVIEW,0.067,421,True,False,451,30
+436,,0.031111,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 4/5 ทับ 18.pdf,0,10,REVIEW,0.012,436,True,False,450,14
+382,,0.015957,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 5/5 ทับ 18 (บช).pdf,0,57,REVIEW,20.409,1358,True,True,376,6
+0,,,likely_llm_extraction_error,rawData/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 5/5 ทับ 18.pdf,0,0,REVIEW,1.136,0,True,True,,
+296,,0.003367,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 6/5 ทับ18 (บช).pdf,0,57,WARNING,23.156,296,True,True,297,1
+257,,0.204334,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 6/5 ทับ18.pdf,0,10,REVIEW,5.834,257,True,True,323,66
+208,,0.220974,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 7/5ทับ18(บช).pdf,0,33,REVIEW,12.921,475,True,True,267,59
+265,,0.007605,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 7/5ทับ18.pdf,0,10,WARNING,0.017,265,True,False,263,2
+85,,0.32,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 8/5ทับ18(บช).pdf,0,57,REVIEW,21.042,85,True,True,125,40
+218,,0.786885,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 8/5ทับ18.pdf,0,10,REVIEW,4.932,218,True,True,122,96
+481,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 9/5ทับ18 (บช).pdf,0,57,WARNING,17.855,481,True,True,481,0
+543,,35.2,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลหัวดอน/หน่วยเลือกตั้งที่ 9/5ทับ18.pdf,0,10,REVIEW,4.161,543,True,True,15,528
+849,,0.956221,likely_llm_extraction_error,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตตำบลเขื่องใน/หน่วยเลือกตั้งที่ 10/5ทับ18(บช).pdf,0,46,REVIEW,13.639,849,True,True,434,415
+486,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตตำบลเขื่องใน/หน่วยเลือกตั้งที่ 10/5ทับ18.pdf,0,7,WARNING,0.012,486,True,False,,
+305,,0.0,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตตำบลเขื่องใน/หน่วยเลือกตั้งที่ 11/5ทับ18(บช).pdf,0,57,REVIEW,20.485,610,True,True,305,0
+628,,0.993651,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตตำบลเขื่องใน/หน่วยเลือกตั้งที่ 11/5ทับ18.pdf,0,10,REVIEW,5.391,628,True,True,315,313
+652,,0.237192,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตตำบลเขื่องใน/หน่วยเลือกตั้งที่ 12/5ทับ18(บช).pdf,0,57,REVIEW,19.901,652,True,True,527,125
+342,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตตำบลเขื่องใน/หน่วยเลือกตั้งที่ 12/5ทับ18.pdf,0,10,PASS,0.015,342,True,False,342,0
+201,,0.313993,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตตำบลเขื่องใน/หน่วยเลือกตั้งที่ 13/5ทับ18(บช).pdf,0,33,REVIEW,11.07,494,True,True,293,92
+312,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตตำบลเขื่องใน/หน่วยเลือกตั้งที่ 13/5ทับ18.pdf,0,7,WARNING,0.012,312,True,False,312,0
+262,,0.022388,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตตำบลเขื่องใน/หน่วยเลือกตั้งที่ 7/5ทับ18(บช).pdf,0,57,REVIEW,20.787,262,True,True,268,6
+278,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตตำบลเขื่องใน/หน่วยเลือกตั้งที่ 7/5ทับ18.pdf,0,10,PASS,5.337,278,True,True,278,0
+557,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตตำบลเขื่องใน/หน่วยเลือกตั้งที่ 8/5ทับ18(บช).pdf,0,57,WARNING,0.077,557,True,False,557,0
+585,,0.003407,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตตำบลเขื่องใน/หน่วยเลือกตั้งที่ 8/5ทับ18.pdf,0,10,WARNING,0.011,585,True,False,587,2
+99,,2.413793,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตตำบลเขื่องใน/หน่วยเลือกตั้งที่ 9/5ทับ18(บช).pdf,0,57,REVIEW,17.27,99,True,True,29,70
+103,,0.009615,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตตำบลเขื่องใน/หน่วยเลือกตั้งที่ 9/5ทับ18.pdf,0,4,WARNING,0.007,103,True,False,104,1
+326,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตเทศบาล และนอกเขต/หน่วยเลือกตั้งที่ 1 (เทศบาล)/5ทับ18(บช).pdf,0,47,WARNING,0.052,326,True,False,,
+406,,0.031026,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตเทศบาล และนอกเขต/หน่วยเลือกตั้งที่ 1 (เทศบาล)/5ทับ18.pdf,0,10,REVIEW,0.012,406,True,False,419,13
+186,,,party_name_warning,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตเทศบาล และนอกเขต/หน่วยเลือกตั้งที่ 2 (เทศบาล)/5ทับ18(บช).pdf,0,47,WARNING,0.047,186,True,False,,
+243,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตเทศบาล และนอกเขต/หน่วยเลือกตั้งที่ 2 (เทศบาล)/5ทับ18.pdf,0,10,PASS,0.01,243,True,False,243,0
+387,,0.005195,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตเทศบาล และนอกเขต/หน่วยเลือกตั้งที่ 3 (เทศบาล)/5ทับ18(บช).pdf,0,57,WARNING,20.176,387,True,True,385,2
+408,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตเทศบาล และนอกเขต/หน่วยเลือกตั้งที่ 3 (เทศบาล)/5ทับ18.pdf,0,10,WARNING,0.013,408,True,False,408,0
+387,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตเทศบาล และนอกเขต/หน่วยเลือกตั้งที่ 4 (เทศบาล)/5ทับ18(บช).pdf,0,24,PASS,0.027,387,True,False,387,0
+1199,,2.005013,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตเทศบาล และนอกเขต/หน่วยเลือกตั้งที่ 4 (เทศบาล)/5ทับ18.pdf,0,10,REVIEW,4.811,1199,True,True,399,800
+393,,,party_name_warning,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตเทศบาล และนอกเขต/หน่วยเลือกตั้งที่ 5 (เทศบาล)/5ทับ18(บช).pdf,0,57,WARNING,0.077,393,True,False,,
+407,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตเทศบาล และนอกเขต/หน่วยเลือกตั้งที่ 5 (เทศบาล)/5ทับ18.pdf,0,8,WARNING,0.009,407,True,False,,
+118,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตเทศบาล และนอกเขต/หน่วยเลือกตั้งที่ 6 (เทศบาล)/5ทับ18(บช).pdf,0,34,WARNING,0.035,118,True,False,,
+317,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตเทศบาล และนอกเขต/หน่วยเลือกตั้งที่ 6 (เทศบาล)/5ทับ18.pdf,0,5,PASS,0.005,317,True,False,317,0
+348,,0.026549,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตเทศบาล และนอกเขต/หน่วยเลือกตั้งที่ 7 (เทศบาล)/5ทับ18(บช).pdf,0,57,REVIEW,0.054,348,True,False,339,9
+363,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตเทศบาล และนอกเขต/หน่วยเลือกตั้งที่ 7 (เทศบาล)/5ทับ8.pdf,0,10,PASS,0.01,363,True,False,363,0
+480,,0.142857,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตเทศบาล และนอกเขต/หน่วยเลือกตั้งที่ 8 (เทศบาล)/5ทับ18(บช).pdf,0,57,REVIEW,19.403,480,True,True,560,80
+542,,0.032143,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลเขื่องใน/เขตเทศบาล และนอกเขต/หน่วยเลือกตั้งที่ 8 (เทศบาล)/5ทับ18.pdf,0,10,REVIEW,0.013,542,True,False,560,18
+339,,0.033537,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลแดงหม้อ/หน่วยเลือกตั้งที่ 1/5ทับ18(บช).pdf,0,57,REVIEW,21.528,1275,True,True,328,11
+335,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลแดงหม้อ/หน่วยเลือกตั้งที่ 1/5ทับ18.pdf,0,10,WARNING,0.013,335,True,False,335,0
+402,,0.888116,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลแดงหม้อ/หน่วยเลือกตั้งที่ 2/5ทับ18(บช).pdf,0,57,REVIEW,18.281,402,True,True,3593,3191
+366,,0.345588,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลแดงหม้อ/หน่วยเลือกตั้งที่ 2/5ทับ18.pdf,0,10,REVIEW,4.845,366,True,True,272,94
+115,,0.033613,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลแดงหม้อ/หน่วยเลือกตั้งที่ 3/5ทับ18(บช).pdf,0,57,REVIEW,21.69,115,True,True,119,4
+123,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลแดงหม้อ/หน่วยเลือกตั้งที่ 3/5ทับ18.pdf,0,10,WARNING,0.013,123,True,False,123,0
+169,,0.0,summary_ballot_inconsistency,rawData/อำเภอเขื่องใน/ตำบลแดงหม้อ/หน่วยเลือกตั้งที่ 4/5ทับ18(บช).pdf,0,57,REVIEW,16.983,169,True,True,169,0
+173,,1.369863,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลแดงหม้อ/หน่วยเลือกตั้งที่ 4/5ทับ18.pdf,0,10,REVIEW,4.637,173,True,True,73,100
+268,,0.135593,moderate_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลแดงหม้อ/หน่วยเลือกตั้งที่ 5/5ทับ18(บช).pdf,0,57,REVIEW,15.534,268,True,True,236,32
+241,,0.090498,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลแดงหม้อ/หน่วยเลือกตั้งที่ 5/5ทับ18.pdf,0,10,REVIEW,4.797,241,True,True,221,20
+375,,0.994681,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลแดงหม้อ/หน่วยเลือกตั้งที่ 6/5ทับ18(บช).pdf,0,57,REVIEW,19.676,375,True,True,188,187
+273,,0.414508,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลแดงหม้อ/หน่วยเลือกตั้งที่ 6/5ทับ18.pdf,0,10,REVIEW,6.023,273,True,True,193,80
+350,,0.136364,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลโนนรัง/หน่วยเลือกตั้งที่ 1/5ทับ18(บช).pdf,0,57,REVIEW,21.729,658,True,True,308,42
+309,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลโนนรัง/หน่วยเลือกตั้งที่ 1/5ทับ18.pdf,0,10,PASS,0.013,309,True,False,309,0
+547,,0.018622,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลโนนรัง/หน่วยเลือกตั้งที่ 2/5ทับ18(บช).pdf,0,57,REVIEW,18.826,1084,True,True,537,10
+366,,0.02809,likely_ocr_handwriting_or_digit_error,rawData/อำเภอเขื่องใน/ตำบลโนนรัง/หน่วยเลือกตั้งที่ 2/5ทับ18.pdf,0,10,REVIEW,0.017,366,True,False,356,10
+291,,0.003448,small_vote_mismatch_warning,rawData/อำเภอเขื่องใน/ตำบลโนนรัง/หน่วยเลือกตั้งที่ 3/5ทับ18(บช).pdf,0,57,WARNING,19.04,291,True,True,290,1
+298,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลโนนรัง/หน่วยเลือกตั้งที่ 3/5ทับ18.pdf,0,10,PASS,0.013,298,True,False,298,0
+327,,0.0,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลโนนรัง/หน่วยเลือกตั้งที่ 4/5ทับ18(บช).pdf,0,57,REVIEW,17.078,654,True,True,327,0
+332,,0.0,warning_only,rawData/อำเภอเขื่องใน/ตำบลโนนรัง/หน่วยเลือกตั้งที่ 4/5ทับ18.pdf,0,10,WARNING,0.013,332,True,False,332,0
+296,,0.465347,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลโนนรัง/หน่วยเลือกตั้งที่ 5/5ทับ18(บช).pdf,0,57,REVIEW,20.061,498,True,True,202,94
+204,,39.8,large_vote_mismatch,rawData/อำเภอเขื่องใน/ตำบลโนนรัง/หน่วยเลือกตั้งที่ 5/5ทับ18.pdf,0,10,REVIEW,4.352,204,True,True,5,199
+54,,,warning_only,rawData/อำเภอเขื่องใน/ตำบลโนนรัง/หน่วยเลือกตั้งที่ 6/5ทับ18(บช).pdf,0,34,WARNING,0.052,54,True,False,,
+87,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลโนนรัง/หน่วยเลือกตั้งที่ 6/5ทับ18.pdf,0,10,PASS,0.014,87,True,False,87,0
+315,,0.0,party_list_total_copy_error,rawData/อำเภอเขื่องใน/ตำบลโนนรัง/หน่วยเลือกตั้งที่ 7/5ทับ18(บช).pdf,0,57,REVIEW,17.288,630,True,True,315,0
+316,,0.0,clean,rawData/อำเภอเขื่องใน/ตำบลโนนรัง/หน่วยเลือกตั้งที่ 7/5ทับ18.pdf,0,10,PASS,0.013,316,True,False,316,0
+,Missing OCR text: ocr_texts/เขต 2 อ.เมืองฯ/ตำบลขี้เหล็ก/ตำบลขี้เหล็ก/หน่วยเลือกตั้งที่ 1/5ทับ18(บช)_ocr.txt,,,rawData/เขต 2 อ.เมืองฯ/ตำบลขี้เหล็ก/ตำบลขี้เหล็ก/หน่วยเลือกตั้งที่ 1/5ทับ18(บช).pdf,,0,FAIL,0.0,,,,,
+315,,0.064189,likely_ocr_handwriting_or_digit_error,rawData/เขต 2 อ.เมืองฯ/ตำบลขี้เหล็ก/ตำบลขี้เหล็ก/หน่วยเลือกตั้งที่ 1/5ทับ18.pdf,0,10,REVIEW,0.012,315,True,False,296,19
+176,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/ตำบลขี้เหล็ก/ตำบลขี้เหล็ก/หน่วยเลือกตั้งที่ 10/5ทับ18(บช).pdf,0,57,PASS,0.058,176,True,False,176,0
+237,,0.338983,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลขี้เหล็ก/ตำบลขี้เหล็ก/หน่วยเลือกตั้งที่ 10/5ทับ18.pdf,0,10,REVIEW,4.065,237,True,True,177,60
+268,,0.030769,likely_ocr_handwriting_or_digit_error,rawData/เขต 2 อ.เมืองฯ/ตำบลขี้เหล็ก/ตำบลขี้เหล็ก/หน่วยเลือกตั้งที่ 11/5ทับ18(บช).pdf,0,57,REVIEW,0.076,268,True,False,260,8
+257,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/ตำบลขี้เหล็ก/ตำบลขี้เหล็ก/หน่วยเลือกตั้งที่ 11/5ทับ18.pdf,0,10,PASS,0.011,257,True,False,257,0
+514,,2.472973,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลขี้เหล็ก/ตำบลขี้เหล็ก/หน่วยเลือกตั้งที่ 2/5ทับ18(บช).pdf,0,57,REVIEW,19.027,514,True,True,148,366
+453,,0.081136,moderate_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลขี้เหล็ก/ตำบลขี้เหล็ก/หน่วยเลือกตั้งที่ 2/5ทับ18.pdf,0,10,REVIEW,0.013,453,True,False,493,40
+406,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/ตำบลขี้เหล็ก/ตำบลขี้เหล็ก/หน่วยเลือกตั้งที่ 3/5ทับ18(บช).pdf,0,57,WARNING,18.082,406,True,True,406,0
+401,,0.0,summary_ballot_inconsistency,rawData/เขต 2 อ.เมืองฯ/ตำบลขี้เหล็ก/ตำบลขี้เหล็ก/หน่วยเลือกตั้งที่ 3/5ทับ18.pdf,0,10,REVIEW,0.013,401,True,False,401,0
+469,,0.010776,likely_ocr_handwriting_or_digit_error,rawData/เขต 2 อ.เมืองฯ/ตำบลขี้เหล็ก/ตำบลขี้เหล็ก/หน่วยเลือกตั้งที่ 4/5ทับ18(บช).pdf,0,57,REVIEW,0.059,469,True,False,464,5
+243,,0.490566,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลขี้เหล็ก/ตำบลขี้เหล็ก/หน่วยเลือกตั้งที่ 4/5ทับ18.pdf,0,10,REVIEW,4.311,243,True,True,477,234
+447,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/ตำบลขี้เหล็ก/ตำบลขี้เหล็ก/หน่วยเลือกตั้งที่ 5/5ทับ18(บช).pdf,0,33,WARNING,0.05,447,True,False,447,0
+438,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/ตำบลขี้เหล็ก/ตำบลขี้เหล็ก/หน่วยเลือกตั้งที่ 5/5ทับ18.pdf,0,10,WARNING,0.012,438,True,False,438,0
+6280,,10.418182,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลขี้เหล็ก/ตำบลขี้เหล็ก/หน่วยเลือกตั้งที่ 6/5ทับ18(บช).pdf,0,57,REVIEW,19.146,6280,True,True,550,5730
+560,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/ตำบลขี้เหล็ก/ตำบลขี้เหล็ก/หน่วยเลือกตั้งที่ 6/5ทับ18.pdf,0,10,WARNING,0.013,560,True,False,560,0
+278,,0.077519,likely_ocr_handwriting_or_digit_error,rawData/เขต 2 อ.เมืองฯ/ตำบลขี้เหล็ก/ตำบลขี้เหล็ก/หน่วยเลือกตั้งที่ 7/5ทับ18(บช).pdf,0,57,REVIEW,0.059,278,True,False,258,20
+250,,0.0,summary_ballot_inconsistency,rawData/เขต 2 อ.เมืองฯ/ตำบลขี้เหล็ก/ตำบลขี้เหล็ก/หน่วยเลือกตั้งที่ 7/5ทับ18.pdf,0,10,REVIEW,0.01,250,True,False,250,0
+428,,0.0,party_name_warning,rawData/เขต 2 อ.เมืองฯ/ตำบลขี้เหล็ก/ตำบลขี้เหล็ก/หน่วยเลือกตั้งที่ 8/5ทับ18(บช).pdf,0,57,WARNING,19.14,428,True,True,428,0
+444,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/ตำบลขี้เหล็ก/ตำบลขี้เหล็ก/หน่วยเลือกตั้งที่ 8/5ทับ18.pdf,0,10,PASS,0.013,444,True,False,444,0
+0,,1.0,likely_llm_extraction_error,rawData/เขต 2 อ.เมืองฯ/ตำบลขี้เหล็ก/ตำบลขี้เหล็ก/หน่วยเลือกตั้งที่ 9/5ทับ18(บช).pdf,0,0,REVIEW,0.97,0,True,True,264,264
+258,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/ตำบลขี้เหล็ก/ตำบลขี้เหล็ก/หน่วยเลือกตั้งที่ 9/5ทับ18.pdf,0,57,PASS,17.759,258,True,True,258,0
+0,,1.0,likely_llm_extraction_error,rawData/เขต 2 อ.เมืองฯ/ตำบลปะอาว/ตำบลปะอาว/หน่วยเลือกตั้งที่ 1/5 ทับ 18 (บช).pdf,0,0,REVIEW,0.959,0,True,True,252,252
+188,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/ตำบลปะอาว/ตำบลปะอาว/หน่วยเลือกตั้งที่ 1/5 ทับ 18.pdf,0,10,PASS,0.025,188,True,False,188,0
+216,,0.15625,moderate_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลปะอาว/ตำบลปะอาว/หน่วยเลือกตั้งที่ 2/5ทับ18(บช).pdf,0,57,REVIEW,0.07,216,True,False,256,40
+252,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/ตำบลปะอาว/ตำบลปะอาว/หน่วยเลือกตั้งที่ 2/5ทับ18.pdf,0,10,WARNING,0.012,252,True,False,252,0
+381,,0.0,summary_ballot_inconsistency,rawData/เขต 2 อ.เมืองฯ/ตำบลปะอาว/ตำบลปะอาว/หน่วยเลือกตั้งที่ 3/5ทับ18(บช).pdf,0,57,REVIEW,0.055,381,True,False,381,0
+368,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/ตำบลปะอาว/ตำบลปะอาว/หน่วยเลือกตั้งที่ 3/5ทับ18.pdf,0,10,PASS,0.01,368,True,False,368,0
+,Missing OCR text: ocr_texts/เขต 2 อ.เมืองฯ/ตำบลปะอาว/ตำบลปะอาว/หน่วยเลือกตั้งที่ 4/5ทับ18(บช)_ocr.txt,,,rawData/เขต 2 อ.เมืองฯ/ตำบลปะอาว/ตำบลปะอาว/หน่วยเลือกตั้งที่ 4/5ทับ18(บช).pdf,,0,FAIL,0.0,,,,,
+274,,0.0,summary_ballot_inconsistency,rawData/เขต 2 อ.เมืองฯ/ตำบลปะอาว/ตำบลปะอาว/หน่วยเลือกตั้งที่ 4/5ทับ18.pdf,0,10,REVIEW,0.011,274,True,False,274,0
+,Missing OCR text: ocr_texts/เขต 2 อ.เมืองฯ/ตำบลปะอาว/ตำบลปะอาว/หน่วยเลือกตั้งที่ 5/5ทับ18(บช)_ocr.txt,,,rawData/เขต 2 อ.เมืองฯ/ตำบลปะอาว/ตำบลปะอาว/หน่วยเลือกตั้งที่ 5/5ทับ18(บช).pdf,,0,FAIL,0.0,,,,,
+360,,0.134615,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลปะอาว/ตำบลปะอาว/หน่วยเลือกตั้งที่ 5/5ทับ18.pdf,0,10,REVIEW,4.85,360,True,True,416,56
+251,,0.023346,likely_ocr_handwriting_or_digit_error,rawData/เขต 2 อ.เมืองฯ/ตำบลปะอาว/ตำบลปะอาว/หน่วยเลือกตั้งที่ 6/5ทับ18(บช).pdf,0,57,REVIEW,0.074,251,True,False,257,6
+246,,0.075188,likely_ocr_handwriting_or_digit_error,rawData/เขต 2 อ.เมืองฯ/ตำบลปะอาว/ตำบลปะอาว/หน่วยเลือกตั้งที่ 6/5ทับ18.pdf,0,10,REVIEW,0.011,246,True,False,266,20
+291,,0.0,party_list_total_copy_error,rawData/เขต 2 อ.เมืองฯ/ตำบลปะอาว/ตำบลปะอาว/หน่วยเลือกตั้งที่ 7/5ทับ18(บช).pdf,0,57,REVIEW,0.055,582,True,False,291,0
+291,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/ตำบลปะอาว/ตำบลปะอาว/หน่วยเลือกตั้งที่ 7/5ทับ18.pdf,0,10,WARNING,0.01,291,True,False,291,0
+979,,1.472222,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลปะอาว/ตำบลปะอาว/หน่วยเลือกตั้งที่ 8/5ทับ18(บช).pdf,0,57,REVIEW,18.257,979,True,True,396,583
+399,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/ตำบลปะอาว/ตำบลปะอาว/หน่วยเลือกตั้งที่ 8/5ทับ18.pdf,0,10,WARNING,0.014,399,True,False,399,0
+519,,1.027344,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลปะอาว/ตำบลปะอาว/หน่วยเลือกตั้งที่ 9/5ทับ18(บช).pdf,0,57,REVIEW,21.039,519,True,True,256,263
+519,,1.027344,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลปะอาว/ตำบลปะอาว/หน่วยเลือกตั้งที่ 9/5ทับ18.pdf,0,57,REVIEW,21.923,519,True,True,256,263
+275,,0.074074,moderate_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 1/5ทับ18(บช).pdf,0,57,REVIEW,19.665,275,True,True,297,22
+282,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 1/5ทับ18.pdf,0,10,WARNING,0.013,282,True,False,282,0
+225,,0.358974,likely_llm_extraction_error,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 10/5ทับ18  (บช).pdf,0,46,REVIEW,16.924,225,True,True,351,126
+374,,0.047619,likely_ocr_handwriting_or_digit_error,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 10/5ทับ18.pdf,0,10,REVIEW,0.014,374,True,False,357,17
+241,,0.230032,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 11/5ทับ 18( บช).pdf,0,66,REVIEW,19.615,241,True,True,313,72
+521,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 11/5ทับ18.pdf,0,10,PASS,0.013,521,True,False,521,0
+78,,0.835443,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 12/5ทับ18(บช).pdf,0,34,REVIEW,13.364,78,True,True,474,396
+424,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 12/5ทับ18.pdf,0,10,WARNING,0.016,424,True,False,424,0
+13,,0.953405,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 13/5ทับ18(บช).pdf,0,10,REVIEW,4.74,13,True,True,279,266
+326,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 13/5ทับ18.pdf,0,10,PASS,0.019,326,True,False,326,0
+0,,,likely_llm_extraction_error,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 14/5ทับ18(บช).pdf,0,0,REVIEW,0.825,0,True,True,,
+213,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 14/5ทับ18.pdf,0,10,WARNING,0.025,213,True,False,213,0
+136,,0.381818,likely_llm_extraction_error,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 15/5ทับ18(บช).pdf,0,27,REVIEW,9.527,136,True,True,220,84
+223,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 15/5ทับ18.pdf,0,10,WARNING,0.016,223,True,False,223,0
+102,,0.410405,likely_llm_extraction_error,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 16/5ทับ18(บช).pdf,0,47,REVIEW,14.963,102,True,True,173,71
+194,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 16/5ทับ18.pdf,0,10,WARNING,0.014,194,True,False,194,0
+1124,,1.486726,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 2/5ทับ18.pdf,0,10,REVIEW,5.37,1124,True,True,452,672
+417,,0.014599,likely_ocr_handwriting_or_digit_error,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 2/5ทับ188(บช)2.pdf,0,57,REVIEW,17.65,417,True,True,411,6
+314,,0.0,summary_ballot_inconsistency,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 3/5ทับ18(บช).pdf,0,57,REVIEW,0.064,314,True,False,314,0
+30628,,93.530864,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 3/5ทับ18.pdf,0,10,REVIEW,4.609,30628,True,True,324,30304
+220,,0.266667,likely_llm_extraction_error,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 4/5ทับ18(บช).pdf,0,57,REVIEW,20.369,220,True,True,300,80
+306,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 4/5ทับ18.pdf,0,10,PASS,0.013,306,True,False,306,0
+31,,0.915989,likely_llm_extraction_error,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 5/5ทับ18(บช).pdf,0,57,REVIEW,15.645,31,True,True,369,338
+333,,0.29572,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 5/5ทับ18.pdf,0,10,REVIEW,4.217,333,True,True,257,76
+320,,0.056047,likely_llm_extraction_error,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 6/5ทับ18(บช).pdf,0,57,REVIEW,20.734,320,True,True,339,19
+322,,0.0,summary_ballot_inconsistency,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 6/5ทับ18.pdf,0,9,REVIEW,0.012,322,True,False,322,0
+20,,,party_name_validation_error,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 7/5ทับ 18( บช).pdf,0,37,REVIEW,9.895,20,True,True,,
+356,,0.0,summary_ballot_inconsistency,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 7/5ทับ18.pdf,0,10,REVIEW,0.015,356,True,False,356,0
+201,,,party_name_validation_error,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 8/5ทับ18( บช).pdf,0,90,REVIEW,23.884,201,True,True,,
+343,,0.374088,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 8/5ทับ18.pdf,0,10,REVIEW,5.057,343,True,True,548,205
+39,,4.571429,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 9/5ทับ18 ( บช).pdf,0,21,REVIEW,9.031,39,True,True,7,32
+318,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/ตำบลหนองขอน/หน่วยเลือกตั้งที่ 9/5ทับ18.pdf,0,8,WARNING,0.015,318,True,False,318,0
+815,,,warning_only,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่1/5ทับ18(บช).pdf,0,57,WARNING,0.066,815,True,False,,
+406,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่1/5ทับ18.pdf,0,10,PASS,0.01,406,True,False,406,0
+296,,0.016611,likely_ocr_handwriting_or_digit_error,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่10/5ทับ18(บช).pdf,0,57,REVIEW,19.812,296,True,True,301,5
+308,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่10/5ทับ18.pdf,0,10,WARNING,0.013,308,True,False,308,0
+492,,0.105618,moderate_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่11/5ทับ18(บช).pdf,0,57,REVIEW,0.06,492,True,False,445,47
+455,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่11/5ทับ18.pdf,0,10,WARNING,0.01,455,True,False,455,0
+341,,0.102632,moderate_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่12/5ทับ18(บช).pdf,0,57,REVIEW,0.054,341,True,False,380,39
+396,,0.023256,likely_ocr_handwriting_or_digit_error,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่12/5ทับ18.pdf,0,10,REVIEW,0.011,396,True,False,387,9
+222,,0.242321,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่13/5ทับ18(บช).pdf,0,53,REVIEW,18.278,222,True,True,293,71
+312,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่13/5ทับ18.pdf,0,10,PASS,0.013,312,True,False,312,0
+775,,2.163265,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่14/5ทับ18(บช).pdf,0,57,REVIEW,20.362,775,True,True,245,530
+264,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่14/5ทับ18.pdf,0,10,PASS,0.013,264,True,False,264,0
+403,,0.283439,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่15/5ทับ18(บช).pdf,0,57,REVIEW,20.266,403,True,True,314,89
+316,,0.022654,likely_ocr_handwriting_or_digit_error,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่15/5ทับ18.pdf,0,10,REVIEW,0.013,316,True,False,309,7
+284,,0.0,party_list_total_copy_error,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่16/5ทับ18(บช).pdf,0,57,REVIEW,18.616,568,True,True,284,0
+292,,,warning_only,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่16/5ทับ18.pdf,0,10,WARNING,0.013,292,True,False,,
+452,,0.002217,small_vote_mismatch_warning,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่2/5ทับ18(บช).pdf,0,57,WARNING,21.797,452,True,True,451,1
+469,,0.019565,likely_ocr_handwriting_or_digit_error,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่2/5ทับ18.pdf,0,10,REVIEW,0.013,469,True,False,460,9
+427,,0.39,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่3/5ทับ18(บช).pdf,0,57,REVIEW,21.395,427,True,True,700,273
+363,,0.159744,moderate_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่3/5ทับ18.pdf,0,10,REVIEW,0.014,363,True,False,313,50
+396,,0.007519,likely_ocr_handwriting_or_digit_error,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่4/5ทับ18(บช).pdf,0,57,REVIEW,0.06,396,True,False,399,3
+400,,0.0,summary_ballot_inconsistency,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่4/5ทับ18.pdf,0,10,REVIEW,0.01,400,True,False,400,0
+498,,0.0375,party_list_total_copy_error,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่5/5ทับ18(บช).pdf,0,57,REVIEW,0.055,1015,True,False,480,18
+498,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่5/5ทับ18.pdf,0,10,WARNING,0.01,498,True,False,498,0
+120,,0.710843,party_list_total_copy_error,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่6/5ทับ18(บช).pdf,0,57,REVIEW,21.17,535,True,True,415,295
+838,,0.995238,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่6/5ทับ18.pdf,0,10,REVIEW,4.944,838,True,True,420,418
+457,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่7/5ทับ18(บช).pdf,0,57,WARNING,19.298,457,True,True,457,0
+461,,0.0,summary_ballot_inconsistency,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่7/5ทับ18.pdf,0,10,REVIEW,0.013,461,True,False,461,0
+287,,8.566667,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่8/5ทับ18(บช).pdf,0,57,REVIEW,24.669,287,True,True,30,257
+308,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่8/5ทับ18.pdf,0,10,WARNING,0.013,308,True,False,308,0
+199,,0.149573,moderate_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่9/5ทับ18(บช).pdf,0,34,REVIEW,14.89,199,True,True,234,35
+187,,0.242915,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่9/5ทับ18.pdf,0,10,REVIEW,6.244,187,True,True,247,60
+468,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 1/5ทับ18(บช).pdf,0,57,PASS,0.076,468,True,False,468,0
+461,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 1/5ทับ18.pdf,0,10,PASS,0.011,461,True,False,461,0
+276,,0.0,party_list_total_copy_error,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 10/5ทับ18(บช).pdf,0,57,REVIEW,25.247,552,True,True,276,0
+275,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 10/5ทับ18.pdf,0,10,WARNING,0.013,275,True,False,275,0
+331,,0.177936,moderate_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 11/5ทับ18(บช).pdf,0,57,REVIEW,22.624,331,True,True,281,50
+264,,0.0,summary_ballot_inconsistency,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 11/5ทับ18.pdf,0,10,REVIEW,0.013,264,True,False,264,0
+345,,0.029851,likely_ocr_handwriting_or_digit_error,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 12/5ทับ18(บช).pdf,0,57,REVIEW,25.681,345,True,True,335,10
+322,,0.003115,small_vote_mismatch_warning,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 12/5ทับ18.pdf,0,10,WARNING,0.013,322,True,False,321,1
+227,,0.008734,small_vote_mismatch_warning,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 13/5ทับ18(บช).pdf,0,57,WARNING,24.775,227,True,True,229,2
+226,,0.081301,likely_ocr_handwriting_or_digit_error,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 13/5ทับ18.pdf,0,10,REVIEW,6.814,226,True,True,246,20
+284,,0.010453,party_list_total_copy_error,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 14/5ทับ18(บช).pdf,0,57,REVIEW,19.601,571,True,True,287,3
+289,,0.235043,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 14/5ทับ18.pdf,0,10,REVIEW,5.51,289,True,True,234,55
+,Missing OCR text: ocr_texts/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 15/5ทับ18(บช)_ocr.txt,,,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 15/5ทับ18(บช).pdf,,0,FAIL,0.0,,,,,
+,Missing OCR text: ocr_texts/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 15/5ทับ18_ocr.txt,,,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 15/5ทับ18.pdf,,0,FAIL,0.0,,,,,
+392,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 16/5ทับ18(บช).pdf,0,57,WARNING,0.076,392,True,False,392,0
+398,,0.0,summary_ballot_inconsistency,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 16/5ทับ18.pdf,0,10,REVIEW,4.508,398,True,True,398,0
+371,,0.0,summary_ballot_inconsistency,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 17/5ทับ18(บช).pdf,0,57,REVIEW,21.041,371,True,True,371,0
+385,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 17/5ทับ18.pdf,0,10,PASS,0.013,385,True,False,385,0
+332,,0.135417,party_list_total_copy_error,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 18/5ทับ18(บช).pdf,0,57,REVIEW,22.826,716,True,True,384,52
+396,,0.053191,likely_ocr_handwriting_or_digit_error,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 18/5ทับ18.pdf,0,10,REVIEW,0.014,396,True,False,376,20
+135,,0.028777,likely_ocr_handwriting_or_digit_error,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 19/5ทับ18(บช).pdf,0,57,REVIEW,22.413,135,True,True,139,4
+85,,0.388489,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 19/5ทับ18.pdf,0,34,REVIEW,13.5,85,True,True,139,54
+639,,0.48951,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 2/5ทับ18(บช).pdf,0,57,REVIEW,30.011,639,True,True,429,210
+978,,1.163717,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 2/5ทับ18.pdf,0,10,REVIEW,8.193,978,True,True,452,526
+312,,0.0,party_list_total_copy_error,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 20/5ทับ18(บช).pdf,0,57,REVIEW,0.075,624,True,False,312,0
+312,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 20/5ทับ18.pdf,0,10,WARNING,0.011,312,True,False,312,0
+309,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 21/5ทับ18(บช).pdf,0,57,PASS,30.64,309,True,True,309,0
+458,,0.501639,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 21/5ทับ18.pdf,0,10,REVIEW,7.218,458,True,True,305,153
+223,,0.18315,moderate_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 22/5ทับ18(บช).pdf,0,57,REVIEW,22.158,223,True,True,273,50
+268,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 22/5ทับ18.pdf,0,10,PASS,0.014,268,True,False,268,0
+282,,0.024221,likely_ocr_handwriting_or_digit_error,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 23/5ทับ18(บช).pdf,0,57,REVIEW,29.351,282,True,True,289,7
+272,,0.003663,small_vote_mismatch_warning,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 23/5ทับ18.pdf,0,10,WARNING,0.013,272,True,False,273,1
+214,,,warning_only,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 24/5ทับ18(บช).pdf,0,57,WARNING,0.059,214,True,False,,
+284,,,warning_only,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 24/5ทับ18.pdf,0,10,WARNING,0.01,284,True,False,,
+504,,0.647059,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 25/5ทับ18(บช).pdf,0,57,REVIEW,26.578,504,True,True,306,198
+284,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 25/5ทับ18.pdf,0,10,WARNING,0.014,284,True,False,284,0
+375,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 26/5ทับ18(บช).pdf,0,57,WARNING,28.246,375,True,True,375,0
+358,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 26/5ทับ18.pdf,0,10,WARNING,0.013,358,True,False,358,0
+368,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 27/5ทับ18(บช).pdf,0,57,PASS,0.082,368,True,False,368,0
+356,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 27/5ทับ18.pdf,0,10,PASS,0.01,356,True,False,356,0
+428,,0.12336,moderate_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 28/5ทับ18(บช).pdf,0,57,REVIEW,0.056,428,True,False,381,47
+407,,0.172911,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 28/5ทับ18.pdf,0,10,REVIEW,5.625,407,True,True,347,60
+361,,0.013661,likely_ocr_handwriting_or_digit_error,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 29/5ทับ18(บช).pdf,0,57,REVIEW,24.225,361,True,True,366,5
+6509,,18.546547,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 29/5ทับ18.pdf,0,10,REVIEW,7.635,6509,True,True,333,6176
+452,,0.0,summary_ballot_inconsistency,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 3/5ทับ18(บช).pdf,0,57,REVIEW,28.188,452,True,True,452,0
+434,,0.0,summary_ballot_inconsistency,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 3/5ทับ18.pdf,0,10,REVIEW,7.743,434,True,True,434,0
+344,,,warning_only,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 30/5ทับ18(บช).pdf,0,57,WARNING,0.075,344,True,False,,
+351,,0.005731,small_vote_mismatch_warning,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 30/5ทับ18.pdf,0,10,WARNING,0.011,351,True,False,349,2
+361,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 31/5ทับ18(บช).pdf,0,57,PASS,22.797,361,True,True,361,0
+362,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 31/5ทับ18.pdf,0,10,PASS,0.014,362,True,False,362,0
+322,,0.0,party_name_validation_error,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 32/5ทับ18(บช).pdf,0,57,REVIEW,28.662,322,True,True,322,0
+314,,21.428571,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 32/5ทับ18.pdf,0,10,REVIEW,8.958,314,True,True,14,300
+304,,0.0,party_name_warning,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 33/5ทับ18(บช).pdf,0,57,WARNING,26.059,304,True,True,304,0
+264,,0.102041,moderate_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 33/5ทับ18.pdf,0,10,REVIEW,0.013,264,True,False,294,30
+315,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 34/5ทับ18(บช).pdf,0,57,PASS,0.06,315,True,False,315,0
+302,,0.163435,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 34/5ทับ18.pdf,0,10,REVIEW,6.638,302,True,True,361,59
+337,,0.00597,small_vote_mismatch_warning,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 35/5ทับ18(บช).pdf,0,57,REVIEW,22.167,337,True,True,335,2
+334,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 35/5ทับ18.pdf,0,10,WARNING,0.013,334,True,False,334,0
+0,,,likely_llm_extraction_error,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 36/5ทับ18(บช).pdf,0,0,REVIEW,0.815,0,True,True,,
+0,,,likely_llm_extraction_error,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 36/5ทับ18.pdf,0,0,REVIEW,1.053,0,True,True,,
+361,,0.0,summary_ballot_inconsistency,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 37/5ทับ18(บช).pdf,0,57,REVIEW,24.523,361,True,True,361,0
+344,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 37/5ทับ18.pdf,0,10,PASS,0.013,344,True,False,344,0
+174,,0.603645,party_list_total_copy_error,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 38/5ทับ18(บช).pdf,0,23,REVIEW,11.638,646,True,True,439,265
+439,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 38/5ทับ18.pdf,0,10,WARNING,0.016,439,True,False,439,0
+460,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 39/5ทับ18(บช).pdf,0,57,WARNING,21.421,460,True,True,460,0
+2041,,5.129129,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 39/5ทับ18.pdf,0,10,REVIEW,6.303,2041,True,True,333,1708
+351,,0.005731,small_vote_mismatch_warning,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 4/5ทับ18(บช).pdf,0,39,WARNING,0.059,351,True,False,349,2
+362,,0.05848,likely_ocr_handwriting_or_digit_error,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 4/5ทับ18.pdf,0,10,REVIEW,0.012,362,True,False,342,20
+415,,0.004843,small_vote_mismatch_warning,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 41/5ทับ18(บช).pdf,0,57,REVIEW,22.51,415,True,True,413,2
+339,,0.128535,moderate_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 41/5ทับ18.pdf,0,10,REVIEW,0.013,339,True,False,389,50
+1032,,1.181818,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 42/5ทับ18(บช).pdf,0,57,REVIEW,30.612,1032,True,True,473,559
+421,,0.904977,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 42/5ทับ18.pdf,0,10,REVIEW,6.39,421,True,True,221,200
+363,,0.133652,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 43/5ทับ18(บช).pdf,0,57,REVIEW,24.626,363,True,True,419,56
+401,,9.025,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 43/5ทับ18.pdf,0,10,REVIEW,7.424,401,True,True,40,361
+319,,0.018462,likely_ocr_handwriting_or_digit_error,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 44/5ทับ18(บช).pdf,0,57,REVIEW,25.546,319,True,True,325,6
+317,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 44/5ทับ18.pdf,0,10,WARNING,0.013,317,True,False,317,0
+330,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 45/5ทับ18(บช).pdf,0,57,WARNING,0.061,330,True,False,330,0
+310,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 45/5ทับ18.pdf,0,10,WARNING,0.01,310,True,False,310,0
+229,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 5/5ทับ18(บช).pdf,0,57,WARNING,23.879,229,True,True,229,0
+206,,0.0,clean,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 5/5ทับ18.pdf,0,10,PASS,0.013,206,True,False,206,0
+524,,0.592705,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 6/5ทับ18(บช).pdf,0,57,REVIEW,17.801,524,True,True,329,195
+318,,0.088825,moderate_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 6/5ทับ18.pdf,0,10,REVIEW,0.013,318,True,False,349,31
+326,,0.0,warning_only,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 7/5ทับ18(บช).pdf,0,57,WARNING,0.059,326,True,False,326,0
+312,,0.471698,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 7/5ทับ18.pdf,0,10,REVIEW,4.386,312,True,True,212,100
+383,,0.146707,moderate_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 8/5ทับ18(บช).pdf,0,57,REVIEW,20.022,383,True,True,334,49
+352,,0.113924,moderate_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 8/5ทับ18.pdf,0,9,REVIEW,0.012,352,True,False,316,36
+348,,0.0,party_name_warning,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 9/5ทับ18(บช).pdf,0,57,WARNING,19.143,348,True,True,348,0
+0,,,likely_llm_extraction_error,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 9/5ทับ18.pdf,0,0,REVIEW,0.949,0,True,True,,
+360,,0.0625,moderate_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ิ 40/5ทับ18(บช).pdf,0,57,REVIEW,19.416,360,True,True,384,24
+669,,0.817935,large_vote_mismatch,rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ิ 40/5ทับ18.pdf,0,10,REVIEW,5.514,669,True,True,368,301

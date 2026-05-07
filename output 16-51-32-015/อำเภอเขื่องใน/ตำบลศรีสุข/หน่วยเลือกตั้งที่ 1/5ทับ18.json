@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลศรีสุข",
+    "unit": 1,
+    "form_type": "constituency",
+    "source": "rawData/อำเภอเขื่องใน/ตำบลศรีสุข/หน่วยเลือกตั้งที่ 1/5ทับ18.pdf",
+    "ocr_text": "ocr_texts/อำเภอเขื่องใน/ตำบลศรีสุข/หน่วยเลือกตั้งที่ 1/5ทับ18_ocr.txt",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 508,
+    "turnout": 226,
+    "ballots_allocated": 300,
+    "ballots_used": 296,
+    "valid_ballots": 296,
+    "spoiled_ballots": 8,
+    "abstain_ballots": 2,
+    "ballots_remaining": 214
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายวุฒิพงษ์ นามบุตร",
+      "party_raw": "กล้าธรรม",
+      "party": "กล้าธรรม",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 84,
+      "votes_th": "ไม่สมัย",
+      "votes_th_value": null,
+      "vote_confidence": "medium",
+      "vote_flags": []
+    },
+    {
+      "number": 2,
+      "name": "นายประเสริฐ เผ่าพันธ์",
+      "party_raw": "ภูมิใจไทย",
+      "party": "ภูมิใจไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 1,
+      "votes_th": "ไม่ชอบ",
+      "votes_th_value": null,
+      "vote_confidence": "medium",
+      "vote_flags": []
+    },
+    {
+      "number": 3,
+      "name": "นายประสพ สารสมัคร",
+      "party_raw": "เพื่อไทย",
+      "party": "เพื่อไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 3,
+      "votes_th": "ไม่ชอบ",
+      "votes_th_value": null,
+      "vote_confidence": "medium",
+      "vote_flags": []
+    },
+    {
+      "number": 4,
+      "name": "นายปรีชญา ฉ่ำมณี",
+      "party_raw": "ประชาชน",
+      "party": "ประชาชน",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 21,
+      "votes_th": "ไม่ชอบสมัยนี้",
+      "votes_th_value": null,
+      "vote_confidence": "medium",
+      "vote_flags": []
+    },
+    {
+      "number": 5,
+      "name": "นายณรงค์ชัย วีระกุล",
+      "party_raw": "ไทรวมพลัง",
+      "party": "ไทรวมพลัง",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 167,
+      "votes_th": "ไม่ชอบสมัยนี้",
+      "votes_th_value": null,
+      "vote_confidence": "medium",
+      "vote_flags": []
+    }
+  ],
+  "_validation": {
+    "status": "REVIEW",
+    "error_type": "likely_ocr_handwriting_or_digit_error",
+    "total_votes_in_table": 276,
+    "effective_vote_sum": 276,
+    "valid_ballots": 296,
+    "vote_diff": 20,
+    "error_ratio": 0.067568,
+    "ballot_balance_diff": 10,
+    "excluded_vote_rows": [],
+    "low_confidence_vote_count": 0,
+    "very_low_confidence_vote_count": 0,
+    "party_issue_count": 0,
+    "unmatched_party_count": 0,
+    "low_confidence_party_count": 0,
+    "auto_matched_party_count": 5,
+    "exact_party_count": 0,
+    "errors": [
+      "vote sum mismatch: effective_sum=276, valid_ballots=296",
+      "ballot used mismatch: valid+spoiled+abstain=306, ballots_used=296"
+    ],
+    "warnings": [
+      "allocated mismatch: used+remaining=510, allocated=300",
+      "turnout and ballots_used differ: turnout=226, ballots_used=296"
+    ],
+    "suggestions": [],
+    "suspicious_rows": [
+      {
+        "number": 5,
+        "party": "ไทรวมพลัง",
+        "party_raw": "ไทรวมพลัง",
+        "votes": 167,
+        "reason": "single row is unusually large relative to valid_ballots"
+      }
+    ],
+    "retry_recommended": false,
+    "retry_count": 0,
+    "used_fast_parser": true,
+    "used_llm": false
+  }
+}

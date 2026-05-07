@@ -1,0 +1,1111 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลท่าไห",
+    "unit": 8,
+    "form_type": "party_list",
+    "source": "rawData/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 8/5ทับ18(บช).pdf",
+    "ocr_text": "ocr_texts/อำเภอเขื่องใน/ตำบลท่าไห/หน่วยเลือกตั้งที่ 8/5ทับ18(บช)_ocr.txt",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "party_list",
+  "summary": {
+    "eligible_voters": 571,
+    "turnout": 297,
+    "ballots_allocated": 560,
+    "ballots_used": 299,
+    "valid_ballots": 298,
+    "spoiled_ballots": 77,
+    "abstain_ballots": 22,
+    "ballots_remaining": 263
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "",
+      "party_raw": "ไทยทรัพย์ทวี",
+      "party": "ไทยทรัพย์ทวี",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 9,
+      "votes_th": "เก้า",
+      "votes_th_value": 9,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 2,
+      "name": "",
+      "party_raw": "เพื่อชาติไทย",
+      "party": "เพื่อชาติไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 7,
+      "votes_th": "เจ็ด",
+      "votes_th_value": 7,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 3,
+      "name": "",
+      "party_raw": "ใหม่",
+      "party": "ใหม่",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "ศูนย์",
+      "votes_th_value": 0,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 4,
+      "name": "",
+      "party_raw": "มิติใหม่",
+      "party": "มิติใหม่",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 1,
+      "votes_th": "หนึ่ง",
+      "votes_th_value": 1,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 5,
+      "name": "",
+      "party_raw": "รวมใจไทย",
+      "party": "รวมใจไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 15,
+      "votes_th": "สิบห้า",
+      "votes_th_value": 15,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 6,
+      "name": "",
+      "party_raw": "รวมไทยสร้างชาติ",
+      "party": "รวมไทยสร้างชาติ",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 5,
+      "votes_th": "ห้า",
+      "votes_th_value": 5,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 7,
+      "name": "",
+      "party_raw": "พลวัต",
+      "party": "พลวัต",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "ศูนย์",
+      "votes_th_value": 0,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 8,
+      "name": "",
+      "party_raw": "ประชาธิปไตยใหม่",
+      "party": "ประชาธิปไตยใหม่",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "หนึ่ง",
+      "votes_th_value": 1,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 9,
+      "name": "",
+      "party_raw": "เพื่อไทย",
+      "party": "เพื่อไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 36,
+      "votes_th": "สามสิบหก",
+      "votes_th_value": 36,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 10,
+      "name": "",
+      "party_raw": "ทางเลือกใหม่",
+      "party": "ทางเลือกใหม่",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "ศูนย์",
+      "votes_th_value": 0,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 11,
+      "name": "",
+      "party_raw": "เศรษฐกิจ",
+      "party": "เศรษฐกิจ",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 9,
+      "votes_th": "๓๓",
+      "votes_th_value": 33,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 12,
+      "name": "",
+      "party_raw": "เสรีรวมไทย",
+      "party": "เสรีรวมไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 3,
+      "votes_th": "๖๑๗",
+      "votes_th_value": 617,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 13,
+      "name": "",
+      "party_raw": "รวมพลังประชาชน",
+      "party": "รวมพลังประชาชน",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๒๔๕",
+      "votes_th_value": 245,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 14,
+      "name": "",
+      "party_raw": "ท้องที่ไทย",
+      "party": "ท้องที่ไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๒๔๕ หนึ่ง",
+      "votes_th_value": 245,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 15,
+      "name": "",
+      "party_raw": "อนาคตไทย",
+      "party": "อนาคตไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๒๔๕",
+      "votes_th_value": 245,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 16,
+      "name": "",
+      "party_raw": "พลังเพื่อไทย",
+      "party": "พลังเพื่อไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 2,
+      "votes_th": "๔๒๖",
+      "votes_th_value": 426,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 17,
+      "name": "",
+      "party_raw": "ไทยชนะ",
+      "party": "ไทยชนะ",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๒๔๕",
+      "votes_th_value": 245,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 18,
+      "name": "",
+      "party_raw": "พลังสังคมใหม่",
+      "party": "พลังสังคมใหม่",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๒๔๕",
+      "votes_th_value": 245,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 19,
+      "name": "",
+      "party_raw": "สังคมประชาธิปไตยไทย",
+      "party": "สังคมประชาธิปไตยไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๒๔๕",
+      "votes_th_value": 245,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 20,
+      "name": "",
+      "party_raw": "ฟิวชัน",
+      "party": "ฟิวชัน",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๒๔๕",
+      "votes_th_value": 245,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 21,
+      "name": "",
+      "party_raw": "ไทรวมพลัง",
+      "party": "ไทรวมพลัง",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 96,
+      "votes_th": "๓๔๕๒๓",
+      "votes_th_value": 34523,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 22,
+      "name": "",
+      "party_raw": "ก้าวอิสระ",
+      "party": "ก้าวอิสระ",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๒๔๕ หนึ่ง",
+      "votes_th_value": 245,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 23,
+      "name": "",
+      "party_raw": "ปวงชนไทย",
+      "party": "ปวงชนไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๒๔๕",
+      "votes_th_value": 245,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 24,
+      "name": "",
+      "party_raw": "วิชชั่นใหม่",
+      "party": "วิชชั่นใหม่",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๒๔๕ หนึ่ง",
+      "votes_th_value": 245,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 25,
+      "name": "",
+      "party_raw": "เพื่อชีวิตใหม่",
+      "party": "เพื่อชีวิตใหม่",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๒๔๕ หนึ่ง",
+      "votes_th_value": 245,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 26,
+      "name": "",
+      "party_raw": "คลองไทย",
+      "party": "คลองไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 19,
+      "votes_th": "๕๒๑",
+      "votes_th_value": 521,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 27,
+      "name": "",
+      "party_raw": "ประชาธิปัตย์",
+      "party": "ประชาธิปัตย์",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๒๔๕",
+      "votes_th_value": 245,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 28,
+      "name": "",
+      "party_raw": "ไทยก้าวหน้า",
+      "party": "ไทยก้าวหน้า",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๒๔๕ หนึ่ง",
+      "votes_th_value": 245,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 29,
+      "name": "",
+      "party_raw": "ไทยภักดี",
+      "party": "ไทยภักดี",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๒๔๕",
+      "votes_th_value": 245,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 30,
+      "name": "",
+      "party_raw": "แรงงานสร้างชาติ",
+      "party": "แรงงานสร้างชาติ",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๒๔๕",
+      "votes_th_value": 245,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 31,
+      "name": "",
+      "party_raw": "ประชากรไทย",
+      "party": "ประชากรไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๒๔๕",
+      "votes_th_value": 245,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 32,
+      "name": "",
+      "party_raw": "ครูไทยเพื่อประชาชน",
+      "party": "ครูไทยเพื่อประชาชน",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๒๔๕",
+      "votes_th_value": 245,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 33,
+      "name": "",
+      "party_raw": "ประชาชาติ",
+      "party": "ประชาชาติ",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 2,
+      "votes_th": "๔๕๒ สาม",
+      "votes_th_value": 452,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 34,
+      "name": "",
+      "party_raw": "สร้างอนาคตไทย",
+      "party": "สร้างอนาคตไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 83,
+      "votes_th": "๓๔๕ สาม",
+      "votes_th_value": 345,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 35,
+      "name": "",
+      "party_raw": "รักชาติ",
+      "party": "รักชาติ",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 91,
+      "votes_th": "๗๓๕ หนึ่ง",
+      "votes_th_value": 735,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 36,
+      "name": "",
+      "party_raw": "ไทยพร้อม",
+      "party": "ไทยพร้อม",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๗๐๕",
+      "votes_th_value": 705,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 37,
+      "name": "",
+      "party_raw": "ภูมิใจไทย",
+      "party": "ภูมิใจไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 16,
+      "votes_th": "๗๓๓",
+      "votes_th_value": 733,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 38,
+      "name": "",
+      "party_raw": "พลังธรรมใหม่",
+      "party": "พลังธรรมใหม่",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๗๓๕",
+      "votes_th_value": 735,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 39,
+      "name": "",
+      "party_raw": "กรีน",
+      "party": "กรีน",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๗๓๕",
+      "votes_th_value": 735,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 40,
+      "name": "",
+      "party_raw": "ไทยธรรม",
+      "party": "ไทยธรรม",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๗๓๕",
+      "votes_th_value": 735,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 41,
+      "name": "",
+      "party_raw": "แผ่นดินธรรม",
+      "party": "แผ่นดินธรรม",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๗๓๕",
+      "votes_th_value": 735,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 42,
+      "name": "",
+      "party_raw": "กล้าธรรม",
+      "party": "กล้าธรรม",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 28,
+      "votes_th": "๗๓๗๒",
+      "votes_th_value": 7372,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 43,
+      "name": "",
+      "party_raw": "พลังประชารัฐ",
+      "party": "พลังประชารัฐ",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 1,
+      "votes_th": "๗๓๑",
+      "votes_th_value": 731,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 44,
+      "name": "",
+      "party_raw": "โอกาสใหม่",
+      "party": "โอกาสใหม่",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๗๓๕",
+      "votes_th_value": 735,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 45,
+      "name": "",
+      "party_raw": "เป็นธรรม",
+      "party": "เป็นธรรม",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๗๓๕",
+      "votes_th_value": 735,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 46,
+      "name": "",
+      "party_raw": "ประชาชน",
+      "party": "ประชาชน",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 32,
+      "votes_th": "๗๓๗๒",
+      "votes_th_value": 7372,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 47,
+      "name": "",
+      "party_raw": "ประชาไทย",
+      "party": "ประชาไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๗๓๕",
+      "votes_th_value": 735,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 48,
+      "name": "",
+      "party_raw": "ไทยสร้างไทย",
+      "party": "ไทยสร้างไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๗๓๕",
+      "votes_th_value": 735,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 49,
+      "name": "",
+      "party_raw": "ไทยก้าวใหม่",
+      "party": "ไทยก้าวใหม่",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๗๓๕",
+      "votes_th_value": 735,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 50,
+      "name": "",
+      "party_raw": "ประชาอาสาชาติ",
+      "party": "ประชาอาสาชาติ",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 53,
+      "votes_th": "๗๓๗๓",
+      "votes_th_value": 7373,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 51,
+      "name": "",
+      "party_raw": "พร้อม",
+      "party": "พร้อม",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 51,
+      "votes_th": "๗๓๕",
+      "votes_th_value": 735,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 52,
+      "name": "",
+      "party_raw": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๗๓๕",
+      "votes_th_value": 735,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 53,
+      "name": "",
+      "party_raw": "ไทยพิทักษ์ธรรม",
+      "party": "ไทยพิทักษ์ธรรม",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๗๓๕",
+      "votes_th_value": 735,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 54,
+      "name": "",
+      "party_raw": "ความหวังใหม่",
+      "party": "ความหวังใหม่",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๗๓๕",
+      "votes_th_value": 735,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 55,
+      "name": "",
+      "party_raw": "ไทยรวมไทย",
+      "party": "ไทยรวมไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 1,
+      "votes_th": "๗๓๕",
+      "votes_th_value": 735,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 56,
+      "name": "",
+      "party_raw": "เพื่อบ้านเมือง",
+      "party": "เพื่อบ้านเมือง",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 51,
+      "votes_th": "๗๓๕",
+      "votes_th_value": 735,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 57,
+      "name": "",
+      "party_raw": "พลังไทยรักชาติ",
+      "party": "พลังไทยรักชาติ",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "๗๓๕",
+      "votes_th_value": 735,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    }
+  ],
+  "_validation": {
+    "status": "REVIEW",
+    "error_type": "large_vote_mismatch",
+    "total_votes_in_table": 611,
+    "effective_vote_sum": 611,
+    "valid_ballots": 298,
+    "vote_diff": 313,
+    "error_ratio": 1.050336,
+    "ballot_balance_diff": 98,
+    "excluded_vote_rows": [],
+    "low_confidence_vote_count": 48,
+    "very_low_confidence_vote_count": 0,
+    "party_issue_count": 0,
+    "unmatched_party_count": 0,
+    "low_confidence_party_count": 0,
+    "auto_matched_party_count": 57,
+    "exact_party_count": 0,
+    "errors": [
+      "vote sum mismatch: effective_sum=611, valid_ballots=298",
+      "ballot used mismatch: valid+spoiled+abstain=397, ballots_used=299"
+    ],
+    "warnings": [
+      "numeric/Thai vote mismatch for number 8: numeric=0, thai=1, text=หนึ่ง",
+      "numeric/Thai vote mismatch for number 11: numeric=9, thai=33, text=๓๓",
+      "numeric/Thai vote mismatch for number 12: numeric=3, thai=617, text=๖๑๗",
+      "numeric/Thai vote mismatch for number 13: numeric=0, thai=245, text=๒๔๕",
+      "numeric/Thai vote mismatch for number 14: numeric=0, thai=245, text=๒๔๕ หนึ่ง",
+      "numeric/Thai vote mismatch for number 15: numeric=0, thai=245, text=๒๔๕",
+      "numeric/Thai vote mismatch for number 16: numeric=2, thai=426, text=๔๒๖",
+      "numeric/Thai vote mismatch for number 17: numeric=0, thai=245, text=๒๔๕",
+      "numeric/Thai vote mismatch for number 18: numeric=0, thai=245, text=๒๔๕",
+      "numeric/Thai vote mismatch for number 19: numeric=0, thai=245, text=๒๔๕",
+      "numeric/Thai vote mismatch for number 20: numeric=0, thai=245, text=๒๔๕",
+      "numeric/Thai vote mismatch for number 21: numeric=96, thai=34523, text=๓๔๕๒๓",
+      "numeric/Thai vote mismatch for number 22: numeric=0, thai=245, text=๒๔๕ หนึ่ง",
+      "numeric/Thai vote mismatch for number 23: numeric=0, thai=245, text=๒๔๕",
+      "numeric/Thai vote mismatch for number 24: numeric=0, thai=245, text=๒๔๕ หนึ่ง",
+      "numeric/Thai vote mismatch for number 25: numeric=0, thai=245, text=๒๔๕ หนึ่ง",
+      "numeric/Thai vote mismatch for number 26: numeric=19, thai=521, text=๕๒๑",
+      "numeric/Thai vote mismatch for number 27: numeric=0, thai=245, text=๒๔๕",
+      "numeric/Thai vote mismatch for number 28: numeric=0, thai=245, text=๒๔๕ หนึ่ง",
+      "numeric/Thai vote mismatch for number 29: numeric=0, thai=245, text=๒๔๕",
+      "numeric/Thai vote mismatch for number 30: numeric=0, thai=245, text=๒๔๕",
+      "numeric/Thai vote mismatch for number 31: numeric=0, thai=245, text=๒๔๕",
+      "numeric/Thai vote mismatch for number 32: numeric=0, thai=245, text=๒๔๕",
+      "numeric/Thai vote mismatch for number 33: numeric=2, thai=452, text=๔๕๒ สาม",
+      "numeric/Thai vote mismatch for number 34: numeric=83, thai=345, text=๓๔๕ สาม",
+      "numeric/Thai vote mismatch for number 35: numeric=91, thai=735, text=๗๓๕ หนึ่ง",
+      "numeric/Thai vote mismatch for number 36: numeric=0, thai=705, text=๗๐๕",
+      "numeric/Thai vote mismatch for number 37: numeric=16, thai=733, text=๗๓๓",
+      "numeric/Thai vote mismatch for number 38: numeric=0, thai=735, text=๗๓๕",
+      "numeric/Thai vote mismatch for number 39: numeric=0, thai=735, text=๗๓๕",
+      "numeric/Thai vote mismatch for number 40: numeric=0, thai=735, text=๗๓๕",
+      "numeric/Thai vote mismatch for number 41: numeric=0, thai=735, text=๗๓๕",
+      "numeric/Thai vote mismatch for number 42: numeric=28, thai=7372, text=๗๓๗๒",
+      "numeric/Thai vote mismatch for number 43: numeric=1, thai=731, text=๗๓๑",
+      "numeric/Thai vote mismatch for number 44: numeric=0, thai=735, text=๗๓๕",
+      "numeric/Thai vote mismatch for number 45: numeric=0, thai=735, text=๗๓๕",
+      "numeric/Thai vote mismatch for number 46: numeric=32, thai=7372, text=๗๓๗๒",
+      "numeric/Thai vote mismatch for number 47: numeric=0, thai=735, text=๗๓๕",
+      "numeric/Thai vote mismatch for number 48: numeric=0, thai=735, text=๗๓๕",
+      "numeric/Thai vote mismatch for number 49: numeric=0, thai=735, text=๗๓๕",
+      "numeric/Thai vote mismatch for number 50: numeric=53, thai=7373, text=๗๓๗๓",
+      "numeric/Thai vote mismatch for number 51: numeric=51, thai=735, text=๗๓๕",
+      "numeric/Thai vote mismatch for number 52: numeric=0, thai=735, text=๗๓๕",
+      "numeric/Thai vote mismatch for number 53: numeric=0, thai=735, text=๗๓๕",
+      "numeric/Thai vote mismatch for number 54: numeric=0, thai=735, text=๗๓๕",
+      "numeric/Thai vote mismatch for number 55: numeric=1, thai=735, text=๗๓๕",
+      "numeric/Thai vote mismatch for number 56: numeric=51, thai=735, text=๗๓๕",
+      "numeric/Thai vote mismatch for number 57: numeric=0, thai=735, text=๗๓๕",
+      "allocated mismatch: used+remaining=562, allocated=560",
+      "turnout and ballots_used differ: turnout=297, ballots_used=299"
+    ],
+    "suggestions": [
+      {
+        "type": "thai_text_vote_correction",
+        "number": 8,
+        "party": "ประชาธิปไตยใหม่",
+        "party_raw": "ประชาธิปไตยใหม่",
+        "current_votes": 0,
+        "suggested_votes": 1,
+        "confidence": "high",
+        "reason": "Numeric vote 0 conflicts with Thai text value 1."
+      },
+      {
+        "type": "thai_text_vote_correction",
+        "number": 11,
+        "party": "เศรษฐกิจ",
+        "party_raw": "เศรษฐกิจ",
+        "current_votes": 9,
+        "suggested_votes": 33,
+        "confidence": "medium",
+        "reason": "Numeric vote 9 conflicts with Thai text value 33."
+      },
+      {
+        "type": "thai_text_vote_correction",
+        "number": 12,
+        "party": "เสรีรวมไทย",
+        "party_raw": "เสรีรวมไทย",
+        "current_votes": 3,
+        "suggested_votes": 617,
+        "confidence": "medium",
+        "reason": "Numeric vote 3 conflicts with Thai text value 617."
+      },
+      {
+        "type": "thai_text_vote_correction",
+        "number": 13,
+        "party": "รวมพลังประชาชน",
+        "party_raw": "รวมพลังประชาชน",
+        "current_votes": 0,
+        "suggested_votes": 245,
+        "confidence": "medium",
+        "reason": "Numeric vote 0 conflicts with Thai text value 245."
+      },
+      {
+        "type": "thai_text_vote_correction",
+        "number": 14,
+        "party": "ท้องที่ไทย",
+        "party_raw": "ท้องที่ไทย",
+        "current_votes": 0,
+        "suggested_votes": 245,
+        "confidence": "medium",
+        "reason": "Numeric vote 0 conflicts with Thai text value 245."
+      },
+      {
+        "type": "thai_text_vote_correction",
+        "number": 15,
+        "party": "อนาคตไทย",
+        "party_raw": "อนาคตไทย",
+        "current_votes": 0,
+        "suggested_votes": 245,
+        "confidence": "medium",
+        "reason": "Numeric vote 0 conflicts with Thai text value 245."
+      },
+      {
+        "type": "thai_text_vote_correction",
+        "number": 16,
+        "party": "พลังเพื่อไทย",
+        "party_raw": "พลังเพื่อไทย",
+        "current_votes": 2,
+        "suggested_votes": 426,
+        "confidence": "medium",
+        "reason": "Numeric vote 2 conflicts with Thai text value 426."
+      },
+      {
+        "type": "thai_text_vote_correction",
+        "number": 17,
+        "party": "ไทยชนะ",
+        "party_raw": "ไทยชนะ",
+        "current_votes": 0,
+        "suggested_votes": 245,
+        "confidence": "medium",
+        "reason": "Numeric vote 0 conflicts with Thai text value 245."
+      },
+      {
+        "type": "thai_text_vote_correction",
+        "number": 18,
+        "party": "พลังสังคมใหม่",
+        "party_raw": "พลังสังคมใหม่",
+        "current_votes": 0,
+        "suggested_votes": 245,
+        "confidence": "medium",
+        "reason": "Numeric vote 0 conflicts with Thai text value 245."
+      },
+      {
+        "type": "thai_text_vote_correction",
+        "number": 19,
+        "party": "สังคมประชาธิปไตยไทย",
+        "party_raw": "สังคมประชาธิปไตยไทย",
+        "current_votes": 0,
+        "suggested_votes": 245,
+        "confidence": "medium",
+        "reason": "Numeric vote 0 conflicts with Thai text value 245."
+      }
+    ],
+    "suspicious_rows": [
+      {
+        "number": 8,
+        "party": "ประชาธิปไตยใหม่",
+        "party_raw": "ประชาธิปไตยใหม่",
+        "votes": 0,
+        "votes_th": "หนึ่ง",
+        "votes_th_value": 1,
+        "confidence": "low",
+        "flags": [
+          "numeric_thai_text_mismatch"
+        ],
+        "reason": "low-confidence vote field"
+      },
+      {
+        "number": 11,
+        "party": "เศรษฐกิจ",
+        "party_raw": "เศรษฐกิจ",
+        "votes": 9,
+        "votes_th": "๓๓",
+        "votes_th_value": 33,
+        "confidence": "low",
+        "flags": [
+          "numeric_thai_text_mismatch"
+        ],
+        "reason": "low-confidence vote field"
+      },
+      {
+        "number": 12,
+        "party": "เสรีรวมไทย",
+        "party_raw": "เสรีรวมไทย",
+        "votes": 3,
+        "votes_th": "๖๑๗",
+        "votes_th_value": 617,
+        "confidence": "low",
+        "flags": [
+          "numeric_thai_text_mismatch"
+        ],
+        "reason": "low-confidence vote field"
+      },
+      {
+        "number": 13,
+        "party": "รวมพลังประชาชน",
+        "party_raw": "รวมพลังประชาชน",
+        "votes": 0,
+        "votes_th": "๒๔๕",
+        "votes_th_value": 245,
+        "confidence": "low",
+        "flags": [
+          "numeric_thai_text_mismatch"
+        ],
+        "reason": "low-confidence vote field"
+      },
+      {
+        "number": 14,
+        "party": "ท้องที่ไทย",
+        "party_raw": "ท้องที่ไทย",
+        "votes": 0,
+        "votes_th": "๒๔๕ หนึ่ง",
+        "votes_th_value": 245,
+        "confidence": "low",
+        "flags": [
+          "numeric_thai_text_mismatch"
+        ],
+        "reason": "low-confidence vote field"
+      }
+    ],
+    "retry_recommended": false,
+    "retry_count": 0,
+    "used_fast_parser": true,
+    "used_llm": true
+  }
+}

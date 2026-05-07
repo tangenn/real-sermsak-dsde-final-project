@@ -1,0 +1,27 @@
+{
+  "total_files": 560,
+  "failed_runtime": 6,
+  "status_counts": {
+    "REVIEW": 338,
+    "PASS": 70,
+    "WARNING": 152
+  },
+  "error_type_counts": {
+    "party_list_total_copy_error": 62,
+    "likely_ocr_handwriting_or_digit_error": 71,
+    "clean": 70,
+    "small_vote_mismatch_warning": 34,
+    "moderate_vote_mismatch": 39,
+    "warning_only": 114,
+    "large_vote_mismatch": 106,
+    "likely_llm_extraction_error": 18,
+    "party_name_warning": 11,
+    "summary_ballot_inconsistency": 32,
+    "party_name_validation_error": 3
+  },
+  "avg_error_ratio": 27.215232,
+  "max_error_ratio": 14545.109091,
+  "total_retries": 0,
+  "used_llm_count": 283,
+  "used_fast_parser_count": 560
+}

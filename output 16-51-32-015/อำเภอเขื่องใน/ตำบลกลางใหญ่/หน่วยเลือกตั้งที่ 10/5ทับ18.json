@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลกลางใหญ่",
+    "unit": 10,
+    "form_type": "constituency",
+    "source": "rawData/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 10/5ทับ18.pdf",
+    "ocr_text": "ocr_texts/อำเภอเขื่องใน/ตำบลกลางใหญ่/หน่วยเลือกตั้งที่ 10/5ทับ18_ocr.txt",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 353,
+    "turnout": 130,
+    "ballots_allocated": 340,
+    "ballots_used": 130,
+    "valid_ballots": 129,
+    "spoiled_ballots": 1,
+    "abstain_ballots": 2,
+    "ballots_remaining": 210
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายวุฒิพงษ์ นามบุตร",
+      "party_raw": "กล้าธรรม",
+      "party": "กล้าธรรม",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 73,
+      "votes_th": "เจ็ดสิบสาม",
+      "votes_th_value": 73,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 3,
+      "name": "นายประสพ สารสมัคร",
+      "party_raw": "เพื่อไทย",
+      "party": "เพื่อไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 7,
+      "votes_th": "เจ็ด",
+      "votes_th_value": 7,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 4,
+      "name": "นายปรีชญา ฉ่ำมณี",
+      "party_raw": "ประชาชน",
+      "party": "ประชาชน",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 11,
+      "votes_th": "สิบเอ็ด",
+      "votes_th_value": 11,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 5,
+      "name": "นายณรงค์ชัย วีระกุล",
+      "party_raw": "ไทรวมพลัง",
+      "party": "ไทรวมพลัง",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 32,
+      "votes_th": "สามสิบสอง",
+      "votes_th_value": 32,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 8,
+      "name": "นางสาวณฐพร บุญประสิทธิ์",
+      "party_raw": "ประชาธิปัตย์",
+      "party": "ประชาธิปัตย์",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 4,
+      "votes_th": "สี่",
+      "votes_th_value": 4,
+      "vote_confidence": "high",
+      "vote_flags": []
+    }
+  ],
+  "_validation": {
+    "status": "WARNING",
+    "error_type": "small_vote_mismatch_warning",
+    "total_votes_in_table": 127,
+    "effective_vote_sum": 127,
+    "valid_ballots": 129,
+    "vote_diff": 2,
+    "error_ratio": 0.015504,
+    "ballot_balance_diff": 2,
+    "excluded_vote_rows": [],
+    "low_confidence_vote_count": 0,
+    "very_low_confidence_vote_count": 0,
+    "party_issue_count": 0,
+    "unmatched_party_count": 0,
+    "low_confidence_party_count": 0,
+    "auto_matched_party_count": 5,
+    "exact_party_count": 0,
+    "errors": [],
+    "warnings": [
+      "small vote mismatch: effective_sum=127, valid_ballots=129",
+      "small ballot used mismatch: valid+spoiled+abstain=132, ballots_used=130"
+    ],
+    "suggestions": [],
+    "suspicious_rows": [
+      {
+        "number": 1,
+        "party": "กล้าธรรม",
+        "party_raw": "กล้าธรรม",
+        "votes": 73,
+        "reason": "single row is unusually large relative to valid_ballots"
+      }
+    ],
+    "retry_recommended": false,
+    "retry_count": 0,
+    "used_fast_parser": true,
+    "used_llm": false
+  }
+}

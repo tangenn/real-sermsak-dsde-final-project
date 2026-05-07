@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "ตำบลหัวเรือ",
+    "tambon": "ตำบลหัวเรือ",
+    "unit": 6,
+    "form_type": "constituency",
+    "source": "rawData/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่6/5ทับ18.pdf",
+    "ocr_text": "ocr_texts/เขต 2 อ.เมืองฯ/ตำบลหัวเรือ/ตำบลหัวเรือ/หน่วยเลือกตั้งที่6/5ทับ18_ocr.txt",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 523,
+    "turnout": null,
+    "ballots_allocated": 520,
+    "ballots_used": 436,
+    "valid_ballots": 420,
+    "spoiled_ballots": 5,
+    "abstain_ballots": 84,
+    "ballots_remaining": 79
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายวุฒิพงษ์ นามบุตร",
+      "party_raw": "กล้าธรรม ภูมิใจไทย",
+      "party": "ภูมิใจไทย",
+      "party_match_score": 0.667,
+      "party_match_status": "review_match",
+      "votes": 74,
+      "votes_th": "เจ็ดสิบสี่",
+      "votes_th_value": 74,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 2,
+      "name": "นายประเสริฐ เผ่าพันธ์",
+      "party_raw": "เพื่อไทย",
+      "party": "เพื่อไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 15,
+      "votes_th": "สิบห้า",
+      "votes_th_value": 15,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 3,
+      "name": "นายประสพ สารสมัคร",
+      "party_raw": "ประชาชน",
+      "party": "ประชาชน",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 45,
+      "votes_th": "สี่สิบห้า",
+      "votes_th_value": 45,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 4,
+      "name": "นายปรีชญา อำมณี",
+      "party_raw": "ไทรวมพลัง",
+      "party": "ไทรวมพลัง",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 282,
+      "votes_th": "สองร้อยแปดสิบเก้า",
+      "votes_th_value": 289,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    },
+    {
+      "number": 5,
+      "name": "นายณรงค์ชัย วีระกุล",
+      "party_raw": "ประชาธิปโดยใหม่ พลังประชารัฐ",
+      "party": "ประชาธิปโดยใหม่ พลังประชารัฐ",
+      "party_match_score": 0.605,
+      "party_match_status": "unmatched",
+      "votes": 0,
+      "votes_th": "ศูนย์",
+      "votes_th_value": 0,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 6,
+      "name": "นายวิทยา ครองยุติ",
+      "party_raw": "ประชาธิปโดยใหม่",
+      "party": "ประชาธิปไตยใหม่",
+      "party_match_score": 0.867,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "ศูนย์",
+      "votes_th_value": 0,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 7,
+      "name": "เรืออากาศตรีประจวบ ทรัพย์สะอาด",
+      "party_raw": "ประชาธิปัตย์ เศรษฐกิจ",
+      "party": "ประชาธิปัตย์",
+      "party_match_score": 0.727,
+      "party_match_status": "review_match",
+      "votes": 2,
+      "votes_th": "สอง",
+      "votes_th_value": 2,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 8,
+      "name": "นางสาวณฐพร บุญประสิทธิ์",
+      "party_raw": "ไทยก้าวใหม่",
+      "party": "ไทยก้าวใหม่",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 0,
+      "votes_th": "ศูนย์",
+      "votes_th_value": 0,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 9,
+      "name": "นายเจริญชัย คำแฝง",
+      "party_raw": "",
+      "party": "",
+      "party_match_score": 0.0,
+      "party_match_status": "missing",
+      "votes": 420,
+      "votes_th": "สี่ร้อยยี่สิบ",
+      "votes_th_value": 420,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 10,
+      "name": "นายธัชชัย คมจำ",
+      "party_raw": "",
+      "party": "",
+      "party_match_score": 0.0,
+      "party_match_status": "missing",
+      "votes": 0,
+      "votes_th": "",
+      "votes_th_value": null,
+      "vote_confidence": "medium",
+      "vote_flags": []
+    }
+  ],
+  "_validation": {
+    "status": "REVIEW",
+    "error_type": "large_vote_mismatch",
+    "total_votes_in_table": 838,
+    "effective_vote_sum": 838,
+    "valid_ballots": 420,
+    "vote_diff": 418,
+    "error_ratio": 0.995238,
+    "ballot_balance_diff": 73,
+    "excluded_vote_rows": [],
+    "low_confidence_vote_count": 1,
+    "very_low_confidence_vote_count": 0,
+    "party_issue_count": 5,
+    "unmatched_party_count": 3,
+    "low_confidence_party_count": 2,
+    "auto_matched_party_count": 5,
+    "exact_party_count": 0,
+    "errors": [
+      "multiple unrecognized party names: 3",
+      "vote sum mismatch: effective_sum=838, valid_ballots=420",
+      "ballot used mismatch: valid+spoiled+abstain=509, ballots_used=436"
+    ],
+    "warnings": [
+      "low-confidence party match for number 1: raw=กล้าธรรม ภูมิใจไทย → ภูมิใจไทย (score=0.667)",
+      "numeric/Thai vote mismatch for number 4: numeric=282, thai=289, text=สองร้อยแปดสิบเก้า",
+      "party not recognized for number 5: raw=ประชาธิปโดยใหม่ พลังประชารัฐ",
+      "party auto-corrected for number 6: raw=ประชาธิปโดยใหม่ → ประชาธิปไตยใหม่ (score=0.867)",
+      "low-confidence party match for number 7: raw=ประชาธิปัตย์ เศรษฐกิจ → ประชาธิปัตย์ (score=0.727)",
+      "missing party for number 9",
+      "missing party for number 10",
+      "allocated mismatch: used+remaining=515, allocated=520"
+    ],
+    "suggestions": [
+      {
+        "type": "thai_text_vote_correction",
+        "number": 4,
+        "party": "ไทรวมพลัง",
+        "party_raw": "ไทรวมพลัง",
+        "current_votes": 282,
+        "suggested_votes": 289,
+        "confidence": "high",
+        "reason": "Numeric vote 282 conflicts with Thai text value 289."
+      }
+    ],
+    "suspicious_rows": [
+      {
+        "number": 4,
+        "party": "ไทรวมพลัง",
+        "party_raw": "ไทรวมพลัง",
+        "votes": 282,
+        "votes_th": "สองร้อยแปดสิบเก้า",
+        "votes_th_value": 289,
+        "confidence": "low",
+        "flags": [
+          "numeric_thai_text_mismatch"
+        ],
+        "reason": "low-confidence vote field"
+      },
+      {
+        "number": 4,
+        "party": "ไทรวมพลัง",
+        "party_raw": "ไทรวมพลัง",
+        "votes": 282,
+        "reason": "single row is unusually large relative to valid_ballots"
+      },
+      {
+        "number": 9,
+        "party": "",
+        "party_raw": "",
+        "votes": 420,
+        "reason": "single row is unusually large relative to valid_ballots"
+      }
+    ],
+    "retry_recommended": false,
+    "retry_count": 0,
+    "used_fast_parser": true,
+    "used_llm": true
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลสร้างถ่อ",
+    "unit": 15,
+    "form_type": "constituency",
+    "source": "rawData/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 15/5ทับ18.pdf",
+    "ocr_text": "ocr_texts/อำเภอเขื่องใน/ตำบลสร้างถ่อ/หน่วยเลือกตั้งที่ 15/5ทับ18_ocr.txt",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 455,
+    "turnout": 301,
+    "ballots_allocated": 240,
+    "ballots_used": 301,
+    "valid_ballots": 291,
+    "spoiled_ballots": 7,
+    "abstain_ballots": 3,
+    "ballots_remaining": 139
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายวุฒิพงษ์ นามบุตร",
+      "party_raw": "กล้าธรรม",
+      "party": "กล้าธรรม",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 182,
+      "votes_th": "- หนึ่งร้อยแปดสิบสอง -",
+      "votes_th_value": 182,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 2,
+      "name": "นายประเสริฐ เผ่าพันธ์",
+      "party_raw": "ภูมิใจไทย",
+      "party": "ภูมิใจไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 1,
+      "votes_th": "- หนึ่ง -",
+      "votes_th_value": 1,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 3,
+      "name": "นายประสพ สารสมัคร",
+      "party_raw": "เพื่อไทย",
+      "party": "เพื่อไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 2,
+      "votes_th": "- สอง -",
+      "votes_th_value": 2,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 4,
+      "name": "นายปรีชญา ฉ่ำมณี",
+      "party_raw": "ประชาชน",
+      "party": "ประชาชน",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 12,
+      "votes_th": "- สิบสอง -",
+      "votes_th_value": 12,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 5,
+      "name": "นายณรงค์ชัย วีระกุล",
+      "party_raw": "ไทรวมพลัง",
+      "party": "ไทรวมพลัง",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 88,
+      "votes_th": "- แปดสิบแปด -",
+      "votes_th_value": 88,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 6,
+      "name": "นายวิทยา ครองยุติ",
+      "party_raw": "ประชาธิปไตยใหม่",
+      "party": "ประชาธิปไตยใหม่",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 1,
+      "votes_th": "- หนึ่ง -",
+      "votes_th_value": 1,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 9,
+      "name": "นายเจริญชัย คำแฝง",
+      "party_raw": "เศรษฐกิจ",
+      "party": "เศรษฐกิจ",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 6,
+      "votes_th": "- ห้า -",
+      "votes_th_value": 5,
+      "vote_confidence": "low",
+      "vote_flags": [
+        "numeric_thai_text_mismatch"
+      ]
+    }
+  ],
+  "_validation": {
+    "status": "REVIEW",
+    "error_type": "small_vote_mismatch_warning",
+    "total_votes_in_table": 292,
+    "effective_vote_sum": 292,
+    "valid_ballots": 291,
+    "vote_diff": 1,
+    "error_ratio": 0.003436,
+    "ballot_balance_diff": 0,
+    "excluded_vote_rows": [],
+    "low_confidence_vote_count": 1,
+    "very_low_confidence_vote_count": 0,
+    "party_issue_count": 0,
+    "unmatched_party_count": 0,
+    "low_confidence_party_count": 0,
+    "auto_matched_party_count": 7,
+    "exact_party_count": 0,
+    "errors": [
+      "ballots_used greater than ballots_allocated: 301>240"
+    ],
+    "warnings": [
+      "numeric/Thai vote mismatch for number 9: numeric=6, thai=5, text=- ห้า -",
+      "small vote mismatch: effective_sum=292, valid_ballots=291",
+      "allocated mismatch: used+remaining=440, allocated=240"
+    ],
+    "suggestions": [
+      {
+        "type": "thai_text_vote_correction",
+        "number": 9,
+        "party": "เศรษฐกิจ",
+        "party_raw": "เศรษฐกิจ",
+        "current_votes": 6,
+        "suggested_votes": 5,
+        "confidence": "high",
+        "reason": "Numeric vote 6 conflicts with Thai text value 5."
+      },
+      {
+        "type": "targeted_sum_adjustment",
+        "number": 9,
+        "party": "เศรษฐกิจ",
+        "party_raw": "เศรษฐกิจ",
+        "current_votes": 6,
+        "suggested_votes": 5,
+        "vote_diff": -1,
+        "confidence": "low",
+        "reason": "Only a few low-confidence rows exist; changing this row would fix the effective total."
+      }
+    ],
+    "suspicious_rows": [
+      {
+        "number": 1,
+        "party": "กล้าธรรม",
+        "party_raw": "กล้าธรรม",
+        "votes": 182,
+        "reason": "single row is unusually large relative to valid_ballots"
+      },
+      {
+        "number": 9,
+        "party": "เศรษฐกิจ",
+        "party_raw": "เศรษฐกิจ",
+        "votes": 6,
+        "votes_th": "- ห้า -",
+        "votes_th_value": 5,
+        "confidence": "low",
+        "flags": [
+          "numeric_thai_text_mismatch"
+        ],
+        "reason": "low-confidence vote field"
+      }
+    ],
+    "retry_recommended": false,
+    "retry_count": 0,
+    "used_fast_parser": true,
+    "used_llm": false
+  }
+}

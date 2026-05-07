@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "อำเภอเขื่องใน",
+    "tambon": "ตำบลบ้านไทย",
+    "unit": 6,
+    "form_type": "constituency",
+    "source": "rawData/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 6/5ทับ18.pdf",
+    "ocr_text": "ocr_texts/อำเภอเขื่องใน/ตำบลบ้านไทย/หน่วยเลือกตั้งที่ 6/5ทับ18_ocr.txt",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "constituency",
+  "summary": {
+    "eligible_voters": 360,
+    "turnout": 277,
+    "ballots_allocated": 360,
+    "ballots_used": null,
+    "valid_ballots": 208,
+    "spoiled_ballots": 6,
+    "abstain_ballots": 3,
+    "ballots_remaining": 143
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายวุฒิพงษ์ นามบุตร",
+      "party_raw": "กล้าธรรม",
+      "party": "กล้าธรรม",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 126,
+      "votes_th": "หนึ่งร้อยยี่สิบหก",
+      "votes_th_value": 126,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 3,
+      "name": "นายประสพ สารสมัคร",
+      "party_raw": "เพื่อไทย",
+      "party": "เพื่อไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 5,
+      "votes_th": "ห้า",
+      "votes_th_value": 5,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 4,
+      "name": "นายปรีชญา ฉ่ำมณี",
+      "party_raw": "ประชาชน",
+      "party": "ประชาชน",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 15,
+      "votes_th": "สิบห้า",
+      "votes_th_value": 15,
+      "vote_confidence": "high",
+      "vote_flags": []
+    },
+    {
+      "number": 5,
+      "name": "นายณรงค์ชัย วีระกุล",
+      "party_raw": "ไทรวมพลัง",
+      "party": "ไทรวมพลัง",
+      "party_match_score": 1.0,
+      "party_match_status": "auto_matched",
+      "votes": 62,
+      "votes_th": "หกสิบสอง",
+      "votes_th_value": 62,
+      "vote_confidence": "high",
+      "vote_flags": []
+    }
+  ],
+  "_validation": {
+    "status": "PASS",
+    "error_type": "clean",
+    "total_votes_in_table": 208,
+    "effective_vote_sum": 208,
+    "valid_ballots": 208,
+    "vote_diff": 0,
+    "error_ratio": 0.0,
+    "ballot_balance_diff": null,
+    "excluded_vote_rows": [],
+    "low_confidence_vote_count": 0,
+    "very_low_confidence_vote_count": 0,
+    "party_issue_count": 0,
+    "unmatched_party_count": 0,
+    "low_confidence_party_count": 0,
+    "auto_matched_party_count": 4,
+    "exact_party_count": 0,
+    "errors": [],
+    "warnings": [],
+    "suggestions": [],
+    "suspicious_rows": [
+      {
+        "number": 1,
+        "party": "กล้าธรรม",
+        "party_raw": "กล้าธรรม",
+        "votes": 126,
+        "reason": "single row is unusually large relative to valid_ballots"
+      }
+    ],
+    "retry_recommended": false,
+    "retry_count": 0,
+    "used_fast_parser": true,
+    "used_llm": false
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "ตำบลปะอาว",
+    "tambon": "ตำบลปะอาว",
+    "unit": 1,
+    "form_type": "party_list",
+    "source": "rawData/เขต 2 อ.เมืองฯ/ตำบลปะอาว/ตำบลปะอาว/หน่วยเลือกตั้งที่ 1/5 ทับ 18 (บช).pdf",
+    "ocr_text": "ocr_texts/เขต 2 อ.เมืองฯ/ตำบลปะอาว/ตำบลปะอาว/หน่วยเลือกตั้งที่ 1/5 ทับ 18 (บช)_ocr.txt",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "party_list",
+  "summary": {
+    "eligible_voters": 370,
+    "turnout": 293,
+    "ballots_allocated": 360,
+    "ballots_used": 293,
+    "valid_ballots": 252,
+    "spoiled_ballots": 15,
+    "abstain_ballots": 26,
+    "ballots_remaining": 67
+  },
+  "results": [],
+  "_validation": {
+    "status": "REVIEW",
+    "error_type": "likely_llm_extraction_error",
+    "total_votes_in_table": 0,
+    "effective_vote_sum": 0,
+    "valid_ballots": 252,
+    "vote_diff": 252,
+    "error_ratio": 1.0,
+    "ballot_balance_diff": 0,
+    "excluded_vote_rows": [],
+    "low_confidence_vote_count": 0,
+    "very_low_confidence_vote_count": 0,
+    "party_issue_count": 0,
+    "unmatched_party_count": 0,
+    "low_confidence_party_count": 0,
+    "auto_matched_party_count": 0,
+    "exact_party_count": 0,
+    "errors": [
+      "empty results",
+      "vote sum mismatch: effective_sum=0, valid_ballots=252"
+    ],
+    "warnings": [],
+    "suggestions": [],
+    "suspicious_rows": [],
+    "retry_recommended": true,
+    "retry_count": 0,
+    "used_fast_parser": true,
+    "used_llm": true
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "เขตไร่น้อย",
+    "tambon": "เขตไร่น้อย",
+    "unit": 36,
+    "form_type": "party_list",
+    "source": "rawData/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 36/5ทับ18(บช).pdf",
+    "ocr_text": "ocr_texts/เขต 2 อ.เมืองฯ/เขตไร่น้อย/เขตไร่น้อย/หน่วยเลือกตั้งที่ 36/5ทับ18(บช)_ocr.txt",
+    "ocr_engine": "typhoon-ocr",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "party_list",
+  "summary": {
+    "eligible_voters": null,
+    "turnout": null,
+    "ballots_allocated": null,
+    "ballots_used": null,
+    "valid_ballots": null,
+    "spoiled_ballots": null,
+    "abstain_ballots": null,
+    "ballots_remaining": null
+  },
+  "results": [],
+  "_validation": {
+    "status": "REVIEW",
+    "error_type": "likely_llm_extraction_error",
+    "total_votes_in_table": 0,
+    "effective_vote_sum": 0,
+    "valid_ballots": null,
+    "vote_diff": null,
+    "error_ratio": null,
+    "ballot_balance_diff": null,
+    "excluded_vote_rows": [],
+    "low_confidence_vote_count": 0,
+    "very_low_confidence_vote_count": 0,
+    "party_issue_count": 0,
+    "unmatched_party_count": 0,
+    "low_confidence_party_count": 0,
+    "auto_matched_party_count": 0,
+    "exact_party_count": 0,
+    "errors": [
+      "empty results"
+    ],
+    "warnings": [],
+    "suggestions": [],
+    "suspicious_rows": [],
+    "retry_recommended": true,
+    "retry_count": 0,
+    "used_fast_parser": true,
+    "used_llm": true
+  }
+}
