@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "province": "อุบลราชธานี",
+    "constituency": 2,
+    "amphoe": "เขต 2 อ.เมืองฯ",
+    "tambon": "ตำบลหนองขอน",
+    "unit": 8,
+    "form_type": "party_list",
+    "source": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหนองขอน\\หน่วยเลือกตั้งที่ 8\\5ทับ18( บช).pdf",
+    "ocr_text": "ocr_texts_v2\\เขต 2 อ.เมืองฯ\\ตำบลหนองขอน\\หน่วยเลือกตั้งที่ 8\\5ทับ18( บช)_ocr.txt",
+    "ocr_engine": "typhoon-ocr+custom_prompt",
+    "llm_parser": "typhoon-v2.5-30b-a3b-instruct"
+  },
+  "form_type": "party_list",
+  "summary": {
+    "eligible_voters": null,
+    "turnout": null,
+    "ballots_allocated": null,
+    "ballots_used": null,
+    "valid_ballots": null,
+    "spoiled_ballots": null,
+    "abstain_ballots": null,
+    "ballots_remaining": null
+  },
+  "results": [
+    {
+      "number": 79,
+      "name": "",
+      "party_raw": "ภูมิใจไทย",
+      "party": "ภูมิใจไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "exact_match",
+      "votes": 36,
+      "votes_th": "",
+      "votes_th_value": null,
+      "vote_confidence": "medium",
+      "vote_flags": []
+    },
+    {
+      "number": 86,
+      "name": "",
+      "party_raw": "พลังธรรมใหม่",
+      "party": "พลังธรรมใหม่",
+      "party_match_score": 1.0,
+      "party_match_status": "exact_match",
+      "votes": 1,
+      "votes_th": "",
+      "votes_th_value": null,
+      "vote_confidence": "medium",
+      "vote_flags": []
+    },
+    {
+      "number": 94,
+      "name": "",
+      "party_raw": "ประชาชน",
+      "party": "ประชาชน",
+      "party_match_score": 1.0,
+      "party_match_status": "exact_match",
+      "votes": 98,
+      "votes_th": "",
+      "votes_th_value": null,
+      "vote_confidence": "medium",
+      "vote_flags": []
+    },
+    {
+      "number": 97,
+      "name": "",
+      "party_raw": "ไทยสร้างไทย",
+      "party": "ไทยสร้างไทย",
+      "party_match_score": 1.0,
+      "party_match_status": "exact_match",
+      "votes": 1,
+      "votes_th": "",
+      "votes_th_value": null,
+      "vote_confidence": "medium",
+      "vote_flags": []
+    }
+  ],
+  "_validation": {
+    "status": "WARNING",
+    "error_type": "small_vote_mismatch_warning",
+    "total_votes_in_table": 136,
+    "effective_vote_sum": 136,
+    "valid_ballots": 0,
+    "vote_diff": 136,
+    "error_ratio": 0.0,
+    "ballot_balance_diff": 0,
+    "excluded_vote_rows": [],
+    "low_confidence_vote_count": 4,
+    "very_low_confidence_vote_count": 0,
+    "party_issue_count": 0,
+    "unmatched_party_count": 0,
+    "low_confidence_party_count": 0,
+    "auto_matched_party_count": 0,
+    "exact_party_count": 4,
+    "errors": [],
+    "warnings": [
+      "small vote mismatch: effective_sum=136, valid_ballots=0"
+    ],
+    "suggestions": [],
+    "suspicious_rows": [],
+    "retry_recommended": false,
+    "retry_count": 0,
+    "used_fast_parser": false,
+    "used_llm": true
+  }
+}

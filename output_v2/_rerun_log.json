@@ -1,0 +1,1836 @@
+[
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลกลางใหญ่\\หน่วยเลือกตั้งที่ 10\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 24.4,
+    "new_error": 7.9,
+    "reason": "correction better: 24.4%→7.9% (improved 16.5%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลกลางใหญ่\\หน่วยเลือกตั้งที่ 10\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 96.9,
+    "new_error": 96.9,
+    "reason": "original better or equal: 96.9% vs 96.9%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลกลางใหญ่\\หน่วยเลือกตั้งที่ 2\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 102.0,
+    "new_error": 102.0,
+    "reason": "original better or equal: 102.0% vs 102.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลกลางใหญ่\\หน่วยเลือกตั้งที่ 3\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 64.5,
+    "new_error": 64.5,
+    "reason": "original better or equal: 64.5% vs 64.5%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลกลางใหญ่\\หน่วยเลือกตั้งที่ 4\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 43.4,
+    "new_error": 43.4,
+    "reason": "original better or equal: 43.4% vs 43.4%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลกลางใหญ่\\หน่วยเลือกตั้งที่ 5\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 73.0,
+    "new_error": 73.0,
+    "reason": "original better or equal: 73.0% vs 73.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลกลางใหญ่\\หน่วยเลือกตั้งที่ 7\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 249.3,
+    "new_error": 30.6,
+    "reason": "correction better: 249.3%→30.6% (improved 218.7%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลกลางใหญ่\\หน่วยเลือกตั้งที่ 7\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 3361.5,
+    "new_error": 3361.5,
+    "reason": "original better or equal: 3361.5% vs 3361.5%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลกลางใหญ่\\หน่วยเลือกตั้งที่ 8\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 127.3,
+    "new_error": 100.5,
+    "reason": "correction better: 127.3%→100.5% (improved 26.8%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลกลางใหญ่\\หน่วยเลือกตั้งที่ 9\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 520.3,
+    "new_error": 198.2,
+    "reason": "correction better: 520.3%→198.2% (improved 322.1%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลกลางใหญ่\\หน่วยเลือกตั้งที่ 9\\5ทับ18.pdf",
+    "status": "improved",
+    "original_error": 171.1,
+    "new_error": 150.5,
+    "reason": "correction better: 171.1%→150.5% (improved 20.6%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลก่อเอ้\\หน่วยเลือกตั้งที่ 10\\5 ทับ 18 (บช).pdf",
+    "status": "improved",
+    "original_error": 48.0,
+    "new_error": 39.0,
+    "reason": "correction better: 48.0%→39.0% (improved 9.0%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลก่อเอ้\\หน่วยเลือกตั้งที่ 10\\5 ทับ 18.pdf",
+    "status": "same",
+    "original_error": 100.0,
+    "new_error": 100.0,
+    "reason": "original better or equal: 100.0% vs 100.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลก่อเอ้\\หน่วยเลือกตั้งที่ 11\\5 ทับ 18 (บช).pdf",
+    "status": "same",
+    "original_error": 134.6,
+    "new_error": 134.6,
+    "reason": "original better or equal: 134.6% vs 134.6%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลก่อเอ้\\หน่วยเลือกตั้งที่ 11\\5 ทับ 18.pdf",
+    "status": "same",
+    "original_error": 100.0,
+    "new_error": 100.0,
+    "reason": "original better or equal: 100.0% vs 100.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลก่อเอ้\\หน่วยเลือกตั้งที่ 12\\5 ทับ 18 (บช).pdf",
+    "status": "improved",
+    "original_error": 11973.9,
+    "new_error": 79.6,
+    "reason": "correction better: 11973.9%→79.6% (improved 11894.3%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลก่อเอ้\\หน่วยเลือกตั้งที่ 2\\5 ทับ 18 (บช).pdf",
+    "status": "same",
+    "original_error": 55.0,
+    "new_error": 55.0,
+    "reason": "original better or equal: 55.0% vs 55.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลก่อเอ้\\หน่วยเลือกตั้งที่ 3\\5 ทับ 18 (บช).pdf",
+    "status": "improved",
+    "original_error": 16350.0,
+    "new_error": 5600.0,
+    "reason": "correction better: 16350.0%→5600.0% (improved 10750.0%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลก่อเอ้\\หน่วยเลือกตั้งที่ 4\\5 ทับ 18 (บช).pdf",
+    "status": "improved",
+    "original_error": 615.0,
+    "new_error": 240.0,
+    "reason": "correction better: 615.0%→240.0% (improved 375.0%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลก่อเอ้\\หน่วยเลือกตั้งที่ 5\\5 ทับ 18 (บช).pdf",
+    "status": "same",
+    "original_error": 61.8,
+    "new_error": 61.8,
+    "reason": "original better or equal: 61.8% vs 61.8%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลก่อเอ้\\หน่วยเลือกตั้งที่ 5\\5 ทับ 18.pdf",
+    "status": "same",
+    "original_error": 100.0,
+    "new_error": 100.0,
+    "reason": "original better or equal: 100.0% vs 100.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลก่อเอ้\\หน่วยเลือกตั้งที่ 6\\5 ทับ 18 (บช).pdf",
+    "status": "improved",
+    "original_error": 253.5,
+    "new_error": 134.6,
+    "reason": "correction better: 253.5%→134.6% (improved 118.9%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลก่อเอ้\\หน่วยเลือกตั้งที่ 6\\5 ทับ 18.pdf",
+    "status": "same",
+    "original_error": 100.0,
+    "new_error": 100.0,
+    "reason": "original better or equal: 100.0% vs 100.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลก่อเอ้\\หน่วยเลือกตั้งที่ 7\\5 ทับ 18 (บช).pdf",
+    "status": "same",
+    "original_error": 87.6,
+    "new_error": 87.6,
+    "reason": "original better or equal: 87.6% vs 87.6%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลก่อเอ้\\หน่วยเลือกตั้งที่ 7\\5 ทับ18.pdf",
+    "status": "same",
+    "original_error": 74.7,
+    "new_error": 74.7,
+    "reason": "original better or equal: 74.7% vs 74.7%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลก่อเอ้\\หน่วยเลือกตั้งที่ 8\\5 ทับ 18 (บช).pdf",
+    "status": "improved",
+    "original_error": 47.6,
+    "new_error": 44.3,
+    "reason": "correction better: 47.6%→44.3% (improved 3.4%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลก่อเอ้\\หน่วยเลือกตั้งที่ 8\\5 ทับ 18.pdf",
+    "status": "same",
+    "original_error": 100.0,
+    "new_error": 100.0,
+    "reason": "original better or equal: 100.0% vs 100.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลก่อเอ้\\หน่วยเลือกตั้งที่ 9\\5 ทับ 18 (บช).pdf",
+    "status": "same",
+    "original_error": 22.2,
+    "new_error": 22.2,
+    "reason": "original better or equal: 22.2% vs 30.3%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลก่อเอ้\\หน่วยเลือกตั้งที่ 9\\5 ทับ 18.pdf",
+    "status": "same",
+    "original_error": 96.7,
+    "new_error": 96.7,
+    "reason": "original better or equal: 96.7% vs 96.7%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลค้อทอง\\หน่วยเลือกตั้งที่ 1\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 173.0,
+    "new_error": 173.0,
+    "reason": "original better or equal: 173.0% vs 173.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลค้อทอง\\หน่วยเลือกตั้งที่ 10\\5 ทับ 18 (บช).pdf",
+    "status": "improved",
+    "original_error": 1062.2,
+    "new_error": 99.7,
+    "reason": "correction better: 1062.2%→99.7% (improved 962.4%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลค้อทอง\\หน่วยเลือกตั้งที่ 11\\5 ทับ 18 (บช).pdf",
+    "status": "same",
+    "original_error": 57.6,
+    "new_error": 57.6,
+    "reason": "original better or equal: 57.6% vs 57.6%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลค้อทอง\\หน่วยเลือกตั้งที่ 11\\5 ทับ 18.pdf",
+    "status": "same",
+    "original_error": 295.2,
+    "new_error": 295.2,
+    "reason": "original better or equal: 295.2% vs 295.2%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลค้อทอง\\หน่วยเลือกตั้งที่ 2\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 113.9,
+    "new_error": 113.3,
+    "reason": "correction better: 113.9%→113.3% (improved 0.6%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลค้อทอง\\หน่วยเลือกตั้งที่ 3\\5 ทับ 18 (บช).pdf",
+    "status": "same",
+    "original_error": 105.8,
+    "new_error": 105.8,
+    "reason": "original better or equal: 105.8% vs 105.8%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลค้อทอง\\หน่วยเลือกตั้งที่ 4\\5 ทับ 18 (บช).pdf",
+    "status": "improved",
+    "original_error": 256.2,
+    "new_error": 152.3,
+    "reason": "correction better: 256.2%→152.3% (improved 103.9%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลค้อทอง\\หน่วยเลือกตั้งที่ 4\\5 ทับ 18.pdf",
+    "status": "same",
+    "original_error": 20.8,
+    "new_error": 20.8,
+    "reason": "original better or equal: 20.8% vs 20.8%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลค้อทอง\\หน่วยเลือกตั้งที่ 5\\5 ทับ 18 (บช).pdf",
+    "status": "same",
+    "original_error": 99.5,
+    "new_error": 99.5,
+    "reason": "original better or equal: 99.5% vs 102.5%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลค้อทอง\\หน่วยเลือกตั้งที่ 7\\5 ทับ 18 (บช).pdf",
+    "status": "same",
+    "original_error": 37.1,
+    "new_error": 37.1,
+    "reason": "original better or equal: 37.1% vs 37.1%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลค้อทอง\\หน่วยเลือกตั้งที่ 9\\5 ทับ 18 (บช).pdf",
+    "status": "improved",
+    "original_error": 22.0,
+    "new_error": 18.5,
+    "reason": "correction better: 22.0%→18.5% (improved 3.5%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลค้อทอง\\หน่วยเลือกตั้งที่ 9\\5 ทับ 18.pdf",
+    "status": "improved",
+    "original_error": 15450.0,
+    "new_error": 11100.0,
+    "reason": "correction better: 15450.0%→11100.0% (improved 4350.0%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลชีทวน\\หน่วยเลือกตั้งที่ 1\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 46.4,
+    "new_error": 41.2,
+    "reason": "correction better: 46.4%→41.2% (improved 5.2%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลชีทวน\\หน่วยเลือกตั้งที่ 10\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 27.9,
+    "new_error": 27.9,
+    "reason": "original better or equal: 27.9% vs 27.9%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลชีทวน\\หน่วยเลือกตั้งที่ 11\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 101.5,
+    "new_error": 101.5,
+    "reason": "original better or equal: 101.5% vs 104.1%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลชีทวน\\หน่วยเลือกตั้งที่ 2\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 50.4,
+    "new_error": 50.4,
+    "reason": "original better or equal: 50.4% vs 50.4%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลชีทวน\\หน่วยเลือกตั้งที่ 3\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 105.5,
+    "new_error": 105.5,
+    "reason": "original better or equal: 105.5% vs 105.5%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลชีทวน\\หน่วยเลือกตั้งที่ 4\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 593.3,
+    "new_error": 593.3,
+    "reason": "original better or equal: 593.3% vs 710.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลชีทวน\\หน่วยเลือกตั้งที่ 5\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 101.0,
+    "new_error": 101.0,
+    "reason": "original better or equal: 101.0% vs 101.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลชีทวน\\หน่วยเลือกตั้งที่ 5\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 100.0,
+    "new_error": 100.0,
+    "reason": "original better or equal: 100.0% vs 100.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลชีทวน\\หน่วยเลือกตั้งที่ 6\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 34.4,
+    "new_error": 34.4,
+    "reason": "original better or equal: 34.4% vs 34.4%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลชีทวน\\หน่วยเลือกตั้งที่ 6\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 21.0,
+    "new_error": 21.0,
+    "reason": "original better or equal: 21.0% vs 21.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลชีทวน\\หน่วยเลือกตั้งที่ 7\\5ทับ18.pdf",
+    "status": "improved",
+    "original_error": 173.1,
+    "new_error": 0.0,
+    "reason": "correction better: 173.1%→0.0% (improved 173.1%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลชีทวน\\หน่วยเลือกตั้งที่ 8\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 83.3,
+    "new_error": 83.3,
+    "reason": "original better or equal: 83.3% vs 83.3%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลชีทวน\\หน่วยเลือกตั้งที่ 9\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 266.2,
+    "new_error": 19.5,
+    "reason": "correction better: 266.2%→19.5% (improved 246.8%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลท่าไห\\หน่วยเลือกตั้งที่ 1\\50ทับ18.pdf",
+    "status": "same",
+    "original_error": 22.7,
+    "new_error": 22.7,
+    "reason": "original better or equal: 22.7% vs 147.7%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลท่าไห\\หน่วยเลือกตั้งที่ 1\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 54.3,
+    "new_error": 10.9,
+    "reason": "correction better: 54.3%→10.9% (improved 43.4%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลท่าไห\\หน่วยเลือกตั้งที่ 10\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 41.0,
+    "new_error": 18.7,
+    "reason": "correction better: 41.0%→18.7% (improved 22.4%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลท่าไห\\หน่วยเลือกตั้งที่ 12\\5 ทับ 18 (บช).pdf",
+    "status": "same",
+    "original_error": 76.9,
+    "new_error": 76.4,
+    "reason": "correction better: 76.9%→76.4% (improved 0.4%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลท่าไห\\หน่วยเลือกตั้งที่ 13\\5 ทับ 18 (บช).pdf",
+    "status": "improved",
+    "original_error": 9554.0,
+    "new_error": 9512.1,
+    "reason": "correction better: 9554.0%→9512.1% (improved 41.9%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลท่าไห\\หน่วยเลือกตั้งที่ 13\\5 ทับ 18.pdf",
+    "status": "improved",
+    "original_error": 126.3,
+    "new_error": 100.0,
+    "reason": "correction better: 126.3%→100.0% (improved 26.3%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลท่าไห\\หน่วยเลือกตั้งที่ 2\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 10921.8,
+    "new_error": 60.5,
+    "reason": "correction better: 10921.8%→60.5% (improved 10861.3%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลท่าไห\\หน่วยเลือกตั้งที่ 2\\5ทับ18.pdf",
+    "status": "improved",
+    "original_error": 108.1,
+    "new_error": 100.0,
+    "reason": "correction better: 108.1%→100.0% (improved 8.1%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลท่าไห\\หน่วยเลือกตั้งที่ 4\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 45.5,
+    "new_error": 45.5,
+    "reason": "original better or equal: 45.5% vs 49.1%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลท่าไห\\หน่วยเลือกตั้งที่ 4\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 100.0,
+    "new_error": 100.0,
+    "reason": "original better or equal: 100.0% vs 100.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลท่าไห\\หน่วยเลือกตั้งที่ 6\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 33.7,
+    "new_error": 33.7,
+    "reason": "original better or equal: 33.7% vs 7597.8%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลท่าไห\\หน่วยเลือกตั้งที่ 6\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 119.9,
+    "new_error": 119.9,
+    "reason": "original better or equal: 119.9% vs 119.9%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลท่าไห\\หน่วยเลือกตั้งที่ 7\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 1314.1,
+    "new_error": 1314.1,
+    "reason": "original better or equal: 1314.1% vs 1966.7%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลท่าไห\\หน่วยเลือกตั้งที่ 8\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 142.4,
+    "new_error": 142.4,
+    "reason": "original better or equal: 142.4% vs 142.4%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลธาตุน้อย\\หน่วยเลือกตั้งที่ 1\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 100.0,
+    "new_error": 100.0,
+    "reason": "original better or equal: 100.0% vs 100.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลธาตุน้อย\\หน่วยเลือกตั้งที่ 2\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 64.0,
+    "new_error": 64.0,
+    "reason": "original better or equal: 64.0% vs 64.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลธาตุน้อย\\หน่วยเลือกตั้งที่ 2\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 222.6,
+    "new_error": 222.6,
+    "reason": "original better or equal: 222.6% vs 244.8%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลธาตุน้อย\\หน่วยเลือกตั้งที่ 3\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 47.5,
+    "new_error": 47.5,
+    "reason": "original better or equal: 47.5% vs 47.5%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลธาตุน้อย\\หน่วยเลือกตั้งที่ 4\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 10318.0,
+    "new_error": 10318.0,
+    "reason": "original better or equal: 10318.0% vs 10318.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลธาตุน้อย\\หน่วยเลือกตั้งที่ 5\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 198.4,
+    "new_error": 93.0,
+    "reason": "correction better: 198.4%→93.0% (improved 105.5%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลธาตุน้อย\\หน่วยเลือกตั้งที่ 5\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 100.0,
+    "new_error": 100.0,
+    "reason": "original better or equal: 100.0% vs 100.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลธาตุน้อย\\หน่วยเลือกตั้งที่ 6\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 76.0,
+    "new_error": 76.0,
+    "reason": "original better or equal: 76.0% vs 76.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลธาตุน้อย\\หน่วยเลือกตั้งที่ 7\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 197.9,
+    "new_error": 172.7,
+    "reason": "correction better: 197.9%→172.7% (improved 25.3%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลธาตุน้อย\\หน่วยเลือกตั้งที่ 8\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 101.9,
+    "new_error": 101.6,
+    "reason": "correction better: 101.9%→101.6% (improved 0.3%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลธาตุน้อย\\หน่วยเลือกตั้งที่ 9\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 32.2,
+    "new_error": 28.6,
+    "reason": "correction better: 32.2%→28.6% (improved 3.5%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลนาคำใหญ่\\หน่วยเลือกตั้งที่ 1\\5 ทับ 18 (บช).pdf",
+    "status": "same",
+    "original_error": 100.8,
+    "new_error": 100.8,
+    "reason": "original better or equal: 100.8% vs 210.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลนาคำใหญ่\\หน่วยเลือกตั้งที่ 2\\5 ทับ 18 (บช).pdf",
+    "status": "same",
+    "original_error": 1702.1,
+    "new_error": 1702.1,
+    "reason": "original better or equal: 1702.1% vs 1702.1%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลนาคำใหญ่\\หน่วยเลือกตั้งที่ 2\\5 ทับ 18.pdf",
+    "status": "same",
+    "original_error": 100.0,
+    "new_error": 100.0,
+    "reason": "original better or equal: 100.0% vs 100.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลนาคำใหญ่\\หน่วยเลือกตั้งที่ 4\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 104.8,
+    "new_error": 104.8,
+    "reason": "original better or equal: 104.8% vs 104.8%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลนาคำใหญ่\\หน่วยเลือกตั้งที่ 6\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 41.5,
+    "new_error": 32.4,
+    "reason": "correction better: 41.5%→32.4% (improved 9.1%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลนาคำใหญ่\\หน่วยเลือกตั้งที่ 7\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 4256.9,
+    "new_error": 4256.9,
+    "reason": "original better or equal: 4256.9% vs 4256.9%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลนาคำใหญ่\\หน่วยเลือกตั้งที่ 7\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 100.0,
+    "new_error": 100.0,
+    "reason": "original better or equal: 100.0% vs 100.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลนาคำใหญ่\\หน่วยเลือกตั้งที่ 8\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 29.2,
+    "new_error": 28.8,
+    "reason": "correction better: 29.2%→28.8% (improved 0.4%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลบ้านกอก\\หน่วยเลือกตั้งที่ 1\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 46.5,
+    "new_error": 46.5,
+    "reason": "original better or equal: 46.5% vs 46.5%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลบ้านกอก\\หน่วยเลือกตั้งที่ 2\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 507.3,
+    "new_error": 101.6,
+    "reason": "correction better: 507.3%→101.6% (improved 405.7%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลบ้านกอก\\หน่วยเลือกตั้งที่ 4\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 31.4,
+    "new_error": 14.6,
+    "reason": "correction better: 31.4%→14.6% (improved 16.9%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลบ้านไทย\\หน่วยเลือกตั้งที่ 1\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 66.4,
+    "new_error": 66.4,
+    "reason": "original better or equal: 66.4% vs 66.4%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลบ้านไทย\\หน่วยเลือกตั้งที่ 10\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 4523.3,
+    "new_error": 4523.3,
+    "reason": "original better or equal: 4523.3% vs 4523.3%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลบ้านไทย\\หน่วยเลือกตั้งที่ 10\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 29.9,
+    "new_error": 29.9,
+    "reason": "original better or equal: 29.9% vs 29.9%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลบ้านไทย\\หน่วยเลือกตั้งที่ 11\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 100.0,
+    "new_error": 100.0,
+    "reason": "original better or equal: 100.0% vs 297.4%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลบ้านไทย\\หน่วยเลือกตั้งที่ 2\\5 ทับ18.pdf",
+    "status": "improved",
+    "original_error": 192.5,
+    "new_error": 100.0,
+    "reason": "correction better: 192.5%→100.0% (improved 92.5%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลบ้านไทย\\หน่วยเลือกตั้งที่ 3\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 22.5,
+    "new_error": 22.5,
+    "reason": "original better or equal: 22.5% vs 24.2%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลบ้านไทย\\หน่วยเลือกตั้งที่ 4\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 133087.5,
+    "new_error": 77.9,
+    "reason": "correction better: 133087.5%→77.9% (improved 133009.6%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลบ้านไทย\\หน่วยเลือกตั้งที่ 5\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 2064.2,
+    "new_error": 103.3,
+    "reason": "correction better: 2064.2%→103.3% (improved 1960.9%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลบ้านไทย\\หน่วยเลือกตั้งที่ 6\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 68.3,
+    "new_error": 68.3,
+    "reason": "original better or equal: 68.3% vs 1106.2%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลบ้านไทย\\หน่วยเลือกตั้งที่ 6\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 99.5,
+    "new_error": 99.5,
+    "reason": "original better or equal: 99.5% vs 99.5%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลบ้านไทย\\หน่วยเลือกตั้งที่ 7\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 67.2,
+    "new_error": 66.8,
+    "reason": "correction better: 67.2%→66.8% (improved 0.4%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลบ้านไทย\\หน่วยเลือกตั้งที่ 8\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 23.2,
+    "new_error": 23.2,
+    "reason": "original better or equal: 23.2% vs 23.2%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลบ้านไทย\\หน่วยเลือกตั้งที่ 9\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 57.0,
+    "new_error": 57.0,
+    "reason": "original better or equal: 57.0% vs 57.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลยางขี้นก\\หน่วยเลือกตั้งที่ 1\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 1840.0,
+    "new_error": 1840.0,
+    "reason": "original better or equal: 1840.0% vs 1579208.4%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลยางขี้นก\\หน่วยเลือกตั้งที่ 10\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 112.3,
+    "new_error": 11.2,
+    "reason": "correction better: 112.3%→11.2% (improved 101.1%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลยางขี้นก\\หน่วยเลือกตั้งที่ 2\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 89093.0,
+    "new_error": 89093.0,
+    "reason": "original better or equal: 89093.0% vs 89093.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลยางขี้นก\\หน่วยเลือกตั้งที่ 2\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 64.9,
+    "new_error": 64.9,
+    "reason": "original better or equal: 64.9% vs 64.9%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลยางขี้นก\\หน่วยเลือกตั้งที่ 3\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 38.9,
+    "new_error": 38.9,
+    "reason": "original better or equal: 38.9% vs 38.9%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลยางขี้นก\\หน่วยเลือกตั้งที่ 4\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 20.8,
+    "new_error": 20.8,
+    "reason": "original better or equal: 20.8% vs 20.8%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลยางขี้นก\\หน่วยเลือกตั้งที่ 4\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 63.5,
+    "new_error": 63.5,
+    "reason": "original better or equal: 63.5% vs 63.5%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลยางขี้นก\\หน่วยเลือกตั้งที่ 6\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 40.1,
+    "new_error": 40.1,
+    "reason": "original better or equal: 40.1% vs 41.1%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลยางขี้นก\\หน่วยเลือกตั้งที่ 6\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 100.0,
+    "new_error": 100.0,
+    "reason": "original better or equal: 100.0% vs 100.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลยางขี้นก\\หน่วยเลือกตั้งที่ 7\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 156.5,
+    "new_error": 25.9,
+    "reason": "correction better: 156.5%→25.9% (improved 130.6%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลยางขี้นก\\หน่วยเลือกตั้งที่ 8\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 69.1,
+    "new_error": 69.1,
+    "reason": "original better or equal: 69.1% vs 69.5%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลยางขี้นก\\หน่วยเลือกตั้งที่ 9\\5ทับ18 (บช).pdf",
+    "status": "same",
+    "original_error": 42.8,
+    "new_error": 42.8,
+    "reason": "original better or equal: 42.8% vs 42.8%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลศรีสุข\\หน่วยเลือกตั้งที่ 3\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 49.9,
+    "new_error": 49.9,
+    "reason": "original better or equal: 49.9% vs 57.1%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลศรีสุข\\หน่วยเลือกตั้งที่ 4\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 70.0,
+    "new_error": 70.0,
+    "reason": "original better or equal: 70.0% vs 70.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลศรีสุข\\หน่วยเลือกตั้งที่ 5\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 86.9,
+    "new_error": 86.9,
+    "reason": "original better or equal: 86.9% vs 99.6%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลศรีสุข\\หน่วยเลือกตั้งที่ 6\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 934.5,
+    "new_error": 99.7,
+    "reason": "correction better: 934.5%→99.7% (improved 834.8%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลศรีสุข\\หน่วยเลือกตั้งที่ 6\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 63.2,
+    "new_error": 63.2,
+    "reason": "original better or equal: 63.2% vs 63.2%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลศรีสุข\\หน่วยเลือกตั้งที่ 7\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 53.1,
+    "new_error": 50.4,
+    "reason": "correction better: 53.1%→50.4% (improved 2.7%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลศรีสุข\\หน่วยเลือกตั้งที่ 7\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 100.0,
+    "new_error": 100.0,
+    "reason": "original better or equal: 100.0% vs 100.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลศรีสุข\\หน่วยเลือกตั้งที่ 8\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 30.3,
+    "new_error": 30.3,
+    "reason": "original better or equal: 30.3% vs 30.3%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสร้างถ่อ\\หน่วยเลือกตั้งที่ 1\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 141.2,
+    "new_error": 141.2,
+    "reason": "original better or equal: 141.2% vs 158.4%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสร้างถ่อ\\หน่วยเลือกตั้งที่ 10\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 83.2,
+    "new_error": 83.2,
+    "reason": "original better or equal: 83.2% vs 83.2%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสร้างถ่อ\\หน่วยเลือกตั้งที่ 12\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 283.2,
+    "new_error": 283.2,
+    "reason": "original better or equal: 283.2% vs 283.2%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสร้างถ่อ\\หน่วยเลือกตั้งที่ 13\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 108.9,
+    "new_error": 108.9,
+    "reason": "original better or equal: 108.9% vs 108.9%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสร้างถ่อ\\หน่วยเลือกตั้งที่ 14\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 49.1,
+    "new_error": 49.1,
+    "reason": "original better or equal: 49.1% vs 49.1%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสร้างถ่อ\\หน่วยเลือกตั้งที่ 15\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 100.7,
+    "new_error": 100.7,
+    "reason": "original better or equal: 100.7% vs 100.7%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสร้างถ่อ\\หน่วยเลือกตั้งที่ 16\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 110.6,
+    "new_error": 110.6,
+    "reason": "original better or equal: 110.6% vs 113.1%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสร้างถ่อ\\หน่วยเลือกตั้งที่ 17\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 98.5,
+    "new_error": 98.5,
+    "reason": "original better or equal: 98.5% vs 99.3%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสร้างถ่อ\\หน่วยเลือกตั้งที่ 2\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 1090029.0,
+    "new_error": 351.6,
+    "reason": "correction better: 1090029.0%→351.6% (improved 1089677.4%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสร้างถ่อ\\หน่วยเลือกตั้งที่ 4\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 83.6,
+    "new_error": 83.6,
+    "reason": "original better or equal: 83.6% vs 83.6%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสร้างถ่อ\\หน่วยเลือกตั้งที่ 6\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 68.8,
+    "new_error": 68.8,
+    "reason": "original better or equal: 68.8% vs 68.8%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสร้างถ่อ\\หน่วยเลือกตั้งที่ 6\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 100.0,
+    "new_error": 100.0,
+    "reason": "original better or equal: 100.0% vs 100.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสร้างถ่อ\\หน่วยเลือกตั้งที่ 7\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 221.3,
+    "new_error": 216.0,
+    "reason": "correction better: 221.3%→216.0% (improved 5.3%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสร้างถ่อ\\หน่วยเลือกตั้งที่ 9\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 106.0,
+    "new_error": 100.0,
+    "reason": "correction better: 106.0%→100.0% (improved 6.0%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสหธาตุ\\หน่วยเลือกตั้งที่ 1\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 180.6,
+    "new_error": 180.6,
+    "reason": "original better or equal: 180.6% vs 181.7%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสหธาตุ\\หน่วยเลือกตั้งที่ 1\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 99.5,
+    "new_error": 99.5,
+    "reason": "original better or equal: 99.5% vs 99.5%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสหธาตุ\\หน่วยเลือกตั้งที่ 2\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 29.1,
+    "new_error": 29.1,
+    "reason": "original better or equal: 29.1% vs 38.8%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสหธาตุ\\หน่วยเลือกตั้งที่ 3\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 64.3,
+    "new_error": 64.3,
+    "reason": "original better or equal: 64.3% vs 64.3%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสหธาตุ\\หน่วยเลือกตั้งที่ 4\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 99.7,
+    "new_error": 99.7,
+    "reason": "original better or equal: 99.7% vs 99.7%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสหธาตุ\\หน่วยเลือกตั้งที่ 5\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 110.6,
+    "new_error": 110.6,
+    "reason": "original better or equal: 110.6% vs 113.1%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสหธาตุ\\หน่วยเลือกตั้งที่ 6\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 42.6,
+    "new_error": 42.6,
+    "reason": "original better or equal: 42.6% vs 42.6%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสหธาตุ\\หน่วยเลือกตั้งที่ 6\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 61.3,
+    "new_error": 61.3,
+    "reason": "original better or equal: 61.3% vs 61.3%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสหธาตุ\\หน่วยเลือกตั้งที่ 7\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 49.7,
+    "new_error": 49.1,
+    "reason": "correction better: 49.7%→49.1% (improved 0.6%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลสหธาตุ\\หน่วยเลือกตั้งที่ 7\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 100.0,
+    "new_error": 100.0,
+    "reason": "original better or equal: 100.0% vs 100.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลหนองเหล่า\\หน่วยเลือกตั้งที่ 1\\5ทับ18.pdf",
+    "status": "improved",
+    "original_error": 475.0,
+    "new_error": 25.0,
+    "reason": "correction better: 475.0%→25.0% (improved 450.0%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลหนองเหล่า\\หน่วยเลือกตั้งที่ 10\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 162.2,
+    "new_error": 162.2,
+    "reason": "original better or equal: 162.2% vs 162.2%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลหนองเหล่า\\หน่วยเลือกตั้งที่ 11\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 7025.2,
+    "new_error": 78.5,
+    "reason": "correction better: 7025.2%→78.5% (improved 6946.7%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลหนองเหล่า\\หน่วยเลือกตั้งที่ 11\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 66.9,
+    "new_error": 66.9,
+    "reason": "original better or equal: 66.9% vs 66.9%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลหนองเหล่า\\หน่วยเลือกตั้งที่ 5\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 10668173.1,
+    "new_error": 10668173.1,
+    "reason": "original better or equal: 10668173.1% vs 10696859.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลหนองเหล่า\\หน่วยเลือกตั้งที่ 6\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 28.2,
+    "new_error": 28.2,
+    "reason": "original better or equal: 28.2% vs 42.7%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลหนองเหล่า\\หน่วยเลือกตั้งที่ 7\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 895.8,
+    "new_error": 179.1,
+    "reason": "correction better: 895.8%→179.1% (improved 716.8%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลหนองเหล่า\\หน่วยเลือกตั้งที่ 7\\5ทับ18.pdf",
+    "status": "improved",
+    "original_error": 345.5,
+    "new_error": 250.0,
+    "reason": "correction better: 345.5%→250.0% (improved 95.5%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลหนองเหล่า\\หน่วยเลือกตั้งที่ 8\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 9978.5,
+    "new_error": 9978.5,
+    "reason": "original better or equal: 9978.5% vs 10181.8%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลหนองเหล่า\\หน่วยเลือกตั้งที่ 9\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 72.2,
+    "new_error": 72.2,
+    "reason": "original better or equal: 72.2% vs 72.2%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลหัวดอน\\หน่วยเลือกตั้งที่ 3\\5 ทับ 18 (บช).pdf",
+    "status": "improved",
+    "original_error": 710.3,
+    "new_error": 39.2,
+    "reason": "correction better: 710.3%→39.2% (improved 671.1%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลหัวดอน\\หน่วยเลือกตั้งที่ 5\\5 ทับ 18 (บช).pdf",
+    "status": "same",
+    "original_error": 25.8,
+    "new_error": 25.8,
+    "reason": "original better or equal: 25.8% vs 59.3%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลหัวดอน\\หน่วยเลือกตั้งที่ 5\\5 ทับ 18.pdf",
+    "status": "same",
+    "original_error": 7560.0,
+    "new_error": 7560.0,
+    "reason": "original better or equal: 7560.0% vs 7560.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลหัวดอน\\หน่วยเลือกตั้งที่ 7\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 96.3,
+    "new_error": 96.3,
+    "reason": "original better or equal: 96.3% vs 96.3%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลหัวดอน\\หน่วยเลือกตั้งที่ 8\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 1836.0,
+    "new_error": 100.8,
+    "reason": "correction better: 1836.0%→100.8% (improved 1735.2%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลหัวดอน\\หน่วยเลือกตั้งที่ 8\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 71.0,
+    "new_error": 71.0,
+    "reason": "original better or equal: 71.0% vs 71.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลหัวดอน\\หน่วยเลือกตั้งที่ 9\\5ทับ18 (บช).pdf",
+    "status": "improved",
+    "original_error": 52.2,
+    "new_error": 20.8,
+    "reason": "correction better: 52.2%→20.8% (improved 31.4%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลเขื่องใน\\เขตตำบลเขื่องใน\\หน่วยเลือกตั้งที่ 11\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 100.0,
+    "new_error": 100.0,
+    "reason": "original better or equal: 100.0% vs 100.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลเขื่องใน\\เขตตำบลเขื่องใน\\หน่วยเลือกตั้งที่ 12\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 99.7,
+    "new_error": 99.7,
+    "reason": "original better or equal: 99.7% vs 99.7%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลเขื่องใน\\เขตตำบลเขื่องใน\\หน่วยเลือกตั้งที่ 13\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 100.7,
+    "new_error": 100.7,
+    "reason": "original better or equal: 100.7% vs 103.1%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลเขื่องใน\\เขตตำบลเขื่องใน\\หน่วยเลือกตั้งที่ 13\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 100.0,
+    "new_error": 100.0,
+    "reason": "original better or equal: 100.0% vs 101.9%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลเขื่องใน\\เขตตำบลเขื่องใน\\หน่วยเลือกตั้งที่ 7\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 29.9,
+    "new_error": 23.9,
+    "reason": "correction better: 29.9%→23.9% (improved 6.0%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลเขื่องใน\\เขตตำบลเขื่องใน\\หน่วยเลือกตั้งที่ 9\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 42.4,
+    "new_error": 42.4,
+    "reason": "original better or equal: 42.4% vs 44.4%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลเขื่องใน\\เขตเทศบาล และนอกเขต\\หน่วยเลือกตั้งที่ 1 (เทศบาล)\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 63.9,
+    "new_error": 15.3,
+    "reason": "correction better: 63.9%→15.3% (improved 48.6%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลเขื่องใน\\เขตเทศบาล และนอกเขต\\หน่วยเลือกตั้งที่ 3 (เทศบาล)\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 3301.3,
+    "new_error": 3301.3,
+    "reason": "original better or equal: 3301.3% vs 3301.3%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลเขื่องใน\\เขตเทศบาล และนอกเขต\\หน่วยเลือกตั้งที่ 4 (เทศบาล)\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 142.9,
+    "new_error": 142.9,
+    "reason": "original better or equal: 142.9% vs 142.9%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลเขื่องใน\\เขตเทศบาล และนอกเขต\\หน่วยเลือกตั้งที่ 5 (เทศบาล)\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 28.5,
+    "new_error": 23.9,
+    "reason": "correction better: 28.5%→23.9% (improved 4.6%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลเขื่องใน\\เขตเทศบาล และนอกเขต\\หน่วยเลือกตั้งที่ 6 (เทศบาล)\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 35.1,
+    "new_error": 33.8,
+    "reason": "correction better: 35.1%→33.8% (improved 1.4%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลเขื่องใน\\เขตเทศบาล และนอกเขต\\หน่วยเลือกตั้งที่ 8 (เทศบาล)\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 333.2,
+    "new_error": 333.2,
+    "reason": "original better or equal: 333.2% vs 333.2%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลแดงหม้อ\\หน่วยเลือกตั้งที่ 1\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 356.0,
+    "new_error": 356.0,
+    "reason": "original better or equal: 356.0% vs 356.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลแดงหม้อ\\หน่วยเลือกตั้งที่ 2\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 74.1,
+    "new_error": 74.1,
+    "reason": "original better or equal: 74.1% vs 81.9%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลแดงหม้อ\\หน่วยเลือกตั้งที่ 2\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 98.7,
+    "new_error": 98.7,
+    "reason": "original better or equal: 98.7% vs 98.7%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลแดงหม้อ\\หน่วยเลือกตั้งที่ 3\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 93.3,
+    "new_error": 93.3,
+    "reason": "original better or equal: 93.3% vs 93.3%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลแดงหม้อ\\หน่วยเลือกตั้งที่ 5\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 36.0,
+    "new_error": 36.0,
+    "reason": "original better or equal: 36.0% vs 36.9%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลแดงหม้อ\\หน่วยเลือกตั้งที่ 6\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 527.7,
+    "new_error": 527.7,
+    "reason": "original better or equal: 527.7% vs 527.7%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลโนนรัง\\หน่วยเลือกตั้งที่ 1\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 61.7,
+    "new_error": 60.1,
+    "reason": "correction better: 61.7%→60.1% (improved 1.6%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลโนนรัง\\หน่วยเลือกตั้งที่ 2\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 104.7,
+    "new_error": 100.9,
+    "reason": "correction better: 104.7%→100.9% (improved 3.7%)"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลโนนรัง\\หน่วยเลือกตั้งที่ 3\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 29.7,
+    "new_error": 29.7,
+    "reason": "original better or equal: 29.7% vs 32.4%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลโนนรัง\\หน่วยเลือกตั้งที่ 4\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 74.3,
+    "new_error": 74.3,
+    "reason": "original better or equal: 74.3% vs 74.3%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลโนนรัง\\หน่วยเลือกตั้งที่ 5\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 86.6,
+    "new_error": 86.6,
+    "reason": "original better or equal: 86.6% vs 86.6%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลโนนรัง\\หน่วยเลือกตั้งที่ 5\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 100.0,
+    "new_error": 100.0,
+    "reason": "original better or equal: 100.0% vs 100.0%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลโนนรัง\\หน่วยเลือกตั้งที่ 6\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 70.9,
+    "new_error": 70.9,
+    "reason": "original better or equal: 70.9% vs 70.9%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลโนนรัง\\หน่วยเลือกตั้งที่ 7\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 5627.3,
+    "new_error": 5627.3,
+    "reason": "original better or equal: 5627.3% vs 5627.3%"
+  },
+  {
+    "file": "rawData\\อำเภอเขื่องใน\\ตำบลโนนรัง\\หน่วยเลือกตั้งที่ 7\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 99.7,
+    "new_error": 99.7,
+    "reason": "original better or equal: 99.7% vs 99.7%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลขี้เหล็ก\\ตำบลขี้เหล็ก\\หน่วยเลือกตั้งที่ 10\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 125075.0,
+    "new_error": 110755.7,
+    "reason": "correction better: 125075.0%→110755.7% (improved 14319.3%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลขี้เหล็ก\\ตำบลขี้เหล็ก\\หน่วยเลือกตั้งที่ 10\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 116.9,
+    "new_error": 116.9,
+    "reason": "original better or equal: 116.9% vs 116.9%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลขี้เหล็ก\\ตำบลขี้เหล็ก\\หน่วยเลือกตั้งที่ 11\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 596.2,
+    "new_error": 596.2,
+    "reason": "original better or equal: 596.2% vs 596.2%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลขี้เหล็ก\\ตำบลขี้เหล็ก\\หน่วยเลือกตั้งที่ 2\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 1010.2,
+    "new_error": 1010.2,
+    "reason": "original better or equal: 1010.2% vs 1010.2%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลขี้เหล็ก\\ตำบลขี้เหล็ก\\หน่วยเลือกตั้งที่ 3\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 33.0,
+    "new_error": 33.0,
+    "reason": "original better or equal: 33.0% vs 33.0%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลขี้เหล็ก\\ตำบลขี้เหล็ก\\หน่วยเลือกตั้งที่ 4\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 42.0,
+    "new_error": 42.0,
+    "reason": "original better or equal: 42.0% vs 42.0%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลขี้เหล็ก\\ตำบลขี้เหล็ก\\หน่วยเลือกตั้งที่ 6\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 1584.4,
+    "new_error": 1011.8,
+    "reason": "correction better: 1584.4%→1011.8% (improved 572.5%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลขี้เหล็ก\\ตำบลขี้เหล็ก\\หน่วยเลือกตั้งที่ 7\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 84.1,
+    "new_error": 84.1,
+    "reason": "original better or equal: 84.1% vs 84.1%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลขี้เหล็ก\\ตำบลขี้เหล็ก\\หน่วยเลือกตั้งที่ 8\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 101.4,
+    "new_error": 101.4,
+    "reason": "original better or equal: 101.4% vs 101.4%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลขี้เหล็ก\\ตำบลขี้เหล็ก\\หน่วยเลือกตั้งที่ 9\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 99.6,
+    "new_error": 99.6,
+    "reason": "original better or equal: 99.6% vs 99.6%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลปะอาว\\ตำบลปะอาว\\หน่วยเลือกตั้งที่ 3\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 24.7,
+    "new_error": 24.7,
+    "reason": "original better or equal: 24.7% vs 27.0%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลปะอาว\\ตำบลปะอาว\\หน่วยเลือกตั้งที่ 7\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 74.2,
+    "new_error": 70.8,
+    "reason": "correction better: 74.2%→70.8% (improved 3.4%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลปะอาว\\ตำบลปะอาว\\หน่วยเลือกตั้งที่ 8\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 125.0,
+    "new_error": 119.9,
+    "reason": "correction better: 125.0%→119.9% (improved 5.1%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลปะอาว\\ตำบลปะอาว\\หน่วยเลือกตั้งที่ 9\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 24.2,
+    "new_error": 24.2,
+    "reason": "original better or equal: 24.2% vs 24.2%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลปะอาว\\ตำบลปะอาว\\หน่วยเลือกตั้งที่ 9\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 27.3,
+    "new_error": 27.3,
+    "reason": "original better or equal: 27.3% vs 27.3%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหนองขอน\\หน่วยเลือกตั้งที่ 1\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 92.1,
+    "new_error": 2.5,
+    "reason": "correction better: 92.1%→2.5% (improved 89.5%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหนองขอน\\หน่วยเลือกตั้งที่ 10\\5ทับ18  (บช).pdf",
+    "status": "same",
+    "original_error": 86.9,
+    "new_error": 86.9,
+    "reason": "correction lost rows (93→52) → keeping original"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหนองขอน\\หน่วยเลือกตั้งที่ 12\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 87.6,
+    "new_error": 85.7,
+    "reason": "correction better: 87.6%→85.7% (improved 1.9%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหนองขอน\\หน่วยเลือกตั้งที่ 13\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 93.7,
+    "new_error": 92.7,
+    "reason": "correction better: 93.7%→92.7% (improved 1.0%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหนองขอน\\หน่วยเลือกตั้งที่ 14\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 63.7,
+    "new_error": 63.7,
+    "reason": "correction lost rows (43→23) → keeping original"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหนองขอน\\หน่วยเลือกตั้งที่ 15\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 113.9,
+    "new_error": 52.5,
+    "reason": "correction better: 113.9%→52.5% (improved 61.4%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหนองขอน\\หน่วยเลือกตั้งที่ 16\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 34385.0,
+    "new_error": 34362.8,
+    "reason": "correction better: 34385.0%→34362.8% (improved 22.1%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหนองขอน\\หน่วยเลือกตั้งที่ 2\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 25000.0,
+    "new_error": 25000.0,
+    "reason": "original better or equal: 25000.0% vs 29500.0%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหนองขอน\\หน่วยเลือกตั้งที่ 3\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 77.8,
+    "new_error": 77.8,
+    "reason": "original better or equal: 77.8% vs 887.7%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหนองขอน\\หน่วยเลือกตั้งที่ 4\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 40.7,
+    "new_error": 24.8,
+    "reason": "correction better: 40.7%→24.8% (improved 15.9%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหนองขอน\\หน่วยเลือกตั้งที่ 5\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 248.6,
+    "new_error": 61.2,
+    "reason": "correction better: 248.6%→61.2% (improved 187.4%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหนองขอน\\หน่วยเลือกตั้งที่ 6\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 24.8,
+    "new_error": 24.1,
+    "reason": "correction better: 24.8%→24.1% (improved 0.6%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหนองขอน\\หน่วยเลือกตั้งที่ 9\\5ทับ18 ( บช).pdf",
+    "status": "improved",
+    "original_error": 90.9,
+    "new_error": 27.3,
+    "reason": "correction better: 90.9%→27.3% (improved 63.6%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหัวเรือ\\ตำบลหัวเรือ\\หน่วยเลือกตั้งที่1\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 46.2,
+    "new_error": 46.2,
+    "reason": "original better or equal: 46.2% vs 46.2%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหัวเรือ\\ตำบลหัวเรือ\\หน่วยเลือกตั้งที่10\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 25.9,
+    "new_error": 25.9,
+    "reason": "original better or equal: 25.9% vs 25.9%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหัวเรือ\\ตำบลหัวเรือ\\หน่วยเลือกตั้งที่11\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 27.2,
+    "new_error": 27.2,
+    "reason": "original better or equal: 27.2% vs 27.2%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหัวเรือ\\ตำบลหัวเรือ\\หน่วยเลือกตั้งที่12\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 184.5,
+    "new_error": 5.0,
+    "reason": "correction better: 184.5%→5.0% (improved 179.5%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหัวเรือ\\ตำบลหัวเรือ\\หน่วยเลือกตั้งที่13\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 33.1,
+    "new_error": 29.7,
+    "reason": "correction better: 33.1%→29.7% (improved 3.4%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหัวเรือ\\ตำบลหัวเรือ\\หน่วยเลือกตั้งที่13\\5ทับ18.pdf",
+    "status": "improved",
+    "original_error": 86.5,
+    "new_error": 0.0,
+    "reason": "correction better: 86.5%→0.0% (improved 86.5%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหัวเรือ\\ตำบลหัวเรือ\\หน่วยเลือกตั้งที่14\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 125.4,
+    "new_error": 125.4,
+    "reason": "original better or equal: 125.4% vs 125.4%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหัวเรือ\\ตำบลหัวเรือ\\หน่วยเลือกตั้งที่15\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 110.2,
+    "new_error": 11.5,
+    "reason": "correction better: 110.2%→11.5% (improved 98.7%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหัวเรือ\\ตำบลหัวเรือ\\หน่วยเลือกตั้งที่16\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 52.8,
+    "new_error": 52.8,
+    "reason": "original better or equal: 52.8% vs 63.4%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหัวเรือ\\ตำบลหัวเรือ\\หน่วยเลือกตั้งที่16\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 99.7,
+    "new_error": 99.7,
+    "reason": "original better or equal: 99.7% vs 99.7%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหัวเรือ\\ตำบลหัวเรือ\\หน่วยเลือกตั้งที่3\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 120.0,
+    "new_error": 43.0,
+    "reason": "correction better: 120.0%→43.0% (improved 77.0%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหัวเรือ\\ตำบลหัวเรือ\\หน่วยเลือกตั้งที่3\\5ทับ18.pdf",
+    "status": "improved",
+    "original_error": 121.4,
+    "new_error": 0.0,
+    "reason": "correction better: 121.4%→0.0% (improved 121.4%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหัวเรือ\\ตำบลหัวเรือ\\หน่วยเลือกตั้งที่4\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 3492.4,
+    "new_error": 23.9,
+    "reason": "correction better: 3492.4%→23.9% (improved 3468.5%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหัวเรือ\\ตำบลหัวเรือ\\หน่วยเลือกตั้งที่5\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 112.3,
+    "new_error": 112.3,
+    "reason": "original better or equal: 112.3% vs 116.5%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหัวเรือ\\ตำบลหัวเรือ\\หน่วยเลือกตั้งที่6\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 3718.2,
+    "new_error": 3718.2,
+    "reason": "original better or equal: 3718.2% vs 3718.2%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหัวเรือ\\ตำบลหัวเรือ\\หน่วยเลือกตั้งที่7\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 37.4,
+    "new_error": 37.4,
+    "reason": "original better or equal: 37.4% vs 37.4%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหัวเรือ\\ตำบลหัวเรือ\\หน่วยเลือกตั้งที่9\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 2464.1,
+    "new_error": 2464.1,
+    "reason": "original better or equal: 2464.1% vs 2464.1%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\ตำบลหัวเรือ\\ตำบลหัวเรือ\\หน่วยเลือกตั้งที่9\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 189.1,
+    "new_error": 189.1,
+    "reason": "original better or equal: 189.1% vs 189.1%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 1\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 26.9,
+    "new_error": 26.9,
+    "reason": "original better or equal: 26.9% vs 26.9%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 10\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 99.3,
+    "new_error": 99.3,
+    "reason": "original better or equal: 99.3% vs 99.6%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 11\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 22.4,
+    "new_error": 1.1,
+    "reason": "correction better: 22.4%→1.1% (improved 21.4%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 12\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 49.0,
+    "new_error": 49.0,
+    "reason": "original better or equal: 49.0% vs 49.0%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 13\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 114.8,
+    "new_error": 114.8,
+    "reason": "original better or equal: 114.8% vs 114.8%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 13\\5ทับ18.pdf",
+    "status": "improved",
+    "original_error": 117.0,
+    "new_error": 8.5,
+    "reason": "correction better: 117.0%→8.5% (improved 108.5%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 14\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 89.2,
+    "new_error": 89.2,
+    "reason": "original better or equal: 89.2% vs 89.2%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 18\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 110.7,
+    "new_error": 110.7,
+    "reason": "original better or equal: 110.7% vs 110.7%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 19\\5ทับ18.pdf",
+    "status": "improved",
+    "original_error": 32302.2,
+    "new_error": 39.6,
+    "reason": "correction better: 32302.2%→39.6% (improved 32262.6%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 2\\5ทับ18.pdf",
+    "status": "improved",
+    "original_error": 167.3,
+    "new_error": 0.0,
+    "reason": "correction better: 167.3%→0.0% (improved 167.3%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 20\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 27.2,
+    "new_error": 27.2,
+    "reason": "original better or equal: 27.2% vs 27.2%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 23\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 54.7,
+    "new_error": 54.7,
+    "reason": "original better or equal: 54.7% vs 63.7%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 24\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 74.8,
+    "new_error": 74.8,
+    "reason": "original better or equal: 74.8% vs 74.8%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 25\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 80.4,
+    "new_error": 80.4,
+    "reason": "original better or equal: 80.4% vs 80.7%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 27\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 57.1,
+    "new_error": 57.1,
+    "reason": "original better or equal: 57.1% vs 99.5%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 28\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 181.2,
+    "new_error": 181.2,
+    "reason": "original better or equal: 181.2% vs 181.2%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 29\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 930.3,
+    "new_error": 930.3,
+    "reason": "original better or equal: 930.3% vs 1212.1%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 3\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 47.6,
+    "new_error": 47.6,
+    "reason": "original better or equal: 47.6% vs 47.6%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 35\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 435.5,
+    "new_error": 435.5,
+    "reason": "original better or equal: 435.5% vs 435.5%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 38\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 40.3,
+    "new_error": 40.3,
+    "reason": "original better or equal: 40.3% vs 40.3%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 39\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 930.3,
+    "new_error": 930.3,
+    "reason": "original better or equal: 930.3% vs 930.3%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 44\\5ทับ18(บช).pdf",
+    "status": "improved",
+    "original_error": 52.6,
+    "new_error": 45.2,
+    "reason": "correction better: 52.6%→45.2% (improved 7.4%)"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 6\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 57.1,
+    "new_error": 57.1,
+    "reason": "original better or equal: 57.1% vs 59.3%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 8\\5ทับ18.pdf",
+    "status": "same",
+    "original_error": 43.0,
+    "new_error": 43.0,
+    "reason": "original better or equal: 43.0% vs 43.0%"
+  },
+  {
+    "file": "rawData\\เขต 2 อ.เมืองฯ\\เขตไร่น้อย\\เขตไร่น้อย\\หน่วยเลือกตั้งที่ 9\\5ทับ18(บช).pdf",
+    "status": "same",
+    "original_error": 12025.0,
+    "new_error": 12025.0,
+    "reason": "original better or equal: 12025.0% vs 12025.0%"
+  }
+]
