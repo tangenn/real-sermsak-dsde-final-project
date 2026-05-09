@@ -1,0 +1,8 @@
+theme,election_type,insight
+overall_participation,constituency,"constituency turnout rate is 57.44%, spoiled ballot rate is 3.33%, and abstain rate is 4.92%."
+overall_participation,party_list,"party_list turnout rate is 57.33%, spoiled ballot rate is 6.28%, and abstain rate is 3.55%."
+party_dominance,constituency,"ไทรวมพลัง is the leading party in constituency with 24,934 votes (40.87%)."
+party_dominance,party_list,"ประชาชน is the leading party in party_list with 7,919 votes (18.81%)."
+split_ticket,comparison,Constituency and party-list winners are the same in 41.67% of comparable subdistricts.
+competitiveness,constituency,14.71% of constituency polling stations have a winner margin of 5 percentage points or less.
+competitiveness,party_list,29.58% of party-list polling stations have a winner margin of 5 percentage points or less.
