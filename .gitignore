@@ -30,3 +30,5 @@ recent_data/*
 
 # Generated analysis outputs
 analysis_outputs/
+
+requirements.txt

@@ -791,6 +791,13 @@ def _wide_summary(df):
         "abstain_ballots": int(_to_number(df.get("abstain_ballots", pd.Series(dtype=float))).sum()),
     }
 
+def _format_turnout_rate(summary):
+    eligible = summary.get("eligible_voters") or 0
+    turnout = summary.get("turnout") or 0
+    if not eligible:
+        return "-"
+    return f"{turnout / eligible * 100:.1f}%"
+
 def _drop_impossible_rate_units(df):
     if not {"eligible_voters", "turnout"}.issubset(df.columns):
         return df.copy()
@@ -841,6 +848,8 @@ def load_wide_dashboard_data():
         "recent_const_units": _wide_area_winners(recent_const_raw, recent_const_cols, level="unit"),
         "recent_summary": _wide_summary(recent_const_raw),
         "recent_pl_summary": _wide_summary(recent_pl_raw),
+        "prev_summary": _wide_summary(prev_const_raw),
+        "prev_pl_summary": _wide_summary(prev_pl_raw),
     }
     return data
 
@@ -1118,19 +1127,25 @@ def render_map_comparison_page(wide_data):
         prev_totals_key = "prev_pl_totals"
         recent_tambon_key = "recent_pl_tambon"
         prev_tambon_key = "prev_pl_tambon"
+        recent_summary_key = "recent_pl_summary"
+        prev_summary_key = "prev_pl_summary"
     else:
         recent_totals_key = "recent_const_totals"
         prev_totals_key = "prev_const_totals"
         recent_tambon_key = "recent_const_tambon"
         prev_tambon_key = "prev_const_tambon"
+        recent_summary_key = "recent_summary"
+        prev_summary_key = "prev_summary"
 
     recent_winner, _, recent_margin, recent_margin_pct = get_top_two_metrics(wide_data[recent_totals_key])
     prev_winner, _, prev_margin, prev_margin_pct = get_top_two_metrics(wide_data[prev_totals_key])
+    recent_turnout_rate = _format_turnout_rate(wide_data[recent_summary_key])
+    prev_turnout_rate = _format_turnout_rate(wide_data[prev_summary_key])
     m1, m2, m3, m4 = st.columns(4)
     m1.metric("ปีนี้", str(recent_winner["party"]), f"{int(recent_winner['votes']):,} votes")
-    m2.metric("ส่วนต่างปีนี้", f"{recent_margin:,}", f"{recent_margin_pct:.1f}%")
+    m2.metric("Turnout rate ปีนี้", recent_turnout_rate)
     m3.metric("ปี66", str(prev_winner["party"]), f"{int(prev_winner['votes']):,} votes")
-    m4.metric("ส่วนต่างปี66", f"{prev_margin:,}", f"{prev_margin_pct:.1f}%")
+    m4.metric("Turnout rate ปี66", prev_turnout_rate)
 
     st.divider()
     left, right = st.columns(2)
@@ -1222,13 +1237,13 @@ def render_ubon2_comparison_page(recent_df, recent_party_list_df, historical_df,
         selected_historical = historical_party_list_df
         previous_label = "Previous party-list votes"
         chart_title = "ปี66 vs ปีนี้: บัญชีรายชื่อ"
-        subheader = "บัญชีรายชื่อ: Top 10 ปีนี้"
+        subheader = "บัญชีรายชื่อ: Top 10"
     else:
         selected_recent = recent_df
         selected_historical = historical_df
         previous_label = "Previous constituency votes"
         chart_title = "ปี66 vs ปีนี้: แบ่งเขต"
-        subheader = "แบ่งเขต: Top 10 ปีนี้"
+        subheader = "แบ่งเขต: Top 10"
 
     recent_winner, _, recent_margin, recent_margin_pct = get_top_two_metrics(selected_recent)
     hist_winner, _, hist_margin, hist_margin_pct = get_top_two_metrics(selected_historical)
