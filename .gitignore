@@ -19,5 +19,14 @@ env/
 .env
 
 #data
-previous_data/
-recent_data/
+previous_data/*
+recent_data/*
+!previous_data/ubon_2_constituency_2566.csv
+!previous_data/ubon_2_partylist_2566.csv
+!recent_data/constituency_wide.csv
+!recent_data/party_list_wide.csv
+!recent_data/thai_subdistrict_coords.csv
+!recent_data/ubon_tambon_boundaries.geojson
+
+# Generated analysis outputs
+analysis_outputs/
