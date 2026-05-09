@@ -756,6 +756,7 @@ def _wide_area_winners(df, vote_cols, prefix="", level="tambon"):
             party = _party_from_previous_col(col, prefix) if prefix else _party_from_recent_col(col)
             scores.append((party, int(row.get(col, 0) or 0)))
         scores.sort(key=lambda item: item[1], reverse=True)
+        total_votes = sum(votes for _, votes in scores)
         winner_party, winner_votes = scores[0] if scores else ("-", 0)
         runner_party, runner_votes = scores[1] if len(scores) > 1 else ("-", 0)
         item = {
@@ -766,6 +767,8 @@ def _wide_area_winners(df, vote_cols, prefix="", level="tambon"):
             "party": winner_party,
             "votes": winner_votes,
             "winner_votes": winner_votes,
+            "total_votes": total_votes,
+            "winner_share_pct": winner_votes / total_votes * 100 if total_votes else 0,
             "runner_up_party": runner_party,
             "runner_up_votes": runner_votes,
             "margin_votes": winner_votes - runner_votes,
@@ -857,6 +860,10 @@ def make_tambon_winner_deck(area_df):
     map_df = area_df.dropna(subset=["lat", "lon"]).copy()
     live_party_colors = _party_color_map(map_df["party"])
     map_df["fill_color"] = map_df["party"].map(live_party_colors).apply(lambda x: x if isinstance(x, list) else DEFAULT_FILL)
+    if "winner_share_pct" in map_df.columns:
+        map_df["winner_share_label"] = map_df["winner_share_pct"].map(lambda value: f"{float(value or 0):.1f}%")
+    else:
+        map_df["winner_share_label"] = "-"
     center_lat = float(map_df["lat"].mean()) if not map_df.empty else UBON_CENTER["lat"]
     center_lon = float(map_df["lon"].mean()) if not map_df.empty else UBON_CENTER["lon"]
     layer = pdk.Layer(
@@ -882,6 +889,7 @@ def make_tambon_winner_deck(area_df):
             "<div>Winner: <b>{name}</b></div>"
             "<div>Party: <b>{party}</b></div>"
             "<div>Winner votes: {winner_votes}</div>"
+            "<div>Winner share: {winner_share_label}</div>"
             "</div>"
         ),
         "style": {"backgroundColor": "#131921", "color": "#f6f6f6", "padding": "10px 12px"},
@@ -924,6 +932,8 @@ def make_tambon_boundary_deck(area_df, party_colors):
                 "winner_name": result.get("name", "-"),
                 "winner_party": result.get("party", "-"),
                 "winner_votes": int(result.get("winner_votes", result.get("votes", 0)) or 0),
+                "total_votes": int(result.get("total_votes", 0) or 0),
+                "winner_share_pct": f"{float(result.get('winner_share_pct', 0) or 0):.1f}%",
                 "fill_r": fill[0],
                 "fill_g": fill[1],
                 "fill_b": fill[2],
@@ -970,6 +980,7 @@ def make_tambon_boundary_deck(area_df, party_colors):
             "<div>Winner: <b>{winner_name}</b></div>"
             "<div>Party: <b>{winner_party}</b></div>"
             "<div>Winner votes: {winner_votes}</div>"
+            "<div>Winner share: {winner_share_pct}</div>"
             "</div>"
         ),
         "style": {"backgroundColor": "#131921", "color": "#f6f6f6", "padding": "10px 12px"},
@@ -1157,8 +1168,43 @@ def render_map_comparison_page(wide_data):
         render_tambon_map_card(wide_data[prev_tambon_key], height=650)
     st.caption("Hover each tambon polygon to see the winner, party, and vote total. Colors use the party color mapping in the dashboard.")
 
-def render_grouped_bar_page(recent_const_totals, recent_pl_totals):
+def _tambon_filter_options(wide_data):
+    source = pd.concat(
+        [
+            wide_data["recent_const_raw"][["amphoe", "tambon"]],
+            wide_data["recent_pl_raw"][["amphoe", "tambon"]],
+        ],
+        ignore_index=True,
+    ).drop_duplicates()
+    source["label"] = source["amphoe"].astype(str) + " / " + source["tambon"].astype(str)
+    source = source.sort_values(["amphoe", "tambon"])
+    options = [("ทั้งหมด", None, None)]
+    options.extend((row["label"], row["amphoe"], row["tambon"]) for row in source.to_dict("records"))
+    return options
+
+def _recent_totals_for_scope(df, amphoe, tambon):
+    scoped = df
+    if amphoe is not None and tambon is not None:
+        scoped = scoped[
+            scoped["amphoe"].astype(str).eq(str(amphoe))
+            & scoped["tambon"].astype(str).eq(str(tambon))
+        ]
+    return _wide_party_totals(scoped, _recent_vote_columns(scoped))
+
+def render_grouped_bar_page(wide_data):
     st.header("แบ่งเขต vs บัญชีรายชื่อ")
+    tambon_options = _tambon_filter_options(wide_data)
+    selected_label = st.selectbox(
+        "เลือกตำบล",
+        [option[0] for option in tambon_options],
+        index=0,
+        key="grouped_bar_tambon",
+    )
+    selected = next(option for option in tambon_options if option[0] == selected_label)
+    _, selected_amphoe, selected_tambon = selected
+    recent_const_totals = _recent_totals_for_scope(wide_data["recent_const_raw"], selected_amphoe, selected_tambon)
+    recent_pl_totals = _recent_totals_for_scope(wide_data["recent_pl_raw"], selected_amphoe, selected_tambon)
+
     const = recent_const_totals[["party", "votes"]].rename(columns={"votes": "แบ่งเขต"})
     pl = recent_pl_totals[["party", "votes"]].rename(columns={"votes": "บัญชีรายชื่อ"})
     merged = const.merge(pl, on="party", how="outer").fillna(0)
@@ -1183,6 +1229,7 @@ def render_grouped_bar_page(recent_const_totals, recent_pl_totals):
     fig.update_layout(height=620, margin={"r": 20, "t": 10, "l": 0, "b": 80})
     fig.update_xaxes(tickangle=-35)
     st.plotly_chart(fig, width="stretch")
+    st.caption(f"Showing: {selected_label}")
 
 def render_unit_treemap_page(unit_df):
     st.header("หน่วยเลือกตั้ง: Treemap")
@@ -1573,7 +1620,7 @@ with main_tab2:
 
 # --- TAB 3: Grouped Bar ---
 with main_tab3:
-    render_grouped_bar_page(wide_data["recent_const_totals"], wide_data["recent_pl_totals"])
+    render_grouped_bar_page(wide_data)
 
 # --- TAB 4: Unit Treemap ---
 with main_tab4:
